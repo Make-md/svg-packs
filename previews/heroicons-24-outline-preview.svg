@@ -1,338 +1,330 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+<svg width="448" height="368" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
-  <rect width="800" height="600" fill="#ffffff"/>
-  
-  <!-- Header Background -->
-  <rect width="800" height="80" fill="#f8f9fa"/>
-  
-  <!-- Title -->
-  <text x="400" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="bold" fill="#212529">Heroicons - 24-outline</text>
-  
-  <!-- Subtitle -->
-  <text x="400" y="55" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#6c757d">648 icons</text>
+  <rect width="448" height="368" fill="#1a1a1a"/>
   
   <!-- Icon Grid -->
   <!-- Icon 1: x-mark -->
-  <g transform="translate(196, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(20, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M6 18L18 6M6 6L18 18" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 18L18 6M6 6L18 18"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 2: underline -->
-  <g transform="translate(256, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(80, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M17.9953 3.74414V11.2449C17.9953 14.5589 15.3091 17.2454 11.9954 17.2454C8.6818 17.2454 5.99556 14.5589 5.99556 11.2449V3.74414M3.74561 20.2457H20.2453" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.9953 3.74414V11.2449C17.9953 14.5589 15.3091 17.2454 11.9954 17.2454C8.6818 17.2454 5.99556 14.5589 5.99556 11.2449V3.74414M3.74561 20.2457H20.2453"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 3: speaker-x-mark -->
-  <g transform="translate(316, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(140, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M17.25 9.74999L19.5 12M19.5 12L21.75 14.25M19.5 12L21.75 9.74999M19.5 12L17.25 14.25M6.75 8.24999L11.4697 3.53032C11.9421 3.05784 12.75 3.39247 12.75 4.06065V19.9393C12.75 20.6075 11.9421 20.9421 11.4697 20.4697L6.75 15.75H4.50905C3.62971 15.75 2.8059 15.2435 2.57237 14.3957C2.36224 13.6329 2.25 12.8296 2.25 12C2.25 11.1704 2.36224 10.367 2.57237 9.60423C2.8059 8.75646 3.62971 8.24999 4.50905 8.24999H6.75Z" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.25 9.74999L19.5 12M19.5 12L21.75 14.25M19.5 12L21.75 9.74999M19.5 12L17.25 14.25M6.75 8.24999L11.4697 3.53032C11.9421 3.05784 12.75 3.39247 12.75 4.06065V19.9393C12.75 20.6075 11.9421 20.9421 11.4697 20.4697L6.75 15.75H4.50905C3.62971 15.75 2.8059 15.2435 2.57237 14.3957C2.36224 13.6329 2.25 12.8296 2.25 12C2.25 11.1704 2.36224 10.367 2.57237 9.60423C2.8059 8.75646 3.62971 8.24999 4.50905 8.24999H6.75Z"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 4: rectangle-group -->
-  <g transform="translate(376, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(200, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M2.25 7.125C2.25 6.50368 2.75368 6 3.375 6H9.375C9.99632 6 10.5 6.50368 10.5 7.125V10.875C10.5 11.4963 9.99632 12 9.375 12H3.375C2.75368 12 2.25 11.4963 2.25 10.875V7.125Z" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M14.25 8.625C14.25 8.00368 14.7537 7.5 15.375 7.5H20.625C21.2463 7.5 21.75 8.00368 21.75 8.625V16.875C21.75 17.4963 21.2463 18 20.625 18H15.375C14.7537 18 14.25 17.4963 14.25 16.875V8.625Z" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M3.75 16.125C3.75 15.5037 4.25368 15 4.875 15H10.125C10.7463 15 11.25 15.5037 11.25 16.125V18.375C11.25 18.9963 10.7463 19.5 10.125 19.5H4.875C4.25368 19.5 3.75 18.9963 3.75 18.375V16.125Z" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.25 7.125C2.25 6.50368 2.75368 6 3.375 6H9.375C9.99632 6 10.5 6.50368 10.5 7.125V10.875C10.5 11.4963 9.99632 12 9.375 12H3.375C2.75368 12 2.25 11.4963 2.25 10.875V7.125Z"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.25 8.625C14.25 8.00368 14.7537 7.5 15.375 7.5H20.625C21.2463 7.5 21.75 8.00368 21.75 8.625V16.875C21.75 17.4963 21.2463 18 20.625 18H15.375C14.7537 18 14.25 17.4963 14.25 16.875V8.625Z"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3.75 16.125C3.75 15.5037 4.25368 15 4.875 15H10.125C10.7463 15 11.25 15.5037 11.25 16.125V18.375C11.25 18.9963 10.7463 19.5 10.125 19.5H4.875C4.25368 19.5 3.75 18.9963 3.75 18.375V16.125Z"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 5: photo -->
-  <g transform="translate(436, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(260, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M2.25 15.75L7.40901 10.591C8.28769 9.71231 9.71231 9.71231 10.591 10.591L15.75 15.75M14.25 14.25L15.659 12.841C16.5377 11.9623 17.9623 11.9623 18.841 12.841L21.75 15.75M3.75 19.5H20.25C21.0784 19.5 21.75 18.8284 21.75 18V6C21.75 5.17157 21.0784 4.5 20.25 4.5H3.75C2.92157 4.5 2.25 5.17157 2.25 6V18C2.25 18.8284 2.92157 19.5 3.75 19.5ZM14.25 8.25H14.2575V8.2575H14.25V8.25ZM14.625 8.25C14.625 8.45711 14.4571 8.625 14.25 8.625C14.0429 8.625 13.875 8.45711 13.875 8.25C13.875 8.04289 14.0429 7.875 14.25 7.875C14.4571 7.875 14.625 8.04289 14.625 8.25Z" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.25 15.75L7.40901 10.591C8.28769 9.71231 9.71231 9.71231 10.591 10.591L15.75 15.75M14.25 14.25L15.659 12.841C16.5377 11.9623 17.9623 11.9623 18.841 12.841L21.75 15.75M3.75 19.5H20.25C21.0784 19.5 21.75 18.8284 21.75 18V6C21.75 5.17157 21.0784 4.5 20.25 4.5H3.75C2.92157 4.5 2.25 5.17157 2.25 6V18C2.25 18.8284 2.92157 19.5 3.75 19.5ZM14.25 8.25H14.2575V8.2575H14.25V8.25ZM14.625 8.25C14.625 8.45711 14.4571 8.625 14.25 8.625C14.0429 8.625 13.875 8.45711 13.875 8.25C13.875 8.04289 14.0429 7.875 14.25 7.875C14.4571 7.875 14.625 8.04289 14.625 8.25Z"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 6: minus -->
-  <g transform="translate(496, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(320, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M5 12H19" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5 12H19"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 7: language -->
-  <g transform="translate(556, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(380, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M10.5 21L15.75 9.75L21 21M12 18H19.5M3 5.62136C4.96557 5.37626 6.96804 5.25 9 5.25M9 5.25C10.1208 5.25 11.2326 5.28841 12.3343 5.364M9 5.25V3M12.3343 5.364C11.1763 10.6578 7.68868 15.0801 3 17.5023M12.3343 5.364C13.2298 5.42545 14.1186 5.51146 15 5.62136M10.4113 14.1162C8.78554 12.4619 7.47704 10.4949 6.58432 8.31366" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.5 21L15.75 9.75L21 21M12 18H19.5M3 5.62136C4.96557 5.37626 6.96804 5.25 9 5.25M9 5.25C10.1208 5.25 11.2326 5.28841 12.3343 5.364M9 5.25V3M12.3343 5.364C11.1763 10.6578 7.68868 15.0801 3 17.5023M12.3343 5.364C13.2298 5.42545 14.1186 5.51146 15 5.62136M10.4113 14.1162C8.78554 12.4619 7.47704 10.4949 6.58432 8.31366"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 8: globe-europe-africa -->
-  <g transform="translate(196, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(20, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M20.8929 13.3929L19.7582 12.2582C19.5872 12.0872 19.4449 11.8897 19.3367 11.6734L18.2567 9.5133C18.1304 9.26078 17.7938 9.20616 17.5942 9.4058C17.3818 9.61824 17.0708 9.69881 16.782 9.61627L15.5091 9.25259C15.0257 9.11447 14.5239 9.40424 14.402 9.892C14.3108 10.2566 14.4587 10.6392 14.7715 10.8476L15.3582 11.2388C15.9489 11.6326 16.0316 12.4684 15.5297 12.9703L15.3295 13.1705C15.1185 13.3815 15 13.6676 15 13.966V14.3768C15 14.7846 14.8892 15.1847 14.6794 15.5344L13.3647 17.7254C12.9834 18.3611 12.2964 18.75 11.5552 18.75C10.9724 18.75 10.5 18.2776 10.5 17.6948V16.5233C10.5 15.6033 9.93986 14.7759 9.08563 14.4343L8.43149 14.1726C7.44975 13.7799 6.8739 12.7566 7.04773 11.7136L7.05477 11.6714C7.10117 11.393 7.19956 11.1257 7.3448 10.8837L7.43421 10.7347C7.92343 9.91928 8.87241 9.49948 9.80483 9.68597L10.9827 9.92153C11.5574 10.0365 12.124 9.69096 12.285 9.12744L12.4935 8.39774C12.6422 7.87721 12.3991 7.32456 11.9149 7.08245L11.25 6.75L11.159 6.84099C10.7371 7.26295 10.1648 7.5 9.56802 7.5H9.38709C9.13924 7.5 8.90095 7.59905 8.7257 7.7743C8.44222 8.05778 8.00814 8.12907 7.64958 7.94979C7.16433 7.70716 6.98833 7.10278 7.26746 6.63757L8.67936 4.2844C8.82024 4.04961 8.91649 3.79207 8.96453 3.52474M20.8929 13.3929C20.9634 12.9389 21 12.4737 21 12C21 7.02944 16.9706 3 12 3C10.9348 3 9.91287 3.18504 8.96453 3.52474M20.8929 13.3929C20.2234 17.702 16.4968 21 12 21C7.02944 21 3 16.9706 3 12C3 8.09461 5.48749 4.77021 8.96453 3.52474" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.8929 13.3929L19.7582 12.2582C19.5872 12.0872 19.4449 11.8897 19.3367 11.6734L18.2567 9.5133C18.1304 9.26078 17.7938 9.20616 17.5942 9.4058C17.3818 9.61824 17.0708 9.69881 16.782 9.61627L15.5091 9.25259C15.0257 9.11447 14.5239 9.40424 14.402 9.892C14.3108 10.2566 14.4587 10.6392 14.7715 10.8476L15.3582 11.2388C15.9489 11.6326 16.0316 12.4684 15.5297 12.9703L15.3295 13.1705C15.1185 13.3815 15 13.6676 15 13.966V14.3768C15 14.7846 14.8892 15.1847 14.6794 15.5344L13.3647 17.7254C12.9834 18.3611 12.2964 18.75 11.5552 18.75C10.9724 18.75 10.5 18.2776 10.5 17.6948V16.5233C10.5 15.6033 9.93986 14.7759 9.08563 14.4343L8.43149 14.1726C7.44975 13.7799 6.8739 12.7566 7.04773 11.7136L7.05477 11.6714C7.10117 11.393 7.19956 11.1257 7.3448 10.8837L7.43421 10.7347C7.92343 9.91928 8.87241 9.49948 9.80483 9.68597L10.9827 9.92153C11.5574 10.0365 12.124 9.69096 12.285 9.12744L12.4935 8.39774C12.6422 7.87721 12.3991 7.32456 11.9149 7.08245L11.25 6.75L11.159 6.84099C10.7371 7.26295 10.1648 7.5 9.56802 7.5H9.38709C9.13924 7.5 8.90095 7.59905 8.7257 7.7743C8.44222 8.05778 8.00814 8.12907 7.64958 7.94979C7.16433 7.70716 6.98833 7.10278 7.26746 6.63757L8.67936 4.2844C8.82024 4.04961 8.91649 3.79207 8.96453 3.52474M20.8929 13.3929C20.9634 12.9389 21 12.4737 21 12C21 7.02944 16.9706 3 12 3C10.9348 3 9.91287 3.18504 8.96453 3.52474M20.8929 13.3929C20.2234 17.702 16.4968 21 12 21C7.02944 21 3 16.9706 3 12C3 8.09461 5.48749 4.77021 8.96453 3.52474"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 9: face-smile -->
-  <g transform="translate(256, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(80, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M15.182 15.182C13.4246 16.9393 10.5754 16.9393 8.81802 15.182M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12ZM9.75 9.75C9.75 10.1642 9.58211 10.5 9.375 10.5C9.16789 10.5 9 10.1642 9 9.75C9 9.33579 9.16789 9 9.375 9C9.58211 9 9.75 9.33579 9.75 9.75ZM9.375 9.75H9.3825V9.765H9.375V9.75ZM15 9.75C15 10.1642 14.8321 10.5 14.625 10.5C14.4179 10.5 14.25 10.1642 14.25 9.75C14.25 9.33579 14.4179 9 14.625 9C14.8321 9 15 9.33579 15 9.75ZM14.625 9.75H14.6325V9.765H14.625V9.75Z" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.182 15.182C13.4246 16.9393 10.5754 16.9393 8.81802 15.182M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12ZM9.75 9.75C9.75 10.1642 9.58211 10.5 9.375 10.5C9.16789 10.5 9 10.1642 9 9.75C9 9.33579 9.16789 9 9.375 9C9.58211 9 9.75 9.33579 9.75 9.75ZM9.375 9.75H9.3825V9.765H9.375V9.75ZM15 9.75C15 10.1642 14.8321 10.5 14.625 10.5C14.4179 10.5 14.25 10.1642 14.25 9.75C14.25 9.33579 14.4179 9 14.625 9C14.8321 9 15 9.33579 15 9.75ZM14.625 9.75H14.6325V9.765H14.625V9.75Z"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 10: document-duplicate -->
-  <g transform="translate(316, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(140, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M15.75 17.25V20.625C15.75 21.2463 15.2463 21.75 14.625 21.75H4.875C4.25368 21.75 3.75 21.2463 3.75 20.625V7.875C3.75 7.25368 4.25368 6.75 4.875 6.75H6.75C7.26107 6.75 7.76219 6.7926 8.25 6.87444M15.75 17.25H19.125C19.7463 17.25 20.25 16.7463 20.25 16.125V11.25C20.25 6.79051 17.0066 3.08855 12.75 2.37444C12.2622 2.2926 11.7611 2.25 11.25 2.25H9.375C8.75368 2.25 8.25 2.75368 8.25 3.375V6.87444M15.75 17.25H9.375C8.75368 17.25 8.25 16.7463 8.25 16.125V6.87444M20.25 13.5V11.625C20.25 9.76104 18.739 8.25 16.875 8.25H15.375C14.7537 8.25 14.25 7.74632 14.25 7.125V5.625C14.25 3.76104 12.739 2.25 10.875 2.25H9.75" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.75 17.25V20.625C15.75 21.2463 15.2463 21.75 14.625 21.75H4.875C4.25368 21.75 3.75 21.2463 3.75 20.625V7.875C3.75 7.25368 4.25368 6.75 4.875 6.75H6.75C7.26107 6.75 7.76219 6.7926 8.25 6.87444M15.75 17.25H19.125C19.7463 17.25 20.25 16.7463 20.25 16.125V11.25C20.25 6.79051 17.0066 3.08855 12.75 2.37444C12.2622 2.2926 11.7611 2.25 11.25 2.25H9.375C8.75368 2.25 8.25 2.75368 8.25 3.375V6.87444M15.75 17.25H9.375C8.75368 17.25 8.25 16.7463 8.25 16.125V6.87444M20.25 13.5V11.625C20.25 9.76104 18.739 8.25 16.875 8.25H15.375C14.7537 8.25 14.25 7.74632 14.25 7.125V5.625C14.25 3.76104 12.739 2.25 10.875 2.25H9.75"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 11: currency-pound -->
-  <g transform="translate(376, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(200, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M14.1213 7.62877C12.9497 6.45719 11.0503 6.45719 9.87868 7.62877C9.37424 8.13321 9.08699 8.7726 9.01694 9.43073C8.9944 9.64251 9.01512 9.85582 9.04524 10.0667L9.5512 13.6084C9.68065 14.5146 9.5307 15.4386 9.12135 16.2573L9 16.5L10.5385 15.9872C11.0003 15.8332 11.4997 15.8332 11.9615 15.9872L12.6158 16.2053C13.182 16.394 13.7999 16.3501 14.3336 16.0832L15 15.75M8.25 12H12M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.1213 7.62877C12.9497 6.45719 11.0503 6.45719 9.87868 7.62877C9.37424 8.13321 9.08699 8.7726 9.01694 9.43073C8.9944 9.64251 9.01512 9.85582 9.04524 10.0667L9.5512 13.6084C9.68065 14.5146 9.5307 15.4386 9.12135 16.2573L9 16.5L10.5385 15.9872C11.0003 15.8332 11.4997 15.8332 11.9615 15.9872L12.6158 16.2053C13.182 16.394 13.7999 16.3501 14.3336 16.0832L15 15.75M8.25 12H12M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 12: clock -->
-  <g transform="translate(436, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(260, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M12 6V12H16.5M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 6V12H16.5M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 13: chat-bubble-oval-left -->
-  <g transform="translate(496, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(320, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M12 20.25C16.9706 20.25 21 16.5563 21 12C21 7.44365 16.9706 3.75 12 3.75C7.02944 3.75 3 7.44365 3 12C3 14.1036 3.85891 16.0234 5.2728 17.4806C5.70538 17.9265 6.01357 18.5192 5.85933 19.121C5.68829 19.7883 5.368 20.3959 4.93579 20.906C5.0918 20.9339 5.25 20.9558 5.40967 20.9713C5.60376 20.9903 5.80078 21 6 21C7.28201 21 8.47016 20.5979 9.44517 19.9129C10.2551 20.1323 11.1125 20.25 12 20.25Z" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 20.25C16.9706 20.25 21 16.5563 21 12C21 7.44365 16.9706 3.75 12 3.75C7.02944 3.75 3 7.44365 3 12C3 14.1036 3.85891 16.0234 5.2728 17.4806C5.70538 17.9265 6.01357 18.5192 5.85933 19.121C5.68829 19.7883 5.368 20.3959 4.93579 20.906C5.0918 20.9339 5.25 20.9558 5.40967 20.9713C5.60376 20.9903 5.80078 21 6 21C7.28201 21 8.47016 20.5979 9.44517 19.9129C10.2551 20.1323 11.1125 20.25 12 20.25Z"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 14: building-office-2 -->
-  <g transform="translate(556, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(380, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M2.25 21H21.75M3.75 3V21M14.25 3V21M20.25 7.5V21M6.75 6.75H7.5M6.75 9.75H7.5M6.75 12.75H7.5M10.5 6.75H11.25M10.5 9.75H11.25M10.5 12.75H11.25M6.75 21V17.625C6.75 17.0037 7.25368 16.5 7.875 16.5H10.125C10.7463 16.5 11.25 17.0037 11.25 17.625V21M3 3H15M14.25 7.5H21M17.25 11.25H17.2575V11.2575H17.25V11.25ZM17.25 14.25H17.2575V14.2575H17.25V14.25ZM17.25 17.25H17.2575V17.2575H17.25V17.25Z" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.25 21H21.75M3.75 3V21M14.25 3V21M20.25 7.5V21M6.75 6.75H7.5M6.75 9.75H7.5M6.75 12.75H7.5M10.5 6.75H11.25M10.5 9.75H11.25M10.5 12.75H11.25M6.75 21V17.625C6.75 17.0037 7.25368 16.5 7.875 16.5H10.125C10.7463 16.5 11.25 17.0037 11.25 17.625V21M3 3H15M14.25 7.5H21M17.25 11.25H17.2575V11.2575H17.25V11.25ZM17.25 14.25H17.2575V14.2575H17.25V14.25ZM17.25 17.25H17.2575V17.2575H17.25V17.25Z"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 15: battery-0 -->
-  <g transform="translate(196, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(20, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M21 10.5H21.375C21.9963 10.5 22.5 11.0037 22.5 11.625V13.875C22.5 14.4963 21.9963 15 21.375 15H21M3.75 18H18.75C19.9926 18 21 16.9926 21 15.75V9.75C21 8.50736 19.9926 7.5 18.75 7.5H3.75C2.50736 7.5 1.5 8.50736 1.5 9.75V15.75C1.5 16.9926 2.50736 18 3.75 18Z" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21 10.5H21.375C21.9963 10.5 22.5 11.0037 22.5 11.625V13.875C22.5 14.4963 21.9963 15 21.375 15H21M3.75 18H18.75C19.9926 18 21 16.9926 21 15.75V9.75C21 8.50736 19.9926 7.5 18.75 7.5H3.75C2.50736 7.5 1.5 8.50736 1.5 9.75V15.75C1.5 16.9926 2.50736 18 3.75 18Z"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 16: arrow-uturn-right -->
-  <g transform="translate(256, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(80, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M15 15L21 9M21 9L15 3M21 9H9C5.68629 9 3 11.6863 3 15C3 18.3137 5.68629 21 9 21H12" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15 15L21 9M21 9L15 3M21 9H9C5.68629 9 3 11.6863 3 15C3 18.3137 5.68629 21 9 21H12"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 17: arrow-trending-up -->
-  <g transform="translate(316, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(140, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M2.25 17.9999L9 11.2499L13.3064 15.5564C14.5101 13.188 16.5042 11.2022 19.1203 10.0375L21.8609 8.81726M21.8609 8.81726L15.9196 6.53662M21.8609 8.81726L19.5802 14.7585" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.25 17.9999L9 11.2499L13.3064 15.5564C14.5101 13.188 16.5042 11.2022 19.1203 10.0375L21.8609 8.81726M21.8609 8.81726L15.9196 6.53662M21.8609 8.81726L19.5802 14.7585"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 18: arrow-left -->
-  <g transform="translate(376, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(200, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
-<path d="M10.5 19.5L3 12M3 12L10.5 4.5M3 12H21" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.5 19.5L3 12M3 12L10.5 4.5M3 12H21"  stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
     </svg>
   </g>
   <!-- Icon 19: x-mark -->
-  <g transform="translate(436, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(260, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12"/>
 
     </svg>
   </g>
   <!-- Icon 20: underline -->
-  <g transform="translate(496, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(320, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.995 3.744v7.5a6 6 0 1 1-12 0v-7.5m-2.25 16.502h16.5"/>
 
     </svg>
   </g>
   <!-- Icon 21: speaker-x-mark -->
-  <g transform="translate(556, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(380, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 9.75 19.5 12m0 0 2.25 2.25M19.5 12l2.25-2.25M19.5 12l-2.25 2.25m-10.5-6 4.72-4.72a.75.75 0 0 1 1.28.53v15.88a.75.75 0 0 1-1.28.53l-4.72-4.72H4.51c-.88 0-1.704-.507-1.938-1.354A9.009 9.009 0 0 1 2.25 12c0-.83.112-1.633.322-2.396C2.806 8.756 3.63 8.25 4.51 8.25H6.75Z"/>
 
     </svg>
   </g>
   <!-- Icon 22: rectangle-group -->
-  <g transform="translate(196, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(20, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 7.125C2.25 6.504 2.754 6 3.375 6h6c.621 0 1.125.504 1.125 1.125v3.75c0 .621-.504 1.125-1.125 1.125h-6a1.125 1.125 0 0 1-1.125-1.125v-3.75ZM14.25 8.625c0-.621.504-1.125 1.125-1.125h5.25c.621 0 1.125.504 1.125 1.125v8.25c0 .621-.504 1.125-1.125 1.125h-5.25a1.125 1.125 0 0 1-1.125-1.125v-8.25ZM3.75 16.125c0-.621.504-1.125 1.125-1.125h5.25c.621 0 1.125.504 1.125 1.125v2.25c0 .621-.504 1.125-1.125 1.125h-5.25a1.125 1.125 0 0 1-1.125-1.125v-2.25Z"/>
 
     </svg>
   </g>
   <!-- Icon 23: photo -->
-  <g transform="translate(256, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(80, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="m2.25 15.75 5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5 1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5Zm10.5-11.25h.008v.008h-.008V8.25Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z"/>
 
     </svg>
   </g>
   <!-- Icon 24: minus -->
-  <g transform="translate(316, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(140, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="M5 12h14"/>
 
     </svg>
   </g>
   <!-- Icon 25: language -->
-  <g transform="translate(376, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(200, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="m10.5 21 5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 0 1 6-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 0 1-3.827-5.802"/>
 
     </svg>
   </g>
   <!-- Icon 26: globe-europe-africa -->
-  <g transform="translate(436, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(260, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="m20.893 13.393-1.135-1.135a2.252 2.252 0 0 1-.421-.585l-1.08-2.16a.414.414 0 0 0-.663-.107.827.827 0 0 1-.812.21l-1.273-.363a.89.89 0 0 0-.738 1.595l.587.39c.59.395.674 1.23.172 1.732l-.2.2c-.212.212-.33.498-.33.796v.41c0 .409-.11.809-.32 1.158l-1.315 2.191a2.11 2.11 0 0 1-1.81 1.025 1.055 1.055 0 0 1-1.055-1.055v-1.172c0-.92-.56-1.747-1.414-2.089l-.655-.261a2.25 2.25 0 0 1-1.383-2.46l.007-.042a2.25 2.25 0 0 1 .29-.787l.09-.15a2.25 2.25 0 0 1 2.37-1.048l1.178.236a1.125 1.125 0 0 0 1.302-.795l.208-.73a1.125 1.125 0 0 0-.578-1.315l-.665-.332-.091.091a2.25 2.25 0 0 1-1.591.659h-.18c-.249 0-.487.1-.662.274a.931.931 0 0 1-1.458-1.137l1.411-2.353a2.25 2.25 0 0 0 .286-.76m11.928 9.869A9 9 0 0 0 8.965 3.525m11.928 9.868A9 9 0 1 1 8.965 3.525"/>
 
     </svg>
   </g>
   <!-- Icon 27: face-smile -->
-  <g transform="translate(496, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(320, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="M15.182 15.182a4.5 4.5 0 0 1-6.364 0M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0ZM9.75 9.75c0 .414-.168.75-.375.75S9 10.164 9 9.75 9.168 9 9.375 9s.375.336.375.75Zm-.375 0h.008v.015h-.008V9.75Zm5.625 0c0 .414-.168.75-.375.75s-.375-.336-.375-.75.168-.75.375-.75.375.336.375.75Zm-.375 0h.008v.015h-.008V9.75Z"/>
 
     </svg>
   </g>
   <!-- Icon 28: document-duplicate -->
-  <g transform="translate(556, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(380, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>
 
     </svg>
   </g>
   <!-- Icon 29: currency-pound -->
-  <g transform="translate(196, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(20, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="M14.121 7.629A3 3 0 0 0 9.017 9.43c-.023.212-.002.425.028.636l.506 3.541a4.5 4.5 0 0 1-.43 2.65L9 16.5l1.539-.513a2.25 2.25 0 0 1 1.422 0l.655.218a2.25 2.25 0 0 0 1.718-.122L15 15.75M8.25 12H12m9 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/>
 
     </svg>
   </g>
   <!-- Icon 30: clock -->
-  <g transform="translate(256, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(80, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/>
 
     </svg>
   </g>
   <!-- Icon 31: chat-bubble-oval-left -->
-  <g transform="translate(316, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(140, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="M12 20.25c4.97 0 9-3.694 9-8.25s-4.03-8.25-9-8.25S3 7.444 3 12c0 2.104.859 4.023 2.273 5.48.432.447.74 1.04.586 1.641a4.483 4.483 0 0 1-.923 1.785A5.969 5.969 0 0 0 6 21c1.282 0 2.47-.402 3.445-1.087.81.22 1.668.337 2.555.337Z"/>
 
     </svg>
   </g>
   <!-- Icon 32: building-office-2 -->
-  <g transform="translate(376, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(200, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 3.75h.008v.008h-.008v-.008Zm0 3h.008v.008h-.008v-.008Zm0 3h.008v.008h-.008v-.008Z"/>
 
     </svg>
   </g>
   <!-- Icon 33: battery-0 -->
-  <g transform="translate(436, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(260, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="M21 10.5h.375c.621 0 1.125.504 1.125 1.125v2.25c0 .621-.504 1.125-1.125 1.125H21M3.75 18h15A2.25 2.25 0 0 0 21 15.75v-6a2.25 2.25 0 0 0-2.25-2.25h-15A2.25 2.25 0 0 0 1.5 9.75v6A2.25 2.25 0 0 0 3.75 18Z"/>
 
     </svg>
   </g>
   <!-- Icon 34: arrow-uturn-right -->
-  <g transform="translate(496, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(320, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="m15 15 6-6m0 0-6-6m6 6H9a6 6 0 0 0 0 12h3"/>
 
     </svg>
   </g>
   <!-- Icon 35: arrow-trending-up -->
-  <g transform="translate(556, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+  <g transform="translate(380, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="stroke: #ffffff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;">
       
   <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 18 9 11.25l4.306 4.306a11.95 11.95 0 0 1 5.814-5.518l2.74-1.22m0 0-5.94-2.281m5.94 2.28-2.28 5.941"/>
 
     </svg>
   </g>
+
+  <!-- Title Background -->
+  <rect x="0" y="323" width="448" height="60" fill="#1a1a1a"/>
   
-  <!-- Footer -->
-  <text x="400" y="580" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#6c757d">
-    Showing 35 of 648 icons
-  </text>
-  
+  <!-- Title -->
+  <text x="20" y="348" text-anchor="start" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">Heroicons - 24-outline</text>
+
 </svg>

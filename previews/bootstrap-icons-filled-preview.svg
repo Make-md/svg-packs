@@ -1,66 +1,57 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+<svg width="448" height="368" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
-  <rect width="800" height="600" fill="#ffffff"/>
-  
-  <!-- Header Background -->
-  <rect width="800" height="80" fill="#f8f9fa"/>
-  
-  <!-- Title -->
-  <text x="400" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="bold" fill="#212529">Bootstrap Icons - filled</text>
-  
-  <!-- Subtitle -->
-  <text x="400" y="55" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#6c757d">670 icons</text>
+  <rect width="448" height="368" fill="#1a1a1a"/>
   
   <!-- Icon Grid -->
   <!-- Icon 1: x-square-fill -->
-  <g transform="translate(196, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(20, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm3.354 4.646L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 1 1 .708-.708"/>
 
     </svg>
   </g>
   <!-- Icon 2: unlock-fill -->
-  <g transform="translate(256, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(80, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path fill-rule="evenodd" d="M12 0a4 4 0 0 1 4 4v2.5h-1V4a3 3 0 1 0-6 0v2h.5A2.5 2.5 0 0 1 12 8.5v5A2.5 2.5 0 0 1 9.5 16h-7A2.5 2.5 0 0 1 0 13.5v-5A2.5 2.5 0 0 1 2.5 6H8V4a4 4 0 0 1 4-4"/>
 
     </svg>
   </g>
   <!-- Icon 3: telephone-x-fill -->
-  <g transform="translate(316, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(140, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path fill-rule="evenodd" d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877zm9.261 1.135a.5.5 0 0 1 .708 0L13 2.793l1.146-1.147a.5.5 0 0 1 .708.708L13.707 3.5l1.147 1.146a.5.5 0 0 1-.708.708L13 4.207l-1.146 1.147a.5.5 0 0 1-.708-.708L12.293 3.5l-1.147-1.146a.5.5 0 0 1 0-.708"/>
 
     </svg>
   </g>
   <!-- Icon 4: suit-heart-fill -->
-  <g transform="translate(376, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(200, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1"/>
 
     </svg>
   </g>
   <!-- Icon 5: skip-forward-circle-fill -->
-  <g transform="translate(436, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(260, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M4.79 5.093A.5.5 0 0 0 4 5.5v5a.5.5 0 0 0 .79.407L7.5 8.972V10.5a.5.5 0 0 0 .79.407L11 8.972V10.5a.5.5 0 0 0 1 0v-5a.5.5 0 0 0-1 0v1.528L8.29 5.093a.5.5 0 0 0-.79.407v1.528z"/>
 
     </svg>
   </g>
   <!-- Icon 6: sign-stop-fill -->
-  <g transform="translate(496, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(320, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M10.371 8.277v-.553c0-.827-.422-1.234-.987-1.234-.572 0-.99.407-.99 1.234v.553c0 .83.418 1.237.99 1.237.565 0 .987-.408.987-1.237m2.586-.24c.463 0 .735-.272.735-.744s-.272-.741-.735-.741h-.774v1.485z"/>
   <path d="M4.893 0a.5.5 0 0 0-.353.146L.146 4.54A.5.5 0 0 0 0 4.893v6.214a.5.5 0 0 0 .146.353l4.394 4.394a.5.5 0 0 0 .353.146h6.214a.5.5 0 0 0 .353-.146l4.394-4.394a.5.5 0 0 0 .146-.353V4.893a.5.5 0 0 0-.146-.353L11.46.146A.5.5 0 0 0 11.107 0zM3.16 10.08c-.931 0-1.447-.493-1.494-1.132h.653c.065.346.396.583.891.583.524 0 .83-.246.83-.62 0-.303-.203-.467-.637-.572l-.656-.164c-.61-.147-.978-.51-.978-1.078 0-.706.597-1.184 1.444-1.184.853 0 1.386.475 1.436 1.087h-.645c-.064-.32-.352-.542-.797-.542-.472 0-.77.246-.77.6 0 .261.196.437.553.522l.654.161c.673.164 1.06.487 1.06 1.11 0 .736-.574 1.228-1.544 1.228Zm3.427-3.51V10h-.665V6.57H4.753V6h3.006v.568H6.587Zm4.458 1.16v.544c0 1.131-.636 1.805-1.661 1.805-1.026 0-1.664-.674-1.664-1.805V7.73c0-1.136.638-1.807 1.664-1.807s1.66.674 1.66 1.807ZM11.52 6h1.535c.82 0 1.316.55 1.316 1.292 0 .747-.501 1.289-1.321 1.289h-.865V10h-.665V6.001Z"/>
@@ -68,9 +59,9 @@
     </svg>
   </g>
   <!-- Icon 7: send-slash-fill -->
-  <g transform="translate(556, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(380, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M15.964.686a.5.5 0 0 0-.65-.65L.767 5.855H.766l-.452.18a.5.5 0 0 0-.082.887l.41.26.001.002 4.995 3.178 1.59 2.498C8 14 8 13 8 12.5a4.5 4.5 0 0 1 5.026-4.47zm-1.833 1.89L6.637 10.07l-.215-.338a.5.5 0 0 0-.154-.154l-.338-.215 7.494-7.494 1.178-.471z"/>
   <path d="M14.975 10.025a3.5 3.5 0 1 0-4.95 4.95 3.5 3.5 0 0 0 4.95-4.95m-4.243.707a2.5 2.5 0 0 1 3.147-.318l-3.465 3.465a2.5 2.5 0 0 1 .318-3.147m.39 3.854 3.464-3.465a2.501 2.501 0 0 1-3.465 3.465Z"/>
@@ -78,18 +69,18 @@
     </svg>
   </g>
   <!-- Icon 8: rewind-circle-fill -->
-  <g transform="translate(196, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(20, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16M7.729 5.055A.5.5 0 0 1 8 5.5v1.886l3.21-2.293A.5.5 0 0 1 12 5.5v5a.5.5 0 0 1-.79.407L8 8.614V10.5a.5.5 0 0 1-.79.407l-3.5-2.5a.5.5 0 0 1 0-.814l3.5-2.5a.5.5 0 0 1 .519-.038"/>
 
     </svg>
   </g>
   <!-- Icon 9: postage-heart-fill -->
-  <g transform="translate(256, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(80, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M4.5 3a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h7a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5zM8 11C2.175 7.236 6.336 4.31 8 5.982 9.664 4.309 13.825 7.236 8 11"/>
   <path d="M4.5 0a1 1 0 0 1-2 0H1v1a1 1 0 0 1 0 2v1a1 1 0 0 1 0 2v1a1 1 0 0 1 0 2v1a1 1 0 1 1 0 2v1a1 1 0 1 1 0 2v1h1.5a1 1 0 1 1 2 0h1a1 1 0 1 1 2 0h1a1 1 0 1 1 2 0h1a1 1 0 1 1 2 0H15v-1a1 1 0 1 1 0-2v-1a1 1 0 1 1 0-2V9a1 1 0 1 1 0-2V6a1 1 0 1 1 0-2V3a1 1 0 1 1 0-2V0h-1.5a1 1 0 1 1-2 0h-1a1 1 0 1 1-2 0h-1a1 1 0 0 1-2 0zM4 14a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1z"/>
@@ -97,9 +88,9 @@
     </svg>
   </g>
   <!-- Icon 10: person-plus-fill -->
-  <g transform="translate(316, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(140, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M1 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6"/>
   <path fill-rule="evenodd" d="M13.5 5a.5.5 0 0 1 .5.5V7h1.5a.5.5 0 0 1 0 1H14v1.5a.5.5 0 0 1-1 0V8h-1.5a.5.5 0 0 1 0-1H13V5.5a.5.5 0 0 1 .5-.5"/>
@@ -107,9 +98,9 @@
     </svg>
   </g>
   <!-- Icon 11: passport-fill -->
-  <g transform="translate(376, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(200, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M8 6a2 2 0 1 0 0 4 2 2 0 0 0 0-4"/>
   <path d="M2 3.252a1.5 1.5 0 0 1 1.232-1.476l8-1.454A1.5 1.5 0 0 1 13 1.797v.47A2 2 0 0 1 14 4v10a2 2 0 0 1-2 2H4a2 2 0 0 1-1.51-.688 1.5 1.5 0 0 1-.49-1.11V3.253ZM5 8a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0 4.5a.5.5 0 0 0 .5.5h5a.5.5 0 0 0 0-1h-5a.5.5 0 0 0-.5.5"/>
@@ -117,18 +108,18 @@
     </svg>
   </g>
   <!-- Icon 12: modem-fill -->
-  <g transform="translate(436, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(260, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M7 0a1.5 1.5 0 0 0-1.5 1.5v11a1.5 1.5 0 0 0 1.404 1.497c-.35.305-.872.678-1.628 1.056A.5.5 0 0 0 5.5 16h5a.5.5 0 0 0 .224-.947c-.756-.378-1.278-.75-1.628-1.056A1.5 1.5 0 0 0 10.5 12.5v-11A1.5 1.5 0 0 0 9 0zm1 3a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1m0 2a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1m.5 1.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0M8 9a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1"/>
 
     </svg>
   </g>
   <!-- Icon 13: layers-fill -->
-  <g transform="translate(496, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(320, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M7.765 1.559a.5.5 0 0 1 .47 0l7.5 4a.5.5 0 0 1 0 .882l-7.5 4a.5.5 0 0 1-.47 0l-7.5-4a.5.5 0 0 1 0-.882z"/>
   <path d="m2.125 8.567-1.86.992a.5.5 0 0 0 0 .882l7.5 4a.5.5 0 0 0 .47 0l7.5-4a.5.5 0 0 0 0-.882l-1.86-.992-5.17 2.756a1.5 1.5 0 0 1-1.41 0z"/>
@@ -136,9 +127,9 @@
     </svg>
   </g>
   <!-- Icon 14: house-fill -->
-  <g transform="translate(556, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(380, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293z"/>
   <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293z"/>
@@ -146,54 +137,54 @@
     </svg>
   </g>
   <!-- Icon 15: hand-thumbs-up-fill -->
-  <g transform="translate(196, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(20, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M6.956 1.745C7.021.81 7.908.087 8.864.325l.261.066c.463.116.874.456 1.012.965.22.816.533 2.511.062 4.51a10 10 0 0 1 .443-.051c.713-.065 1.669-.072 2.516.21.518.173.994.681 1.2 1.273.184.532.16 1.162-.234 1.733q.086.18.138.363c.077.27.113.567.113.856s-.036.586-.113.856c-.039.135-.09.273-.16.404.169.387.107.819-.003 1.148a3.2 3.2 0 0 1-.488.901c.054.152.076.312.076.465 0 .305-.089.625-.253.912C13.1 15.522 12.437 16 11.5 16H8c-.605 0-1.07-.081-1.466-.218a4.8 4.8 0 0 1-.97-.484l-.048-.03c-.504-.307-.999-.609-2.068-.722C2.682 14.464 2 13.846 2 13V9c0-.85.685-1.432 1.357-1.615.849-.232 1.574-.787 2.132-1.41.56-.627.914-1.28 1.039-1.639.199-.575.356-1.539.428-2.59z"/>
 
     </svg>
   </g>
   <!-- Icon 16: fuel-pump-fill -->
-  <g transform="translate(256, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(80, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M1 2a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v8a2 2 0 0 1 2 2v.5a.5.5 0 0 0 1 0V8h-.5a.5.5 0 0 1-.5-.5V4.375a.5.5 0 0 1 .5-.5h1.495c-.011-.476-.053-.894-.201-1.222a.97.97 0 0 0-.394-.458c-.184-.11-.464-.195-.9-.195a.5.5 0 0 1 0-1q.846-.002 1.412.336c.383.228.634.551.794.907.295.655.294 1.465.294 2.081V7.5a.5.5 0 0 1-.5.5H15v4.5a1.5 1.5 0 0 1-3 0V12a1 1 0 0 0-1-1v4h.5a.5.5 0 0 1 0 1H.5a.5.5 0 0 1 0-1H1zm2.5 0a.5.5 0 0 0-.5.5v5a.5.5 0 0 0 .5.5h5a.5.5 0 0 0 .5-.5v-5a.5.5 0 0 0-.5-.5z"/>
 
     </svg>
   </g>
   <!-- Icon 17: file-richtext-fill -->
-  <g transform="translate(316, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(140, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M12 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2M7 4.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0m-.861 1.542 1.33.886 1.854-1.855a.25.25 0 0 1 .289-.047l1.888.974V7.5a.5.5 0 0 1-.5.5H5a.5.5 0 0 1-.5-.5V7s1.54-1.274 1.639-1.208M5 9h6a.5.5 0 0 1 0 1H5a.5.5 0 0 1 0-1m0 2h3a.5.5 0 0 1 0 1H5a.5.5 0 0 1 0-1"/>
 
     </svg>
   </g>
   <!-- Icon 18: file-earmark-word-fill -->
-  <g transform="translate(376, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(200, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M5.485 6.879l1.036 4.144.997-3.655a.5.5 0 0 1 .964 0l.997 3.655 1.036-4.144a.5.5 0 0 1 .97.242l-1.5 6a.5.5 0 0 1-.967.01L8 9.402l-1.018 3.73a.5.5 0 0 1-.967-.01l-1.5-6a.5.5 0 1 1 .97-.242z"/>
 
     </svg>
   </g>
   <!-- Icon 19: file-earmark-fill -->
-  <g transform="translate(436, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(260, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M4 0h5.293A1 1 0 0 1 10 .293L13.707 4a1 1 0 0 1 .293.707V14a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2m5.5 1.5v2a1 1 0 0 0 1 1h2z"/>
 
     </svg>
   </g>
   <!-- Icon 20: fast-forward-fill -->
-  <g transform="translate(496, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(320, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M7.596 7.304a.802.802 0 0 1 0 1.392l-6.363 3.692C.713 12.69 0 12.345 0 11.692V4.308c0-.653.713-.998 1.233-.696z"/>
   <path d="M15.596 7.304a.802.802 0 0 1 0 1.392l-6.363 3.692C8.713 12.69 8 12.345 8 11.692V4.308c0-.653.713-.998 1.233-.696z"/>
@@ -201,9 +192,9 @@
     </svg>
   </g>
   <!-- Icon 21: envelope-open-heart-fill -->
-  <g transform="translate(556, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(380, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M8.941.435a2 2 0 0 0-1.882 0l-6 3.2A2 2 0 0 0 0 5.4v.313l4.222 2.475q.035-.087.08-.17c.665-1.3 2.362-1.917 3.698-1.25 1.336-.667 3.033-.05 3.699 1.25a3 3 0 0 1 .08.17L16 5.713V5.4a2 2 0 0 0-1.059-1.765zM0 6.873l4 2.344c-.012.542.124 1.117.416 1.694l.004.006L0 13.372v-6.5Zm.059 7.611 4.9-2.723c.563.73 1.383 1.467 2.49 2.198l.551.365.551-.365c1.107-.73 1.927-1.467 2.49-2.198l4.9 2.723A2 2 0 0 1 14 16H2a2 2 0 0 1-1.941-1.516M16 13.372l-4.42-2.455.004-.006c.292-.577.428-1.152.415-1.694L16 6.873v6.5Z"/>
   <path d="M8 7.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132"/>
@@ -211,45 +202,45 @@
     </svg>
   </g>
   <!-- Icon 22: emoji-heart-eyes-fill -->
-  <g transform="translate(196, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(20, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0M4.756 4.566c.763-1.424 4.02-.12.952 3.434-4.496-1.596-2.35-4.298-.952-3.434m6.559 5.448a.5.5 0 0 1 .548.736A4.5 4.5 0 0 1 7.965 13a4.5 4.5 0 0 1-3.898-2.25.5.5 0 0 1 .548-.736h.005l.017.005.067.015.252.055c.215.046.515.108.857.169.693.124 1.522.242 2.152.242s1.46-.118 2.152-.242a27 27 0 0 0 1.109-.224l.067-.015.017-.004.005-.002zm-.07-5.448c1.397-.864 3.543 1.838-.953 3.434-3.067-3.554.19-4.858.952-3.434z"/>
 
     </svg>
   </g>
   <!-- Icon 23: displayport-fill -->
-  <g transform="translate(256, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(80, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M1 5a1 1 0 0 0-1 1v3.191a1 1 0 0 0 .553.894l1.618.81a1 1 0 0 0 .447.105H15a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1zm1.5 2h11a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-1 0V8H3v.5a.5.5 0 0 1-1 0v-1a.5.5 0 0 1 .5-.5"/>
 
     </svg>
   </g>
   <!-- Icon 24: cup-fill -->
-  <g transform="translate(316, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(140, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path fill-rule="evenodd" d="M.11 3.187A.5.5 0 0 1 .5 3h13a.5.5 0 0 1 .488.608l-.22.991a3.001 3.001 0 0 1-1.3 5.854l-.132.59A2.5 2.5 0 0 1 9.896 13H4.104a2.5 2.5 0 0 1-2.44-1.958L.012 3.608a.5.5 0 0 1 .098-.42Zm12.574 6.288a2 2 0 0 0 .866-3.899z"/>
 
     </svg>
   </g>
   <!-- Icon 25: cloud-minus-fill -->
-  <g transform="translate(376, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(200, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M8 2a5.53 5.53 0 0 0-3.594 1.342c-.766.66-1.321 1.52-1.464 2.383C1.266 6.095 0 7.555 0 9.318 0 11.366 1.708 13 3.781 13h8.906C14.502 13 16 11.57 16 9.773c0-1.636-1.242-2.969-2.834-3.194C12.923 3.999 10.69 2 8 2M6 7.5h4a.5.5 0 0 1 0 1H6a.5.5 0 0 1 0-1"/>
 
     </svg>
   </g>
   <!-- Icon 26: clipboard2-heart-fill -->
-  <g transform="translate(436, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(260, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path fill-rule="evenodd" d="M10.058.501a.5.5 0 0 0-.5-.501h-2.98c-.276 0-.5.225-.5.501A.5.5 0 0 1 5.582 1a.497.497 0 0 0-.497.497V2a.5.5 0 0 0 .5.5h4.968a.5.5 0 0 0 .5-.5v-.503A.497.497 0 0 0 10.555 1a.5.5 0 0 1-.497-.499"/>
   <path fill-rule="evenodd" d="M4.174 1h-.57a1.5 1.5 0 0 0-1.5 1.5v12a1.5 1.5 0 0 0 1.5 1.5h9a1.5 1.5 0 0 0 1.5-1.5v-12a1.5 1.5 0 0 0-1.5-1.5h-.642q.084.236.085.5V2c0 .828-.668 1.5-1.492 1.5H5.581A1.496 1.496 0 0 1 4.09 2v-.5q.001-.264.085-.5Zm3.894 5.482c1.656-1.673 5.795 1.254 0 5.018-5.795-3.764-1.656-6.69 0-5.018"/>
@@ -257,36 +248,36 @@
     </svg>
   </g>
   <!-- Icon 27: chat-square-dots-fill -->
-  <g transform="translate(496, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(320, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2.5a1 1 0 0 0-.8.4l-1.9 2.533a1 1 0 0 1-1.6 0L5.3 12.4a1 1 0 0 0-.8-.4H2a2 2 0 0 1-2-2zm5 4a1 1 0 1 0-2 0 1 1 0 0 0 2 0m4 0a1 1 0 1 0-2 0 1 1 0 0 0 2 0m3 1a1 1 0 1 0 0-2 1 1 0 0 0 0 2"/>
 
     </svg>
   </g>
   <!-- Icon 28: cart-plus-fill -->
-  <g transform="translate(556, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(380, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M.5 1a.5.5 0 0 0 0 1h1.11l.401 1.607 1.498 7.985A.5.5 0 0 0 4 12h1a2 2 0 1 0 0 4 2 2 0 0 0 0-4h7a2 2 0 1 0 0 4 2 2 0 0 0 0-4h1a.5.5 0 0 0 .491-.408l1.5-8A.5.5 0 0 0 14.5 3H2.89l-.405-1.621A.5.5 0 0 0 2 1zM6 14a1 1 0 1 1-2 0 1 1 0 0 1 2 0m7 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0M9 5.5V7h1.5a.5.5 0 0 1 0 1H9v1.5a.5.5 0 0 1-1 0V8H6.5a.5.5 0 0 1 0-1H8V5.5a.5.5 0 0 1 1 0"/>
 
     </svg>
   </g>
   <!-- Icon 29: calendar3-range-fill -->
-  <g transform="translate(196, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(20, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M16 5h-6a1 1 0 0 0 0 2h6v7a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-4h6a1 1 0 0 0 0-2H0V3h16zm-2-5a2 2 0 0 1 2 2H0a2 2 0 0 1 2-2z"/>
 
     </svg>
   </g>
   <!-- Icon 30: calendar-month-fill -->
-  <g transform="translate(256, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(80, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4zm.104 7.305L4.9 10.18H3.284l.8-2.375zm9.074 2.297c0-.832-.414-1.36-1.062-1.36-.692 0-1.098.492-1.098 1.36v.253c0 .852.406 1.364 1.098 1.364.671 0 1.062-.516 1.062-1.364z"/>
   <path d="M16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2M2.56 12.332h-.71L3.748 7h.696l1.898 5.332h-.719l-.539-1.602H3.1zm7.29-4.105v4.105h-.668v-.539h-.027c-.145.324-.532.605-1.188.605-.847 0-1.453-.484-1.453-1.425V8.227h.676v2.554c0 .766.441 1.012.98 1.012.59 0 1.004-.371 1.004-1.023V8.227zm1.273 4.41c.075.332.422.636.985.636.648 0 1.07-.378 1.07-1.023v-.605h-.02c-.163.355-.613.648-1.171.648-.957 0-1.64-.672-1.64-1.902v-.34c0-1.207.675-1.887 1.64-1.887.558 0 1.004.293 1.195.64h.02v-.577h.648v4.03c0 1.052-.816 1.579-1.746 1.579-1.043 0-1.574-.516-1.668-1.2z"/>
@@ -294,36 +285,36 @@
     </svg>
   </g>
   <!-- Icon 31: brightness-low-fill -->
-  <g transform="translate(316, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(140, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M12 8a4 4 0 1 1-8 0 4 4 0 0 1 8 0M8.5 2.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0m0 11a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0m5-5a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1m-11 0a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1m9.743-4.036a.5.5 0 1 1-.707-.707.5.5 0 0 1 .707.707m-7.779 7.779a.5.5 0 1 1-.707-.707.5.5 0 0 1 .707.707m7.072 0a.5.5 0 1 1 .707-.707.5.5 0 0 1-.707.707M3.757 4.464a.5.5 0 1 1 .707-.707.5.5 0 0 1-.707.707"/>
 
     </svg>
   </g>
   <!-- Icon 32: book-fill -->
-  <g transform="translate(376, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(200, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783"/>
 
     </svg>
   </g>
   <!-- Icon 33: bag-check-fill -->
-  <g transform="translate(436, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(260, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path fill-rule="evenodd" d="M10.5 3.5a2.5 2.5 0 0 0-5 0V4h5zm1 0V4H15v10a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V4h3.5v-.5a3.5 3.5 0 1 1 7 0m-.646 5.354a.5.5 0 0 0-.708-.708L7.5 10.793 6.354 9.646a.5.5 0 1 0-.708.708l1.5 1.5a.5.5 0 0 0 .708 0z"/>
 
     </svg>
   </g>
   <!-- Icon 34: award-fill -->
-  <g transform="translate(496, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(320, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="m8 0 1.669.864 1.858.282.842 1.68 1.337 1.32L13.4 6l.306 1.854-1.337 1.32-.842 1.68-1.858.282L8 12l-1.669-.864-1.858-.282-.842-1.68-1.337-1.32L2.6 6l-.306-1.854 1.337-1.32.842-1.68L6.331.864z"/>
   <path d="M4 11.794V16l4-1 4 1v-4.206l-2.018.306L8 13.126 6.018 12.1z"/>
@@ -331,18 +322,19 @@
     </svg>
   </g>
   <!-- Icon 35: archive-fill -->
-  <g transform="translate(556, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16">
+  <g transform="translate(380, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 16 16" style="color: #ffffff; fill: #ffffff;">
       
   <path d="M12.643 15C13.979 15 15 13.845 15 12.5V5H1v7.5C1 13.845 2.021 15 3.357 15zM5.5 7h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1M.8 1a.8.8 0 0 0-.8.8V3a.8.8 0 0 0 .8.8h14.4A.8.8 0 0 0 16 3V1.8a.8.8 0 0 0-.8-.8z"/>
 
     </svg>
   </g>
+
+  <!-- Title Background -->
+  <rect x="0" y="323" width="448" height="60" fill="#1a1a1a"/>
   
-  <!-- Footer -->
-  <text x="400" y="580" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#6c757d">
-    Showing 35 of 670 icons
-  </text>
-  
+  <!-- Title -->
+  <text x="20" y="348" text-anchor="start" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">Bootstrap Icons - filled</text>
+
 </svg>

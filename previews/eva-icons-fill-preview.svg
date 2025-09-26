@@ -1,266 +1,258 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+<svg width="448" height="368" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
-  <rect width="800" height="600" fill="#ffffff"/>
-  
-  <!-- Header Background -->
-  <rect width="800" height="80" fill="#f8f9fa"/>
-  
-  <!-- Title -->
-  <text x="400" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="bold" fill="#212529">Eva Icons - fill</text>
-  
-  <!-- Subtitle -->
-  <text x="400" y="55" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#6c757d">246 icons</text>
+  <rect width="448" height="368" fill="#1a1a1a"/>
   
   <!-- Icon Grid -->
   <!-- Icon 1: wifi -->
-  <g transform="translate(196, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>wifi</title><g id="Layer_2" data-name="Layer 2"><g id="wifi"><g id="wifi-2" data-name="wifi"><rect class="cls-1" width="24" height="24"/><circle class="cls-2" cx="12" cy="19" r="1"/><path class="cls-2" d="M12,14a5,5,0,0,0-3.47,1.4,1,1,0,1,0,1.39,1.44,3.08,3.08,0,0,1,4.16,0,1,1,0,1,0,1.39-1.44A5,5,0,0,0,12,14Z"/><path class="cls-2" d="M12,9a9,9,0,0,0-6.47,2.75A1,1,0,0,0,7,13.14a7,7,0,0,1,10.08,0,1,1,0,0,0,.71.3,1,1,0,0,0,.72-1.69A9,9,0,0,0,12,9Z"/><path class="cls-2" d="M21.72,7.93a14,14,0,0,0-19.44,0A1,1,0,0,0,3.66,9.37a12,12,0,0,1,16.68,0,1,1,0,0,0,.69.28,1,1,0,0,0,.72-.31A1,1,0,0,0,21.72,7.93Z"/></g></g></g>
+  <g transform="translate(20, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>wifi</title><g id="Layer_2" data-name="Layer 2"><g id="wifi"><g id="wifi-2" data-name="wifi"><circle class="cls-2" cx="12" cy="19" r="1"/><path class="cls-2" d="M12,14a5,5,0,0,0-3.47,1.4,1,1,0,1,0,1.39,1.44,3.08,3.08,0,0,1,4.16,0,1,1,0,1,0,1.39-1.44A5,5,0,0,0,12,14Z"/><path class="cls-2" d="M12,9a9,9,0,0,0-6.47,2.75A1,1,0,0,0,7,13.14a7,7,0,0,1,10.08,0,1,1,0,0,0,.71.3,1,1,0,0,0,.72-1.69A9,9,0,0,0,12,9Z"/><path class="cls-2" d="M21.72,7.93a14,14,0,0,0-19.44,0A1,1,0,0,0,3.66,9.37a12,12,0,0,1,16.68,0,1,1,0,0,0,.69.28,1,1,0,0,0,.72-.31A1,1,0,0,0,21.72,7.93Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 2: video-off -->
-  <g transform="translate(256, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>video-off</title><g id="Layer_2" data-name="Layer 2"><g id="video-off"><g id="video-off-2" data-name="video-off"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M14.22,17.05,4.88,7.71,3.12,6,3,5.8A3,3,0,0,0,2,8v8a3,3,0,0,0,3,3h9a2.94,2.94,0,0,0,1.66-.51Z"/><path class="cls-2" d="M21,7.15a1.7,1.7,0,0,0-1.85.3L17,9.45V8a3,3,0,0,0-3-3H7.83L9.12,6.29l6.59,6.59,2,2,2,2a1.73,1.73,0,0,0,.6.11,1.68,1.68,0,0,0,.69-.15,1.6,1.6,0,0,0,1-1.48V8.63A1.6,1.6,0,0,0,21,7.15Z"/><path class="cls-2" d="M17,15.59l-2-2L8.41,7l-2-2L4.71,3.29A1,1,0,0,0,3.29,4.71l.54.53L5.59,7l9.34,9.34,1.46,1.46,2.9,2.91a1,1,0,0,0,1.42,0,1,1,0,0,0,0-1.42Z"/></g></g></g>
+  <g transform="translate(80, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>video-off</title><g id="Layer_2" data-name="Layer 2"><g id="video-off"><g id="video-off-2" data-name="video-off"><path class="cls-2" d="M14.22,17.05,4.88,7.71,3.12,6,3,5.8A3,3,0,0,0,2,8v8a3,3,0,0,0,3,3h9a2.94,2.94,0,0,0,1.66-.51Z"/><path class="cls-2" d="M21,7.15a1.7,1.7,0,0,0-1.85.3L17,9.45V8a3,3,0,0,0-3-3H7.83L9.12,6.29l6.59,6.59,2,2,2,2a1.73,1.73,0,0,0,.6.11,1.68,1.68,0,0,0,.69-.15,1.6,1.6,0,0,0,1-1.48V8.63A1.6,1.6,0,0,0,21,7.15Z"/><path class="cls-2" d="M17,15.59l-2-2L8.41,7l-2-2L4.71,3.29A1,1,0,0,0,3.29,4.71l.54.53L5.59,7l9.34,9.34,1.46,1.46,2.9,2.91a1,1,0,0,0,1.42,0,1,1,0,0,0,0-1.42Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 3: trending-up -->
-  <g transform="translate(316, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>trending-up</title><g id="Layer_2" data-name="Layer 2"><g id="trending-up"><g id="trending-up-2" data-name="trending-up"><rect class="cls-1" width="24" height="24" transform="translate(0 24) rotate(-90)"/><path class="cls-2" d="M21,7a.78.78,0,0,0,0-.21.64.64,0,0,0-.05-.17,1.1,1.1,0,0,0-.09-.14.75.75,0,0,0-.14-.17l0,0-.12-.07a.69.69,0,0,0-.19-.1l-.2,0A.7.7,0,0,0,20,6H15a1,1,0,0,0,0,2h2.83l-4,4.71L9.51,10.14a1,1,0,0,0-1.28.22l-5,6a1,1,0,0,0,.13,1.41A1,1,0,0,0,4,18a1,1,0,0,0,.77-.36L9.22,12.3l4.27,2.56a1,1,0,0,0,1.27-.21L19,9.7V12a1,1,0,0,0,2,0V7S21,7,21,7Z"/></g></g></g>
+  <g transform="translate(140, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>trending-up</title><g id="Layer_2" data-name="Layer 2"><g id="trending-up"><g id="trending-up-2" data-name="trending-up"><path class="cls-2" d="M21,7a.78.78,0,0,0,0-.21.64.64,0,0,0-.05-.17,1.1,1.1,0,0,0-.09-.14.75.75,0,0,0-.14-.17l0,0-.12-.07a.69.69,0,0,0-.19-.1l-.2,0A.7.7,0,0,0,20,6H15a1,1,0,0,0,0,2h2.83l-4,4.71L9.51,10.14a1,1,0,0,0-1.28.22l-5,6a1,1,0,0,0,.13,1.41A1,1,0,0,0,4,18a1,1,0,0,0,.77-.36L9.22,12.3l4.27,2.56a1,1,0,0,0,1.27-.21L19,9.7V12a1,1,0,0,0,2,0V7S21,7,21,7Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 4: thermometer-plus -->
-  <g transform="translate(376, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>thermometer-plus</title><g id="Layer_2" data-name="Layer 2"><g id="thermometer-plus"><g id="thermometer-plus-2" data-name="thermometer-plus"><rect class="cls-1" width="24" height="24"/><rect class="cls-2" x="2" y="5" width="6" height="2" rx="1" ry="1"/><rect class="cls-2" x="2" y="5" width="6" height="2" rx="1" ry="1" transform="translate(-1 11) rotate(-90)"/><path class="cls-2" d="M14,22a5,5,0,0,1-3-9V5a3,3,0,0,1,3-3,3,3,0,0,1,3,3v8a5,5,0,0,1-3,9ZM15,9.54V5a.93.93,0,0,0-.29-.69A1,1,0,0,0,14,4a1,1,0,0,0-1,1V9.54Z"/></g></g></g>
+  <g transform="translate(200, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>thermometer-plus</title><g id="Layer_2" data-name="Layer 2"><g id="thermometer-plus"><g id="thermometer-plus-2" data-name="thermometer-plus"><rect class="cls-2" x="2" y="5" width="6" height="2" rx="1" ry="1"/><rect class="cls-2" x="2" y="5" width="6" height="2" rx="1" ry="1" transform="translate(-1 11) rotate(-90)"/><path class="cls-2" d="M14,22a5,5,0,0,1-3-9V5a3,3,0,0,1,3-3,3,3,0,0,1,3,3v8a5,5,0,0,1-3,9ZM15,9.54V5a.93.93,0,0,0-.29-.69A1,1,0,0,0,14,4a1,1,0,0,0-1,1V9.54Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 5: star -->
-  <g transform="translate(436, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>star</title><g id="Layer_2" data-name="Layer 2"><g id="star"><g id="star-2" data-name="star"><rect class="cls-1" width="24" height="24" transform="translate(24 0) rotate(90)"/><path class="cls-2" d="M17.56,21a1,1,0,0,1-.46-.11L12,18.22,6.9,20.89a1,1,0,0,1-1.45-1.06l1-5.63-4.12-4a1,1,0,0,1-.25-1,1,1,0,0,1,.81-.68l5.7-.83L11.1,2.56a1,1,0,0,1,1.8,0l2.54,5.12,5.7.83a1,1,0,0,1,.81.68,1,1,0,0,1-.25,1l-4.12,4,1,5.63a1,1,0,0,1-.4,1A1,1,0,0,1,17.56,21Z"/></g></g></g>
+  <g transform="translate(260, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>star</title><g id="Layer_2" data-name="Layer 2"><g id="star"><g id="star-2" data-name="star"><path class="cls-2" d="M17.56,21a1,1,0,0,1-.46-.11L12,18.22,6.9,20.89a1,1,0,0,1-1.45-1.06l1-5.63-4.12-4a1,1,0,0,1-.25-1,1,1,0,0,1,.81-.68l5.7-.83L11.1,2.56a1,1,0,0,1,1.8,0l2.54,5.12,5.7.83a1,1,0,0,1,.81.68,1,1,0,0,1-.25,1l-4.12,4,1,5.63a1,1,0,0,1-.4,1A1,1,0,0,1,17.56,21Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 6: skip-back -->
-  <g transform="translate(496, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>skip-back</title><g id="Layer_2" data-name="Layer 2"><g id="skip-back"><g id="skip-back-2" data-name="skip-back"><rect class="cls-1" width="24" height="24" transform="translate(24 24) rotate(180)"/><path class="cls-2" d="M16.45,6.2a2.1,2.1,0,0,0-2.21.26l-5.1,4.21L9,10.82V7A1,1,0,0,0,7,7V17a1,1,0,0,0,2,0V13.18l.14.15,5.1,4.21a2.06,2.06,0,0,0,1.3.46,2.23,2.23,0,0,0,.91-.2,1.76,1.76,0,0,0,1.05-1.59V7.79A1.76,1.76,0,0,0,16.45,6.2Z"/></g></g></g>
+  <g transform="translate(320, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>skip-back</title><g id="Layer_2" data-name="Layer 2"><g id="skip-back"><g id="skip-back-2" data-name="skip-back"><path class="cls-2" d="M16.45,6.2a2.1,2.1,0,0,0-2.21.26l-5.1,4.21L9,10.82V7A1,1,0,0,0,7,7V17a1,1,0,0,0,2,0V13.18l.14.15,5.1,4.21a2.06,2.06,0,0,0,1.3.46,2.23,2.23,0,0,0,.91-.2,1.76,1.76,0,0,0,1.05-1.59V7.79A1.76,1.76,0,0,0,16.45,6.2Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 7: share -->
-  <g transform="translate(556, 92)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>share</title><g id="Layer_2" data-name="Layer 2"><g id="share"><g id="share-2" data-name="share"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M18,15a3,3,0,0,0-2.1.86L8,12.34c0-.12,0-.22,0-.34s0-.22,0-.33L15.9,8.14A3,3,0,1,0,15,6c0,.12,0,.22,0,.34L7.1,9.86a3,3,0,1,0,0,4.28L15,17.67c0,.11,0,.22,0,.33a3,3,0,1,0,3-3Z"/></g></g></g>
+  <g transform="translate(380, 20)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>share</title><g id="Layer_2" data-name="Layer 2"><g id="share"><g id="share-2" data-name="share"><path class="cls-2" d="M18,15a3,3,0,0,0-2.1.86L8,12.34c0-.12,0-.22,0-.34s0-.22,0-.33L15.9,8.14A3,3,0,1,0,15,6c0,.12,0,.22,0,.34L7.1,9.86a3,3,0,1,0,0,4.28L15,17.67c0,.11,0,.22,0,.33a3,3,0,1,0,3-3Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 8: rewind-right -->
-  <g transform="translate(196, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>rewind-right</title><g id="Layer_2" data-name="Layer 2"><g id="rewind-right"><g id="rewind-right-2" data-name="rewind-right"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M20.86,10.67l-5.1-4.21a2.1,2.1,0,0,0-2.21-.26A1.76,1.76,0,0,0,12.5,7.79v2.59L7.76,6.46A2.1,2.1,0,0,0,5.55,6.2a1.76,1.76,0,0,0-1,1.59v8.42a1.76,1.76,0,0,0,1,1.59,2.23,2.23,0,0,0,.91.2,2.06,2.06,0,0,0,1.3-.46l4.74-3.92v2.59a1.76,1.76,0,0,0,1.05,1.59,2.23,2.23,0,0,0,.91.2,2.06,2.06,0,0,0,1.3-.46l5.1-4.21a1.7,1.7,0,0,0,0-2.66Z"/></g></g></g>
+  <g transform="translate(20, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>rewind-right</title><g id="Layer_2" data-name="Layer 2"><g id="rewind-right"><g id="rewind-right-2" data-name="rewind-right"><path class="cls-2" d="M20.86,10.67l-5.1-4.21a2.1,2.1,0,0,0-2.21-.26A1.76,1.76,0,0,0,12.5,7.79v2.59L7.76,6.46A2.1,2.1,0,0,0,5.55,6.2a1.76,1.76,0,0,0-1,1.59v8.42a1.76,1.76,0,0,0,1,1.59,2.23,2.23,0,0,0,.91.2,2.06,2.06,0,0,0,1.3-.46l4.74-3.92v2.59a1.76,1.76,0,0,0,1.05,1.59,2.23,2.23,0,0,0,.91.2,2.06,2.06,0,0,0,1.3-.46l5.1-4.21a1.7,1.7,0,0,0,0-2.66Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 9: radio-button-off -->
-  <g transform="translate(256, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>radio-button-off</title><g id="Layer_2" data-name="Layer 2"><g id="radio-button-off"><g id="radio-button-off-2" data-name="radio-button-off"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M12,22A10,10,0,1,1,22,12,10,10,0,0,1,12,22ZM12,4a8,8,0,1,0,8,8A8,8,0,0,0,12,4Z"/></g></g></g>
+  <g transform="translate(80, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>radio-button-off</title><g id="Layer_2" data-name="Layer 2"><g id="radio-button-off"><g id="radio-button-off-2" data-name="radio-button-off"><path class="cls-2" d="M12,22A10,10,0,1,1,22,12,10,10,0,0,1,12,22ZM12,4a8,8,0,1,0,8,8A8,8,0,0,0,12,4Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 10: plus-square -->
-  <g transform="translate(316, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>plus-square</title><g id="Layer_2" data-name="Layer 2"><g id="plus-square"><g id="plus-square-2" data-name="plus-square"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M18,3H6A3,3,0,0,0,3,6V18a3,3,0,0,0,3,3H18a3,3,0,0,0,3-3V6A3,3,0,0,0,18,3ZM15,13H13v2a1,1,0,0,1-2,0V13H9a1,1,0,0,1,0-2h2V9a1,1,0,0,1,2,0v2h2a1,1,0,0,1,0,2Z"/></g></g></g>
+  <g transform="translate(140, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>plus-square</title><g id="Layer_2" data-name="Layer 2"><g id="plus-square"><g id="plus-square-2" data-name="plus-square"><path class="cls-2" d="M18,3H6A3,3,0,0,0,3,6V18a3,3,0,0,0,3,3H18a3,3,0,0,0,3-3V6A3,3,0,0,0,18,3ZM15,13H13v2a1,1,0,0,1-2,0V13H9a1,1,0,0,1,0-2h2V9a1,1,0,0,1,2,0v2h2a1,1,0,0,1,0,2Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 11: phone-off -->
-  <g transform="translate(376, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>phone-off</title><g id="Layer_2" data-name="Layer 2"><g id="phone-off"><g id="phone-off-2" data-name="phone-off"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M9.27,12.06a10.37,10.37,0,0,1-.8-1.42C9.71,10,9.72,10,9.85,9.85a1,1,0,0,0,.26-.92L8.74,3a1,1,0,0,0-.65-.72,3.79,3.79,0,0,0-.72-.18A3.94,3.94,0,0,0,6.6,2,4.6,4.6,0,0,0,2,6.6a15.33,15.33,0,0,0,3.27,9.46Z"/><path class="cls-2" d="M21.94,16.64a4.34,4.34,0,0,0-.19-.73,1,1,0,0,0-.72-.65l-6-1.37a1,1,0,0,0-.92.26c-.14.13-.15.14-.8,1.38a10.88,10.88,0,0,1-1.41-.8l-4,4A15.33,15.33,0,0,0,17.4,22,4.6,4.6,0,0,0,22,17.4,4.77,4.77,0,0,0,21.94,16.64Z"/><path class="cls-2" d="M19.74,4.26a.89.89,0,0,0-1.26,0L4.26,18.48a.91.91,0,0,0-.26.63.89.89,0,0,0,1.52.63L19.74,5.52A.89.89,0,0,0,19.74,4.26Z"/></g></g></g>
+  <g transform="translate(200, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>phone-off</title><g id="Layer_2" data-name="Layer 2"><g id="phone-off"><g id="phone-off-2" data-name="phone-off"><path class="cls-2" d="M9.27,12.06a10.37,10.37,0,0,1-.8-1.42C9.71,10,9.72,10,9.85,9.85a1,1,0,0,0,.26-.92L8.74,3a1,1,0,0,0-.65-.72,3.79,3.79,0,0,0-.72-.18A3.94,3.94,0,0,0,6.6,2,4.6,4.6,0,0,0,2,6.6a15.33,15.33,0,0,0,3.27,9.46Z"/><path class="cls-2" d="M21.94,16.64a4.34,4.34,0,0,0-.19-.73,1,1,0,0,0-.72-.65l-6-1.37a1,1,0,0,0-.92.26c-.14.13-.15.14-.8,1.38a10.88,10.88,0,0,1-1.41-.8l-4,4A15.33,15.33,0,0,0,17.4,22,4.6,4.6,0,0,0,22,17.4,4.77,4.77,0,0,0,21.94,16.64Z"/><path class="cls-2" d="M19.74,4.26a.89.89,0,0,0-1.26,0L4.26,18.48a.91.91,0,0,0-.26.63.89.89,0,0,0,1.52.63L19.74,5.52A.89.89,0,0,0,19.74,4.26Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 12: person-add -->
-  <g transform="translate(436, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>person-add</title><g id="Layer_2" data-name="Layer 2"><g id="person-add"><g id="person-add-2" data-name="person-add"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M21,6H20V5a1,1,0,0,0-2,0V6H17a1,1,0,0,0,0,2h1V9a1,1,0,0,0,2,0V8h1a1,1,0,0,0,0-2Z"/><path class="cls-2" d="M10,11A4,4,0,1,0,6,7,4,4,0,0,0,10,11Z"/><path class="cls-2" d="M16,21a1,1,0,0,0,1-1A7,7,0,0,0,3,20a1,1,0,0,0,1,1"/></g></g></g>
+  <g transform="translate(260, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>person-add</title><g id="Layer_2" data-name="Layer 2"><g id="person-add"><g id="person-add-2" data-name="person-add"><path class="cls-2" d="M21,6H20V5a1,1,0,0,0-2,0V6H17a1,1,0,0,0,0,2h1V9a1,1,0,0,0,2,0V8h1a1,1,0,0,0,0-2Z"/><path class="cls-2" d="M10,11A4,4,0,1,0,6,7,4,4,0,0,0,10,11Z"/><path class="cls-2" d="M16,21a1,1,0,0,0,1-1A7,7,0,0,0,3,20a1,1,0,0,0,1,1"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 13: options-2 -->
-  <g transform="translate(496, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>options-2</title><g id="Layer_2" data-name="Layer 2"><g id="options-2"><g id="options-2-2" data-name="options-2"><rect class="cls-1" width="24" height="24" transform="translate(24 0) rotate(90)"/><path class="cls-2" d="M19,9a3,3,0,0,0-2.82,2H3a1,1,0,0,0,0,2H16.18A3,3,0,1,0,19,9Z"/><path class="cls-2" d="M3,7H4.18A3,3,0,0,0,9.82,7H21a1,1,0,0,0,0-2H9.82A3,3,0,0,0,4.18,5H3A1,1,0,0,0,3,7Z"/><path class="cls-2" d="M21,17H13.82a3,3,0,0,0-5.64,0H3a1,1,0,0,0,0,2H8.18a3,3,0,0,0,5.64,0H21a1,1,0,0,0,0-2Z"/></g></g></g>
+  <g transform="translate(320, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>options-2</title><g id="Layer_2" data-name="Layer 2"><g id="options-2"><g id="options-2-2" data-name="options-2"><path class="cls-2" d="M19,9a3,3,0,0,0-2.82,2H3a1,1,0,0,0,0,2H16.18A3,3,0,1,0,19,9Z"/><path class="cls-2" d="M3,7H4.18A3,3,0,0,0,9.82,7H21a1,1,0,0,0,0-2H9.82A3,3,0,0,0,4.18,5H3A1,1,0,0,0,3,7Z"/><path class="cls-2" d="M21,17H13.82a3,3,0,0,0-5.64,0H3a1,1,0,0,0,0,2H8.18a3,3,0,0,0,5.64,0H21a1,1,0,0,0,0-2Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 14: more-horizontal -->
-  <g transform="translate(556, 152)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>more-horizotnal</title><g id="Layer_2" data-name="Layer 2"><g id="more-horizotnal"><g id="more-horizotnal-2" data-name="more-horizotnal"><rect class="cls-1" width="24" height="24"/><circle class="cls-2" cx="12" cy="12" r="2"/><circle class="cls-2" cx="19" cy="12" r="2"/><circle class="cls-2" cx="5" cy="12" r="2"/></g></g></g>
+  <g transform="translate(380, 80)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>more-horizotnal</title><g id="Layer_2" data-name="Layer 2"><g id="more-horizotnal"><g id="more-horizotnal-2" data-name="more-horizotnal"><circle class="cls-2" cx="12" cy="12" r="2"/><circle class="cls-2" cx="19" cy="12" r="2"/><circle class="cls-2" cx="5" cy="12" r="2"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 15: mic -->
-  <g transform="translate(196, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>mic</title><g id="Layer_2" data-name="Layer 2"><g id="mic"><g id="mic-2" data-name="mic"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M12,15a4,4,0,0,0,4-4V6A4,4,0,0,0,8,6v5A4,4,0,0,0,12,15Z"/><path class="cls-2" d="M19,11a1,1,0,0,0-2,0A5,5,0,0,1,7,11a1,1,0,0,0-2,0,7,7,0,0,0,6,6.92V20H8.89a.89.89,0,0,0-.89.89v.22a.89.89,0,0,0,.89.89h6.22a.89.89,0,0,0,.89-.89v-.22a.89.89,0,0,0-.89-.89H13V17.92A7,7,0,0,0,19,11Z"/></g></g></g>
+  <g transform="translate(20, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>mic</title><g id="Layer_2" data-name="Layer 2"><g id="mic"><g id="mic-2" data-name="mic"><path class="cls-2" d="M12,15a4,4,0,0,0,4-4V6A4,4,0,0,0,8,6v5A4,4,0,0,0,12,15Z"/><path class="cls-2" d="M19,11a1,1,0,0,0-2,0A5,5,0,0,1,7,11a1,1,0,0,0-2,0,7,7,0,0,0,6,6.92V20H8.89a.89.89,0,0,0-.89.89v.22a.89.89,0,0,0,.89.89h6.22a.89.89,0,0,0,.89-.89v-.22a.89.89,0,0,0-.89-.89H13V17.92A7,7,0,0,0,19,11Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 16: maximize -->
-  <g transform="translate(256, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>maximize</title><g id="Layer_2" data-name="Layer 2"><g id="maximize"><g id="maximize-2" data-name="maximize"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M20.71,19.29l-3.4-3.39A7.92,7.92,0,0,0,19,11a8,8,0,1,0-8,8,7.92,7.92,0,0,0,4.9-1.69l3.39,3.4a1,1,0,0,0,1.42,0A1,1,0,0,0,20.71,19.29ZM13,12H12v1a1,1,0,0,1-2,0V12H9a1,1,0,0,1,0-2h1V9a1,1,0,0,1,2,0v1h1a1,1,0,0,1,0,2Z"/></g></g></g>
+  <g transform="translate(80, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>maximize</title><g id="Layer_2" data-name="Layer 2"><g id="maximize"><g id="maximize-2" data-name="maximize"><path class="cls-2" d="M20.71,19.29l-3.4-3.39A7.92,7.92,0,0,0,19,11a8,8,0,1,0-8,8,7.92,7.92,0,0,0,4.9-1.69l3.39,3.4a1,1,0,0,0,1.42,0A1,1,0,0,0,20.71,19.29ZM13,12H12v1a1,1,0,0,1-2,0V12H9a1,1,0,0,1,0-2h1V9a1,1,0,0,1,2,0v1h1a1,1,0,0,1,0,2Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 17: link -->
-  <g transform="translate(316, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>link</title><g id="Layer_2" data-name="Layer 2"><g id="link"><g id="link-2" data-name="link"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M8,12a1,1,0,0,0,1,1h6a1,1,0,0,0,0-2H9A1,1,0,0,0,8,12Z"/><path class="cls-2" d="M9,16H7.21A4.13,4.13,0,0,1,3,12.37,4,4,0,0,1,7,8H9A1,1,0,0,0,9,6H7.21a6.15,6.15,0,0,0-6.16,5.21A6,6,0,0,0,7,18H9a1,1,0,0,0,0-2Z"/><path class="cls-2" d="M23,11.24A6.16,6.16,0,0,0,16.76,6H15.25C14.44,6,14,6.45,14,7a1,1,0,0,0,1,1h1.79A4.13,4.13,0,0,1,21,11.63,4,4,0,0,1,17,16H15a1,1,0,0,0,0,2h2A6,6,0,0,0,23,11.24Z"/></g></g></g>
+  <g transform="translate(140, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>link</title><g id="Layer_2" data-name="Layer 2"><g id="link"><g id="link-2" data-name="link"><path class="cls-2" d="M8,12a1,1,0,0,0,1,1h6a1,1,0,0,0,0-2H9A1,1,0,0,0,8,12Z"/><path class="cls-2" d="M9,16H7.21A4.13,4.13,0,0,1,3,12.37,4,4,0,0,1,7,8H9A1,1,0,0,0,9,6H7.21a6.15,6.15,0,0,0-6.16,5.21A6,6,0,0,0,7,18H9a1,1,0,0,0,0-2Z"/><path class="cls-2" d="M23,11.24A6.16,6.16,0,0,0,16.76,6H15.25C14.44,6,14,6.45,14,7a1,1,0,0,0,1,1h1.79A4.13,4.13,0,0,1,21,11.63,4,4,0,0,1,17,16H15a1,1,0,0,0,0,2h2A6,6,0,0,0,23,11.24Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 18: image -->
-  <g transform="translate(376, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>image</title><g id="Layer_2" data-name="Layer 2"><g id="image"><g id="image-2" data-name="image"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M18,3H6A3,3,0,0,0,3,6V18a3,3,0,0,0,3,3H18a3,3,0,0,0,3-3V6A3,3,0,0,0,18,3ZM6,5H18a1,1,0,0,1,1,1v8.36l-3.2-2.73a2.77,2.77,0,0,0-3.52,0L5,17.7V6A1,1,0,0,1,6,5Z"/><circle class="cls-2" cx="8" cy="8.5" r="1.5"/></g></g></g>
+  <g transform="translate(200, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>image</title><g id="Layer_2" data-name="Layer 2"><g id="image"><g id="image-2" data-name="image"><path class="cls-2" d="M18,3H6A3,3,0,0,0,3,6V18a3,3,0,0,0,3,3H18a3,3,0,0,0,3-3V6A3,3,0,0,0,18,3ZM6,5H18a1,1,0,0,1,1,1v8.36l-3.2-2.73a2.77,2.77,0,0,0-3.52,0L5,17.7V6A1,1,0,0,1,6,5Z"/><circle class="cls-2" cx="8" cy="8.5" r="1.5"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 19: grid -->
-  <g transform="translate(436, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>grid</title><g id="Layer_2" data-name="Layer 2"><g id="grid"><g id="grid-2" data-name="grid"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M9,3H5A2,2,0,0,0,3,5V9a2,2,0,0,0,2,2H9a2,2,0,0,0,2-2V5A2,2,0,0,0,9,3Z"/><path class="cls-2" d="M19,3H15a2,2,0,0,0-2,2V9a2,2,0,0,0,2,2h4a2,2,0,0,0,2-2V5A2,2,0,0,0,19,3Z"/><path class="cls-2" d="M9,13H5a2,2,0,0,0-2,2v4a2,2,0,0,0,2,2H9a2,2,0,0,0,2-2V15A2,2,0,0,0,9,13Z"/><path class="cls-2" d="M19,13H15a2,2,0,0,0-2,2v4a2,2,0,0,0,2,2h4a2,2,0,0,0,2-2V15A2,2,0,0,0,19,13Z"/></g></g></g>
+  <g transform="translate(260, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>grid</title><g id="Layer_2" data-name="Layer 2"><g id="grid"><g id="grid-2" data-name="grid"><path class="cls-2" d="M9,3H5A2,2,0,0,0,3,5V9a2,2,0,0,0,2,2H9a2,2,0,0,0,2-2V5A2,2,0,0,0,9,3Z"/><path class="cls-2" d="M19,3H15a2,2,0,0,0-2,2V9a2,2,0,0,0,2,2h4a2,2,0,0,0,2-2V5A2,2,0,0,0,19,3Z"/><path class="cls-2" d="M9,13H5a2,2,0,0,0-2,2v4a2,2,0,0,0,2,2H9a2,2,0,0,0,2-2V15A2,2,0,0,0,9,13Z"/><path class="cls-2" d="M19,13H15a2,2,0,0,0-2,2v4a2,2,0,0,0,2,2h4a2,2,0,0,0,2-2V15A2,2,0,0,0,19,13Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 20: funnel -->
-  <g transform="translate(496, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>funnel</title><g id="Layer_2" data-name="Layer 2"><g id="funnel"><g id="funnel-2" data-name="funnel"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M13.9,22a1,1,0,0,1-.6-.2l-4-3.05a1,1,0,0,1-.39-.8V14.68L4.11,5.46A1,1,0,0,1,5,4H19a1,1,0,0,1,.86.49,1,1,0,0,1,0,1l-5,9.21V21a1,1,0,0,1-.55.9A1,1,0,0,1,13.9,22Z"/></g></g></g>
+  <g transform="translate(320, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>funnel</title><g id="Layer_2" data-name="Layer 2"><g id="funnel"><g id="funnel-2" data-name="funnel"><path class="cls-2" d="M13.9,22a1,1,0,0,1-.6-.2l-4-3.05a1,1,0,0,1-.39-.8V14.68L4.11,5.46A1,1,0,0,1,5,4H19a1,1,0,0,1,.86.49,1,1,0,0,1,0,1l-5,9.21V21a1,1,0,0,1-.55.9A1,1,0,0,1,13.9,22Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 21: flash-off -->
-  <g transform="translate(556, 212)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>flash-off</title><g id="Layer_2" data-name="Layer 2"><g id="flash-off"><g id="flash-off-2" data-name="flash-off"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M17.33,14.5l2.5-3.74A1,1,0,0,0,19,9.2H13.11l.77-7.09a1,1,0,0,0-.65-1,1,1,0,0,0-1.17.38L8.94,6.11Z"/><path class="cls-2" d="M6.67,9.5l-2.5,3.74A1,1,0,0,0,5,14.8h5.89l-.77,7.09a1,1,0,0,0,.65,1.05,1,1,0,0,0,.34.06,1,1,0,0,0,.83-.44l3.12-4.67Z"/><path class="cls-2" d="M20.71,19.29l-16-16A1,1,0,0,0,3.29,4.71l16,16a1,1,0,0,0,1.42,0A1,1,0,0,0,20.71,19.29Z"/></g></g></g>
+  <g transform="translate(380, 140)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>flash-off</title><g id="Layer_2" data-name="Layer 2"><g id="flash-off"><g id="flash-off-2" data-name="flash-off"><path class="cls-2" d="M17.33,14.5l2.5-3.74A1,1,0,0,0,19,9.2H13.11l.77-7.09a1,1,0,0,0-.65-1,1,1,0,0,0-1.17.38L8.94,6.11Z"/><path class="cls-2" d="M6.67,9.5l-2.5,3.74A1,1,0,0,0,5,14.8h5.89l-.77,7.09a1,1,0,0,0,.65,1.05,1,1,0,0,0,.34.06,1,1,0,0,0,.83-.44l3.12-4.67Z"/><path class="cls-2" d="M20.71,19.29l-16-16A1,1,0,0,0,3.29,4.71l16,16a1,1,0,0,0,1.42,0A1,1,0,0,0,20.71,19.29Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 22: facebook -->
-  <g transform="translate(196, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>facebook</title><g id="Layer_2" data-name="Layer 2"><g id="facebook"><g id="facebook-2" data-name="facebook"><rect class="cls-1" width="24" height="24" transform="translate(24 24) rotate(180)"/><path class="cls-2" d="M17,3.5a.5.5,0,0,0-.5-.5H14A4.77,4.77,0,0,0,9,7.5v2.7H6.5a.5.5,0,0,0-.5.5v2.6a.5.5,0,0,0,.5.5H9v6.7a.5.5,0,0,0,.5.5h3a.5.5,0,0,0,.5-.5V13.8h2.62a.5.5,0,0,0,.49-.37l.72-2.6a.5.5,0,0,0-.48-.63H13V7.5a1,1,0,0,1,1-.9h2.5a.5.5,0,0,0,.5-.5Z"/></g></g></g>
+  <g transform="translate(20, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>facebook</title><g id="Layer_2" data-name="Layer 2"><g id="facebook"><g id="facebook-2" data-name="facebook"><path class="cls-2" d="M17,3.5a.5.5,0,0,0-.5-.5H14A4.77,4.77,0,0,0,9,7.5v2.7H6.5a.5.5,0,0,0-.5.5v2.6a.5.5,0,0,0,.5.5H9v6.7a.5.5,0,0,0,.5.5h3a.5.5,0,0,0,.5-.5V13.8h2.62a.5.5,0,0,0,.49-.37l.72-2.6a.5.5,0,0,0-.48-.63H13V7.5a1,1,0,0,1,1-.9h2.5a.5.5,0,0,0,.5-.5Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 23: edit -->
-  <g transform="translate(256, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>edit</title><g id="Layer_2" data-name="Layer 2"><g id="edit"><g id="edit-2" data-name="edit"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M19.4,7.34h0L16.66,4.6A2,2,0,0,0,14,4.53l-9,9a2,2,0,0,0-.57,1.21L4,18.91a1,1,0,0,0,.29.8A1,1,0,0,0,5,20h.09l4.17-.38a2,2,0,0,0,1.21-.57l9-9A1.92,1.92,0,0,0,19.4,7.34ZM16,10.68,13.32,8,15.27,6,18,8.73Z"/></g></g></g>
+  <g transform="translate(80, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>edit</title><g id="Layer_2" data-name="Layer 2"><g id="edit"><g id="edit-2" data-name="edit"><path class="cls-2" d="M19.4,7.34h0L16.66,4.6A2,2,0,0,0,14,4.53l-9,9a2,2,0,0,0-.57,1.21L4,18.91a1,1,0,0,0,.29.8A1,1,0,0,0,5,20h.09l4.17-.38a2,2,0,0,0,1.21-.57l9-9A1.92,1.92,0,0,0,19.4,7.34ZM16,10.68,13.32,8,15.27,6,18,8.73Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 24: diagonal-arrow-right-down -->
-  <g transform="translate(316, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>diagonal-arrow-right-down</title><g id="Layer_2" data-name="Layer 2"><g id="diagonal-arrow-right-down"><g id="diagonal-arrow-right-down-2" data-name="diagonal-arrow-right-down"><rect class="cls-1" width="24" height="24" transform="translate(0 24) rotate(-90)"/><path class="cls-2" d="M17,8a1,1,0,0,0-1,1v5.59L7.71,6.29A1,1,0,0,0,6.29,7.71L14.59,16H9a1,1,0,0,0,0,2h8a1,1,0,0,0,1-1V9A1,1,0,0,0,17,8Z"/></g></g></g>
+  <g transform="translate(140, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>diagonal-arrow-right-down</title><g id="Layer_2" data-name="Layer 2"><g id="diagonal-arrow-right-down"><g id="diagonal-arrow-right-down-2" data-name="diagonal-arrow-right-down"><path class="cls-2" d="M17,8a1,1,0,0,0-1,1v5.59L7.71,6.29A1,1,0,0,0,6.29,7.71L14.59,16H9a1,1,0,0,0,0,2h8a1,1,0,0,0,1-1V9A1,1,0,0,0,17,8Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 25: corner-up-left -->
-  <g transform="translate(376, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>corner-up-left</title><g id="Layer_2" data-name="Layer 2"><g id="corner-up-left"><g id="corner-up-left-2" data-name="corner-up-left"><rect class="cls-1" width="24" height="24" transform="translate(24 0) rotate(90)"/><path class="cls-2" d="M16,10H7.08l2.7-3.38A1,1,0,1,0,8.22,5.38l-4,5a1,1,0,0,0,0,1.24l4,5A1,1,0,0,0,9,17a1,1,0,0,0,.62-.22,1,1,0,0,0,.16-1.4L7.08,12H16a1,1,0,0,1,1,1v5a1,1,0,0,0,2,0V13A3,3,0,0,0,16,10Z"/></g></g></g>
+  <g transform="translate(200, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>corner-up-left</title><g id="Layer_2" data-name="Layer 2"><g id="corner-up-left"><g id="corner-up-left-2" data-name="corner-up-left"><path class="cls-2" d="M16,10H7.08l2.7-3.38A1,1,0,1,0,8.22,5.38l-4,5a1,1,0,0,0,0,1.24l4,5A1,1,0,0,0,9,17a1,1,0,0,0,.62-.22,1,1,0,0,0,.16-1.4L7.08,12H16a1,1,0,0,1,1,1v5a1,1,0,0,0,2,0V13A3,3,0,0,0,16,10Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 26: copy -->
-  <g transform="translate(436, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>copy</title><g id="Layer_2" data-name="Layer 2"><g id="copy"><g id="copy-2" data-name="copy"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M18,9H15V5.67A2.68,2.68,0,0,0,12.33,3H5.67A2.68,2.68,0,0,0,3,5.67v6.66A2.68,2.68,0,0,0,5.67,15H9v3a3,3,0,0,0,3,3h6a3,3,0,0,0,3-3V12A3,3,0,0,0,18,9ZM9,12v1H5.67A.67.67,0,0,1,5,12.33V5.67A.67.67,0,0,1,5.67,5h6.66a.67.67,0,0,1,.67.67V9H12A3,3,0,0,0,9,12Z"/></g></g></g>
+  <g transform="translate(260, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>copy</title><g id="Layer_2" data-name="Layer 2"><g id="copy"><g id="copy-2" data-name="copy"><path class="cls-2" d="M18,9H15V5.67A2.68,2.68,0,0,0,12.33,3H5.67A2.68,2.68,0,0,0,3,5.67v6.66A2.68,2.68,0,0,0,5.67,15H9v3a3,3,0,0,0,3,3h6a3,3,0,0,0,3-3V12A3,3,0,0,0,18,9ZM9,12v1H5.67A.67.67,0,0,1,5,12.33V5.67A.67.67,0,0,1,5.67,5h6.66a.67.67,0,0,1,.67.67V9H12A3,3,0,0,0,9,12Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 27: cloud-upload -->
-  <g transform="translate(496, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>cloud-upload</title><g id="Layer_2" data-name="Layer 2"><g id="cloud-upload"><g id="cloud-upload-2" data-name="cloud-upload"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M21.9,12c0-.11-.06-.22-.09-.33a4.17,4.17,0,0,0-.18-.57c-.05-.12-.12-.24-.18-.37s-.15-.3-.24-.44S21,10.08,21,10s-.2-.25-.31-.37-.21-.2-.32-.3L20,9l-.36-.24a3.68,3.68,0,0,0-.44-.23l-.39-.18a4.13,4.13,0,0,0-.5-.15,3,3,0,0,0-.41-.09L17.67,8A6,6,0,0,0,6.33,8l-.18.05a3,3,0,0,0-.41.09,4.13,4.13,0,0,0-.5.15l-.39.18a3.68,3.68,0,0,0-.44.23L4.05,9l-.37.31c-.11.1-.22.19-.32.3s-.21.25-.31.37-.18.23-.26.36-.16.29-.24.44-.13.25-.18.37a4.17,4.17,0,0,0-.18.57c0,.11-.07.22-.09.33A5.23,5.23,0,0,0,2,13a5.5,5.5,0,0,0,.09.91c0,.1.05.19.07.29a5.58,5.58,0,0,0,.18.58l.12.29a5,5,0,0,0,.3.56l.14.22a.56.56,0,0,0,.05.08L3,16a5,5,0,0,0,4,2h3V16.63a2,2,0,0,1-1,.27,2.05,2.05,0,0,1-1.44-.61,2,2,0,0,1,.05-2.83l3-2.9A2,2,0,0,1,12,10a2,2,0,0,1,1.41.59l3,3a2,2,0,0,1,0,2.82A2,2,0,0,1,15,17a1.92,1.92,0,0,1-1-.27V18h3a5,5,0,0,0,4-2l.05-.05a.56.56,0,0,0,.05-.08l.14-.22a5,5,0,0,0,.3-.56l.12-.29a5.58,5.58,0,0,0,.18-.58c0-.1.05-.19.07-.29A5.5,5.5,0,0,0,22,13,5.23,5.23,0,0,0,21.9,12Z"/><path class="cls-2" d="M12.71,11.29a1,1,0,0,0-1.4,0l-3,2.9a1,1,0,1,0,1.38,1.44L11,14.36V20a1,1,0,0,0,2,0V14.41l1.29,1.3a1,1,0,0,0,1.42,0,1,1,0,0,0,0-1.42Z"/></g></g></g>
+  <g transform="translate(320, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>cloud-upload</title><g id="Layer_2" data-name="Layer 2"><g id="cloud-upload"><g id="cloud-upload-2" data-name="cloud-upload"><path class="cls-2" d="M21.9,12c0-.11-.06-.22-.09-.33a4.17,4.17,0,0,0-.18-.57c-.05-.12-.12-.24-.18-.37s-.15-.3-.24-.44S21,10.08,21,10s-.2-.25-.31-.37-.21-.2-.32-.3L20,9l-.36-.24a3.68,3.68,0,0,0-.44-.23l-.39-.18a4.13,4.13,0,0,0-.5-.15,3,3,0,0,0-.41-.09L17.67,8A6,6,0,0,0,6.33,8l-.18.05a3,3,0,0,0-.41.09,4.13,4.13,0,0,0-.5.15l-.39.18a3.68,3.68,0,0,0-.44.23L4.05,9l-.37.31c-.11.1-.22.19-.32.3s-.21.25-.31.37-.18.23-.26.36-.16.29-.24.44-.13.25-.18.37a4.17,4.17,0,0,0-.18.57c0,.11-.07.22-.09.33A5.23,5.23,0,0,0,2,13a5.5,5.5,0,0,0,.09.91c0,.1.05.19.07.29a5.58,5.58,0,0,0,.18.58l.12.29a5,5,0,0,0,.3.56l.14.22a.56.56,0,0,0,.05.08L3,16a5,5,0,0,0,4,2h3V16.63a2,2,0,0,1-1,.27,2.05,2.05,0,0,1-1.44-.61,2,2,0,0,1,.05-2.83l3-2.9A2,2,0,0,1,12,10a2,2,0,0,1,1.41.59l3,3a2,2,0,0,1,0,2.82A2,2,0,0,1,15,17a1.92,1.92,0,0,1-1-.27V18h3a5,5,0,0,0,4-2l.05-.05a.56.56,0,0,0,.05-.08l.14-.22a5,5,0,0,0,.3-.56l.12-.29a5.58,5.58,0,0,0,.18-.58c0-.1.05-.19.07-.29A5.5,5.5,0,0,0,22,13,5.23,5.23,0,0,0,21.9,12Z"/><path class="cls-2" d="M12.71,11.29a1,1,0,0,0-1.4,0l-3,2.9a1,1,0,1,0,1.38,1.44L11,14.36V20a1,1,0,0,0,2,0V14.41l1.29,1.3a1,1,0,0,0,1.42,0,1,1,0,0,0,0-1.42Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 28: chevron-up -->
-  <g transform="translate(556, 272)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>chevron-up</title><g id="Layer_2" data-name="Layer 2"><g id="chevron-up"><g id="chevron-up-2" data-name="chevron-up"><rect class="cls-1" width="24" height="24" transform="translate(24 24) rotate(180)"/><path class="cls-2" d="M16,14.5a1,1,0,0,1-.71-.29L12,10.9l-3.3,3.18a1,1,0,0,1-1.41,0,1,1,0,0,1,0-1.42l4-3.86a1,1,0,0,1,1.4,0l4,4a1,1,0,0,1,0,1.42A1,1,0,0,1,16,14.5Z"/></g></g></g>
+  <g transform="translate(380, 200)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>chevron-up</title><g id="Layer_2" data-name="Layer 2"><g id="chevron-up"><g id="chevron-up-2" data-name="chevron-up"><path class="cls-2" d="M16,14.5a1,1,0,0,1-.71-.29L12,10.9l-3.3,3.18a1,1,0,0,1-1.41,0,1,1,0,0,1,0-1.42l4-3.86a1,1,0,0,1,1.4,0l4,4a1,1,0,0,1,0,1.42A1,1,0,0,1,16,14.5Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 29: checkmark-circle -->
-  <g transform="translate(196, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>checkmark-circle</title><g id="Layer_2" data-name="Layer 2"><g id="checkmark-circle"><g id="checkmark-circle-2" data-name="checkmark-circle"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M9.71,11.29a1,1,0,0,0-1.42,1.42l3,3A1,1,0,0,0,12,16h0a1,1,0,0,0,.72-.34l7-8a1,1,0,0,0-1.5-1.32L12,13.54Z"/><path class="cls-2" d="M21,11h0a1,1,0,0,0-1,1,8,8,0,0,1-8,8h0A8,8,0,0,1,6.33,6.36,7.93,7.93,0,0,1,12,4a8.79,8.79,0,0,1,1.9.22,1,1,0,1,0,.47-1.94A10.54,10.54,0,0,0,12,2,10,10,0,0,0,5,19.09,9.93,9.93,0,0,0,12,22h0A10,10,0,0,0,22,12,1,1,0,0,0,21,11Z"/></g></g></g>
+  <g transform="translate(20, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>checkmark-circle</title><g id="Layer_2" data-name="Layer 2"><g id="checkmark-circle"><g id="checkmark-circle-2" data-name="checkmark-circle"><path class="cls-2" d="M9.71,11.29a1,1,0,0,0-1.42,1.42l3,3A1,1,0,0,0,12,16h0a1,1,0,0,0,.72-.34l7-8a1,1,0,0,0-1.5-1.32L12,13.54Z"/><path class="cls-2" d="M21,11h0a1,1,0,0,0-1,1,8,8,0,0,1-8,8h0A8,8,0,0,1,6.33,6.36,7.93,7.93,0,0,1,12,4a8.79,8.79,0,0,1,1.9.22,1,1,0,1,0,.47-1.94A10.54,10.54,0,0,0,12,2,10,10,0,0,0,5,19.09,9.93,9.93,0,0,0,12,22h0A10,10,0,0,0,22,12,1,1,0,0,0,21,11Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 30: bulb -->
-  <g transform="translate(256, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>bulb</title><g id="Layer_2" data-name="Layer 2"><g id="bulb"><g id="bulb-2" data-name="bulb"><rect class="cls-1" width="24" height="24" transform="translate(24 24) rotate(180)"/><path class="cls-2" d="M12,7a5,5,0,0,0-3,9v4a2,2,0,0,0,2,2h2a2,2,0,0,0,2-2V16a5,5,0,0,0-3-9Z"/><path class="cls-2" d="M12,6a1,1,0,0,0,1-1V3a1,1,0,0,0-2,0V5A1,1,0,0,0,12,6Z"/><path class="cls-2" d="M21,11H19a1,1,0,0,0,0,2h2a1,1,0,0,0,0-2Z"/><path class="cls-2" d="M5,11H3a1,1,0,0,0,0,2H5a1,1,0,0,0,0-2Z"/><path class="cls-2" d="M7.66,6.42,6.22,5A1,1,0,0,0,4.83,6.47L6.27,7.86A1,1,0,0,0,7,8.14a1,1,0,0,0,.72-.31A1,1,0,0,0,7.66,6.42Z"/><path class="cls-2" d="M19.19,5.05a1,1,0,0,0-1.41,0L16.34,6.42a1,1,0,0,0,0,1.41,1,1,0,0,0,.72.31,1,1,0,0,0,.69-.28l1.44-1.39A1,1,0,0,0,19.19,5.05Z"/></g></g></g>
+  <g transform="translate(80, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>bulb</title><g id="Layer_2" data-name="Layer 2"><g id="bulb"><g id="bulb-2" data-name="bulb"><path class="cls-2" d="M12,7a5,5,0,0,0-3,9v4a2,2,0,0,0,2,2h2a2,2,0,0,0,2-2V16a5,5,0,0,0-3-9Z"/><path class="cls-2" d="M12,6a1,1,0,0,0,1-1V3a1,1,0,0,0-2,0V5A1,1,0,0,0,12,6Z"/><path class="cls-2" d="M21,11H19a1,1,0,0,0,0,2h2a1,1,0,0,0,0-2Z"/><path class="cls-2" d="M5,11H3a1,1,0,0,0,0,2H5a1,1,0,0,0,0-2Z"/><path class="cls-2" d="M7.66,6.42,6.22,5A1,1,0,0,0,4.83,6.47L6.27,7.86A1,1,0,0,0,7,8.14a1,1,0,0,0,.72-.31A1,1,0,0,0,7.66,6.42Z"/><path class="cls-2" d="M19.19,5.05a1,1,0,0,0-1.41,0L16.34,6.42a1,1,0,0,0,0,1.41,1,1,0,0,0,.72.31,1,1,0,0,0,.69-.28l1.44-1.39A1,1,0,0,0,19.19,5.05Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 31: bluetooth -->
-  <g transform="translate(316, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>bluetooth</title><g id="Layer_2" data-name="Layer 2"><g id="bluetooth"><g id="bluetooth-2" data-name="bluetooth"><rect class="cls-1" width="24" height="24" transform="translate(24 0) rotate(90)"/><path class="cls-2" d="M13.63,12l4-3.79a1.14,1.14,0,0,0-.13-1.77L12.83,3.21a1.17,1.17,0,0,0-1.21-.08,1.15,1.15,0,0,0-.62,1v6.2l-3.19-4A1,1,0,0,0,6.25,7.63L9.72,12l-3.5,4.43a1,1,0,0,0,.16,1.4A1,1,0,0,0,7,18a1,1,0,0,0,.78-.38L11,13.56v6.29A1.16,1.16,0,0,0,12.16,21a1.16,1.16,0,0,0,.67-.21l4.64-3.18a1.17,1.17,0,0,0,.49-.85,1.15,1.15,0,0,0-.34-.91ZM13,5.76l2.5,1.73L13,9.85Zm0,12.49V14.18l2.47,2.38Z"/></g></g></g>
+  <g transform="translate(140, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>bluetooth</title><g id="Layer_2" data-name="Layer 2"><g id="bluetooth"><g id="bluetooth-2" data-name="bluetooth"><path class="cls-2" d="M13.63,12l4-3.79a1.14,1.14,0,0,0-.13-1.77L12.83,3.21a1.17,1.17,0,0,0-1.21-.08,1.15,1.15,0,0,0-.62,1v6.2l-3.19-4A1,1,0,0,0,6.25,7.63L9.72,12l-3.5,4.43a1,1,0,0,0,.16,1.4A1,1,0,0,0,7,18a1,1,0,0,0,.78-.38L11,13.56v6.29A1.16,1.16,0,0,0,12.16,21a1.16,1.16,0,0,0,.67-.21l4.64-3.18a1.17,1.17,0,0,0,.49-.85,1.15,1.15,0,0,0-.34-.91ZM13,5.76l2.5,1.73L13,9.85Zm0,12.49V14.18l2.47,2.38Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 32: backspace -->
-  <g transform="translate(376, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>backspace</title><g id="Layer_2" data-name="Layer 2"><g id="backspace"><g id="backspace-2" data-name="backspace"><rect class="cls-1" width="24" height="24"/><path class="cls-2" d="M20.14,4H10.37a3,3,0,0,0-2,.78l-.1.11-6,7.48a1,1,0,0,0,.11,1.37l6,5.48a3,3,0,0,0,2,.78h9.77A1.84,1.84,0,0,0,22,18.18V5.82A1.84,1.84,0,0,0,20.14,4Zm-3.43,9.29a1,1,0,0,1,0,1.42,1,1,0,0,1-1.42,0L14,13.41l-1.29,1.3a1,1,0,0,1-1.42,0,1,1,0,0,1,0-1.42L12.59,12l-1.3-1.29a1,1,0,0,1,1.42-1.42L14,10.59l1.29-1.3a1,1,0,0,1,1.42,1.42L15.41,12Z"/></g></g></g>
+  <g transform="translate(200, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>backspace</title><g id="Layer_2" data-name="Layer 2"><g id="backspace"><g id="backspace-2" data-name="backspace"><path class="cls-2" d="M20.14,4H10.37a3,3,0,0,0-2,.78l-.1.11-6,7.48a1,1,0,0,0,.11,1.37l6,5.48a3,3,0,0,0,2,.78h9.77A1.84,1.84,0,0,0,22,18.18V5.82A1.84,1.84,0,0,0,20.14,4Zm-3.43,9.29a1,1,0,0,1,0,1.42,1,1,0,0,1-1.42,0L14,13.41l-1.29,1.3a1,1,0,0,1-1.42,0,1,1,0,0,1,0-1.42L12.59,12l-1.3-1.29a1,1,0,0,1,1.42-1.42L14,10.59l1.29-1.3a1,1,0,0,1,1.42,1.42L15.41,12Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 33: arrowhead-left -->
-  <g transform="translate(436, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>arrowhead-left</title><g id="Layer_2" data-name="Layer 2"><g id="arrowhead-left"><g id="arrowhead-left-2" data-name="arrowhead-left"><rect class="cls-1" width="24" height="24" transform="translate(24 0) rotate(90)"/><path class="cls-2" d="M11.64,5.23a1,1,0,0,0-1.41.13l-5,6a1,1,0,0,0,0,1.27l4.83,6a1,1,0,0,0,.78.37,1,1,0,0,0,.78-1.63L7.29,12l4.48-5.37A1,1,0,0,0,11.64,5.23Z"/><path class="cls-2" d="M14.29,12l4.48-5.37a1,1,0,0,0-1.54-1.28l-5,6a1,1,0,0,0,0,1.27l4.83,6a1,1,0,0,0,.78.37,1,1,0,0,0,.78-1.63Z"/></g></g></g>
+  <g transform="translate(260, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>arrowhead-left</title><g id="Layer_2" data-name="Layer 2"><g id="arrowhead-left"><g id="arrowhead-left-2" data-name="arrowhead-left"><path class="cls-2" d="M11.64,5.23a1,1,0,0,0-1.41.13l-5,6a1,1,0,0,0,0,1.27l4.83,6a1,1,0,0,0,.78.37,1,1,0,0,0,.78-1.63L7.29,12l4.48-5.37A1,1,0,0,0,11.64,5.23Z"/><path class="cls-2" d="M14.29,12l4.48-5.37a1,1,0,0,0-1.54-1.28l-5,6a1,1,0,0,0,0,1.27l4.83,6a1,1,0,0,0,.78.37,1,1,0,0,0,.78-1.63Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 34: arrow-ios-forward -->
-  <g transform="translate(496, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>arrow-ios-forward</title><g id="Layer_2" data-name="Layer 2"><g id="arrow-ios-forward"><g id="arrow-ios-forward-2" data-name="arrow-ios-forward"><rect class="cls-1" width="24" height="24" transform="translate(0 24) rotate(-90)"/><path class="cls-2" d="M10,19a1,1,0,0,1-.64-.23,1,1,0,0,1-.13-1.41L13.71,12,9.39,6.63a1,1,0,0,1,.15-1.41A1,1,0,0,1,11,5.37l4.83,6a1,1,0,0,1,0,1.27l-5,6A1,1,0,0,1,10,19Z"/></g></g></g>
+  <g transform="translate(320, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>arrow-ios-forward</title><g id="Layer_2" data-name="Layer 2"><g id="arrow-ios-forward"><g id="arrow-ios-forward-2" data-name="arrow-ios-forward"><path class="cls-2" d="M10,19a1,1,0,0,1-.64-.23,1,1,0,0,1-.13-1.41L13.71,12,9.39,6.63a1,1,0,0,1,.15-1.41A1,1,0,0,1,11,5.37l4.83,6a1,1,0,0,1,0,1.27l-5,6A1,1,0,0,1,10,19Z"/></g></g></g>
     </svg>
   </g>
   <!-- Icon 35: arrow-circle-right -->
-  <g transform="translate(556, 332)">
-    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
-    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
-      <defs><style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>arrow-circle-right</title><g id="Layer_2" data-name="Layer 2"><g id="arrow-circle-right"><g id="arrow-circle-right-2" data-name="arrow-circle-right"><rect class="cls-1" width="24" height="24" transform="translate(0 24) rotate(-90)"/><path class="cls-2" d="M2,12A10,10,0,1,0,12,2,10,10,0,0,0,2,12ZM13.86,8.31l2.86,3a.49.49,0,0,1,.1.15.54.54,0,0,1,.1.16.94.94,0,0,1,0,.76,1,1,0,0,1-.21.33l-3,3a1,1,0,0,1-1.42-1.42L13.59,13H8a1,1,0,0,1,0-2h5.66L12.41,9.69a1,1,0,0,1,1.45-1.38Z"/></g></g></g>
+  <g transform="translate(380, 260)">
+    <rect width="48" height="48" fill="#1a1a1a" stroke="#333333" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24" style="fill: #ffffff; stroke: none;">
+      <defs></defs><title>arrow-circle-right</title><g id="Layer_2" data-name="Layer 2"><g id="arrow-circle-right"><g id="arrow-circle-right-2" data-name="arrow-circle-right"><path class="cls-2" d="M2,12A10,10,0,1,0,12,2,10,10,0,0,0,2,12ZM13.86,8.31l2.86,3a.49.49,0,0,1,.1.15.54.54,0,0,1,.1.16.94.94,0,0,1,0,.76,1,1,0,0,1-.21.33l-3,3a1,1,0,0,1-1.42-1.42L13.59,13H8a1,1,0,0,1,0-2h5.66L12.41,9.69a1,1,0,0,1,1.45-1.38Z"/></g></g></g>
     </svg>
   </g>
+
+  <!-- Title Background -->
+  <rect x="0" y="323" width="448" height="60" fill="#1a1a1a"/>
   
-  <!-- Footer -->
-  <text x="400" y="580" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#6c757d">
-    Showing 35 of 246 icons
-  </text>
-  
+  <!-- Title -->
+  <text x="20" y="348" text-anchor="start" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">Eva Icons - fill</text>
+
 </svg>
