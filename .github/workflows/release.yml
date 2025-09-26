@@ -1,0 +1,89 @@
+name: Create Release
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'zips/**'
+      - 'svg-originals/**'
+      - 'README.md'
+
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    
+    - name: Get current date
+      id: date
+      run: echo "date=$(date +'%Y.%m.%d')" >> $GITHUB_OUTPUT
+    
+    - name: Count icons
+      id: count
+      run: |
+        ICON_COUNT=$(find svg-originals -name "*.svg" | wc -l)
+        ZIP_COUNT=$(find zips -name "*.zip" | wc -l)
+        echo "icons=$ICON_COUNT" >> $GITHUB_OUTPUT
+        echo "zips=$ZIP_COUNT" >> $GITHUB_OUTPUT
+    
+    - name: Generate release tag
+      id: tag
+      run: |
+        # Generate version based on date and commit count for the day
+        DATE="${{ steps.date.outputs.date }}"
+        COMMIT_COUNT=$(git rev-list --count --since="$DATE 00:00:00" HEAD)
+        VERSION="v${DATE}.${COMMIT_COUNT}"
+        echo "version=$VERSION" >> $GITHUB_OUTPUT
+    
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ steps.tag.outputs.version }}
+        release_name: SVG Icon Packs ${{ steps.tag.outputs.version }}
+        body: |
+          # SVG Icon Packs Release ${{ steps.tag.outputs.version }}
+          
+          This release contains:
+          - 📦 **${{ steps.count.outputs.zips }}** icon pack variants (zip files)
+          - 🎨 **${{ steps.count.outputs.icons }}+** individual SVG icons
+          - 📄 All original licenses included
+          
+          ## What's Included
+          
+          ### Icon Packs with Variants
+          - Bootstrap Icons (filled, unfilled)
+          - Font Awesome (brands, solid, regular)
+          - Material Design Icons (filled, outlined, rounded, sharp, twotone)
+          - Heroicons (multiple sizes and styles)
+          - Phosphor Icons (bold, duotone, fill, light, regular, thin)
+          - And many more...
+          
+          ### Download Options
+          - **Individual variant zips**: Download specific variants from the assets below
+          - **Full repository**: Clone this repo to get all SVG originals with licenses
+          
+          ## Changes
+          See commit history for detailed changes.
+          
+          ---
+          Generated on: ${{ steps.date.outputs.date }}
+        draft: false
+        prerelease: false
+    
+    - name: Upload Release Assets
+      run: |
+        # Upload all zip files as release assets
+        for file in zips/*.zip; do
+          echo "Uploading $file..."
+          gh release upload "${{ steps.tag.outputs.version }}" "$file" --clobber
+        done
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

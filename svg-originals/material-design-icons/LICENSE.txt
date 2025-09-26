@@ -1,0 +1,5 @@
+License: Apache-2.0
+Repository: https://github.com/google/material-design-icons
+License URL: https://github.com/google/material-design-icons/blob/master/LICENSE
+
+Material Design Icons by Google

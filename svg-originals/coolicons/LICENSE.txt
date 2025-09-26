@@ -1,0 +1,5 @@
+License: CC BY 4.0
+Repository: https://github.com/krystonschwarze/coolicons
+License URL: https://github.com/krystonschwarze/coolicons/blob/master/LICENSE
+
+coolicons by Kryston Schwarze

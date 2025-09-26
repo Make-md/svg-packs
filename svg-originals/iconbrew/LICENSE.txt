@@ -1,0 +1,5 @@
+License: MIT
+Repository: https://github.com/elrumo/icon-brew
+License URL: https://github.com/elrumo/icon-brew/blob/main/LICENSE
+
+Icon Brew by elrumo
