@@ -1,0 +1,239 @@
+{
+  "generatedAt": "2025-09-26T14:21:36.475Z",
+  "previews": [
+    {
+      "pack": "Material Design Icons",
+      "variant": "filled",
+      "filename": "material-design-icons-filled-preview.svg",
+      "iconCount": 2870
+    },
+    {
+      "pack": "Material Design Icons",
+      "variant": "outlined",
+      "filename": "material-design-icons-outlined-preview.svg",
+      "iconCount": 2808
+    },
+    {
+      "pack": "Material Design Icons",
+      "variant": "rounded",
+      "filename": "material-design-icons-rounded-preview.svg",
+      "iconCount": 2813
+    },
+    {
+      "pack": "Material Design Icons",
+      "variant": "sharp",
+      "filename": "material-design-icons-sharp-preview.svg",
+      "iconCount": 2813
+    },
+    {
+      "pack": "Material Design Icons",
+      "variant": "twotone",
+      "filename": "material-design-icons-twotone-preview.svg",
+      "iconCount": 2851
+    },
+    {
+      "pack": "Tabler Icons",
+      "variant": "outline",
+      "filename": "tabler-icons-outline-preview.svg",
+      "iconCount": 5945
+    },
+    {
+      "pack": "Feather Icons",
+      "variant": "all",
+      "filename": "feather-icons-preview.svg",
+      "iconCount": 287
+    },
+    {
+      "pack": "Font Awesome",
+      "variant": "brands",
+      "filename": "font-awesome-brands-preview.svg",
+      "iconCount": 549
+    },
+    {
+      "pack": "Font Awesome",
+      "variant": "solid",
+      "filename": "font-awesome-solid-preview.svg",
+      "iconCount": 1984
+    },
+    {
+      "pack": "Font Awesome",
+      "variant": "regular",
+      "filename": "font-awesome-regular-preview.svg",
+      "iconCount": 273
+    },
+    {
+      "pack": "Icon Brew",
+      "variant": "all",
+      "filename": "iconbrew-preview.svg",
+      "iconCount": 758
+    },
+    {
+      "pack": "RPG Awesome",
+      "variant": "all",
+      "filename": "rpg-awesome-preview.svg",
+      "iconCount": 495
+    },
+    {
+      "pack": "coolicons",
+      "variant": "all",
+      "filename": "coolicons-preview.svg",
+      "iconCount": 442
+    },
+    {
+      "pack": "Heroicons",
+      "variant": "16-solid",
+      "filename": "heroicons-16-solid-preview.svg",
+      "iconCount": 632
+    },
+    {
+      "pack": "Heroicons",
+      "variant": "20-solid",
+      "filename": "heroicons-20-solid-preview.svg",
+      "iconCount": 648
+    },
+    {
+      "pack": "Heroicons",
+      "variant": "24-solid",
+      "filename": "heroicons-24-solid-preview.svg",
+      "iconCount": 648
+    },
+    {
+      "pack": "Heroicons",
+      "variant": "24-outline",
+      "filename": "heroicons-24-outline-preview.svg",
+      "iconCount": 648
+    },
+    {
+      "pack": "Lucide Icons",
+      "variant": "all",
+      "filename": "lucide-icons-preview.svg",
+      "iconCount": 1635
+    },
+    {
+      "pack": "Phosphor Icons",
+      "variant": "bold",
+      "filename": "phosphor-icons-bold-preview.svg",
+      "iconCount": 1512
+    },
+    {
+      "pack": "Phosphor Icons",
+      "variant": "duotone",
+      "filename": "phosphor-icons-duotone-preview.svg",
+      "iconCount": 1512
+    },
+    {
+      "pack": "Phosphor Icons",
+      "variant": "fill",
+      "filename": "phosphor-icons-fill-preview.svg",
+      "iconCount": 1512
+    },
+    {
+      "pack": "Phosphor Icons",
+      "variant": "light",
+      "filename": "phosphor-icons-light-preview.svg",
+      "iconCount": 1512
+    },
+    {
+      "pack": "Phosphor Icons",
+      "variant": "regular",
+      "filename": "phosphor-icons-regular-preview.svg",
+      "iconCount": 1512
+    },
+    {
+      "pack": "Phosphor Icons",
+      "variant": "thin",
+      "filename": "phosphor-icons-thin-preview.svg",
+      "iconCount": 1512
+    },
+    {
+      "pack": "Simple Icons",
+      "variant": "all",
+      "filename": "simple-icons-preview.svg",
+      "iconCount": 3355
+    },
+    {
+      "pack": "Bootstrap Icons",
+      "variant": "filled",
+      "filename": "bootstrap-icons-filled-preview.svg",
+      "iconCount": 670
+    },
+    {
+      "pack": "Bootstrap Icons",
+      "variant": "unfilled",
+      "filename": "bootstrap-icons-unfilled-preview.svg",
+      "iconCount": 1373
+    },
+    {
+      "pack": "Bootstrap Icons",
+      "variant": "default",
+      "filename": "bootstrap-icons-default-preview.svg",
+      "iconCount": 35
+    },
+    {
+      "pack": "Remix Icon",
+      "variant": "default",
+      "filename": "remix-icon-default-preview.svg",
+      "iconCount": 3058
+    },
+    {
+      "pack": "Octicons",
+      "variant": "default",
+      "filename": "octicons-default-preview.svg",
+      "iconCount": 665
+    },
+    {
+      "pack": "Eva Icons",
+      "variant": "fill",
+      "filename": "eva-icons-fill-preview.svg",
+      "iconCount": 246
+    },
+    {
+      "pack": "Eva Icons",
+      "variant": "outline",
+      "filename": "eva-icons-outline-preview.svg",
+      "iconCount": 244
+    },
+    {
+      "pack": "Boxicons",
+      "variant": "solid",
+      "filename": "boxicons-solid-preview.svg",
+      "iconCount": 665
+    },
+    {
+      "pack": "Boxicons",
+      "variant": "regular",
+      "filename": "boxicons-regular-preview.svg",
+      "iconCount": 814
+    },
+    {
+      "pack": "Boxicons",
+      "variant": "logos",
+      "filename": "boxicons-logos-preview.svg",
+      "iconCount": 155
+    },
+    {
+      "pack": "CSS.gg",
+      "variant": "all",
+      "filename": "css-gg-preview.svg",
+      "iconCount": 704
+    },
+    {
+      "pack": "Radix Icons",
+      "variant": "all",
+      "filename": "radix-icons-preview.svg",
+      "iconCount": 318
+    },
+    {
+      "pack": "Zondicons",
+      "variant": "all",
+      "filename": "zondicons-preview.svg",
+      "iconCount": 297
+    },
+    {
+      "pack": "System UIcons",
+      "variant": "all",
+      "filename": "system-uicons-preview.svg",
+      "iconCount": 430
+    }
+  ]
+}

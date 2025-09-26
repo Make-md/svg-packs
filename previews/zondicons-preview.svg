@@ -1,0 +1,266 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Header Background -->
+  <rect width="800" height="80" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="bold" fill="#212529">Zondicons</text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="55" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#6c757d">297 icons</text>
+  
+  <!-- Icon Grid -->
+  <!-- Icon 1: zoom-out -->
+  <g transform="translate(12, 92)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path fill-rule="evenodd" d="M12.9 14.32a8 8 0 1 1 1.41-1.41l5.35 5.33-1.42 1.42-5.33-5.34zM8 14A6 6 0 1 0 8 2a6 6 0 0 0 0 12zM5 7h6v2H5V7z"/>
+    </svg>
+  </g>
+  <!-- Icon 2: wallet -->
+  <g transform="translate(72, 92)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M0 4c0-1.1.9-2 2-2h15a1 1 0 0 1 1 1v1H2v1h17a1 1 0 0 1 1 1v10a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm16.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/>
+    </svg>
+  </g>
+  <!-- Icon 3: view-hide -->
+  <g transform="translate(132, 92)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M12.81 4.36l-1.77 1.78a4 4 0 0 0-4.9 4.9l-2.76 2.75C2.06 12.79.96 11.49.2 10a11 11 0 0 1 12.6-5.64zm3.8 1.85c1.33 1 2.43 2.3 3.2 3.79a11 11 0 0 1-12.62 5.64l1.77-1.78a4 4 0 0 0 4.9-4.9l2.76-2.75zm-.25-3.99l1.42 1.42L3.64 17.78l-1.42-1.42L16.36 2.22z"/>
+    </svg>
+  </g>
+  <!-- Icon 4: user-group -->
+  <g transform="translate(192, 92)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M7 8a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm0 1c2.15 0 4.2.4 6.1 1.09L12 16h-1.25L10 20H4l-.75-4H2L.9 10.09A17.93 17.93 0 0 1 7 9zm8.31.17c1.32.18 2.59.48 3.8.92L18 16h-1.25L16 20h-3.96l.37-2h1.25l1.65-8.83zM13 0a4 4 0 1 1-1.33 7.76 5.96 5.96 0 0 0 0-7.52C12.1.1 12.53 0 13 0z"/>
+    </svg>
+  </g>
+  <!-- Icon 5: travel-train -->
+  <g transform="translate(252, 92)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M12 18H8l-2 2H3l2-2a2 2 0 0 1-2-2V2c0-1.1.9-2 2-2h10a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2l2 2h-3l-2-2zM5 5v6h10V5H5zm1.5 11a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm7 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM8 2v1h4V2H8z"/>
+    </svg>
+  </g>
+  <!-- Icon 6: timer -->
+  <g transform="translate(312, 92)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M16.32 7.1A8 8 0 1 1 9 4.06V2h2v2.06c1.46.18 2.8.76 3.9 1.62l1.46-1.46 1.42 1.42-1.46 1.45zM10 18a6 6 0 1 0 0-12 6 6 0 0 0 0 12zM7 0h6v2H7V0zm5.12 8.46l1.42 1.42L10 13.4 8.59 12l3.53-3.54z"/>
+    </svg>
+  </g>
+  <!-- Icon 7: target -->
+  <g transform="translate(372, 92)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M17.94 11H13V9h4.94A8 8 0 0 0 11 2.06V7H9V2.06A8 8 0 0 0 2.06 9H7v2H2.06A8 8 0 0 0 9 17.94V13h2v4.94A8 8 0 0 0 17.94 11zM10 20a10 10 0 1 1 0-20 10 10 0 0 1 0 20z"/>
+    </svg>
+  </g>
+  <!-- Icon 8: stethoscope -->
+  <g transform="translate(12, 152)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M17 10.27V4.99a1 1 0 0 0-2 0V15a5 5 0 0 1-10 0v-1.08A6 6 0 0 1 0 8V2C0 .9.9 0 2 0h1a1 1 0 0 1 1 1 1 1 0 0 1-1 1H2v6a4 4 0 1 0 8 0V2H9a1 1 0 0 1-1-1 1 1 0 0 1 1-1h1a2 2 0 0 1 2 2v6a6 6 0 0 1-5 5.92V15a3 3 0 0 0 6 0V5a3 3 0 0 1 6 0v5.27a2 2 0 1 1-2 0z"/>
+    </svg>
+  </g>
+  <!-- Icon 9: shopping-cart -->
+  <g transform="translate(72, 152)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M4 2h16l-3 9H4a1 1 0 1 0 0 2h13v2H4a3 3 0 0 1 0-6h.33L3 5 2 2H0V0h3a1 1 0 0 1 1 1v1zm1 18a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm10 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"/>
+    </svg>
+  </g>
+  <!-- Icon 10: screen-full -->
+  <g transform="translate(132, 152)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M2.8 15.8L0 13v7h7l-2.8-2.8 4.34-4.32-1.42-1.42L2.8 15.8zM17.2 4.2L20 7V0h-7l2.8 2.8-4.34 4.32 1.42 1.42L17.2 4.2zm-1.4 13L13 20h7v-7l-2.8 2.8-4.32-4.34-1.42 1.42 4.33 4.33zM4.2 2.8L7 0H0v7l2.8-2.8 4.32 4.34 1.42-1.42L4.2 2.8z"/>
+    </svg>
+  </g>
+  <!-- Icon 11: radar -->
+  <g transform="translate(192, 152)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M12 10a2 2 0 0 1-3.41 1.41A2 2 0 0 1 10 8V0a9.97 9.97 0 0 1 10 10h-8zm7.9 1.41A10 10 0 1 1 8.59.1v2.03a8 8 0 1 0 9.29 9.29h2.02zm-4.07 0a6 6 0 1 1-7.25-7.25v2.1a3.99 3.99 0 0 0-1.4 6.57 4 4 0 0 0 6.56-1.42h2.1z"/>
+    </svg>
+  </g>
+  <!-- Icon 12: playlist -->
+  <g transform="translate(252, 152)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M16 17a3 3 0 0 1-3 3h-2a3 3 0 0 1 0-6h2a3 3 0 0 1 1 .17V1l6-1v4l-4 .67V17zM0 3h12v2H0V3zm0 4h12v2H0V7zm0 4h12v2H0v-2zm0 4h6v2H0v-2z"/>
+    </svg>
+  </g>
+  <!-- Icon 13: pause -->
+  <g transform="translate(312, 152)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M5 4h3v12H5V4zm7 0h3v12h-3V4z"/>
+    </svg>
+  </g>
+  <!-- Icon 14: network -->
+  <g transform="translate(372, 152)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M10 20a10 10 0 1 1 0-20 10 10 0 0 1 0 20zm7.75-8a8.01 8.01 0 0 0 0-4h-3.82a28.81 28.81 0 0 1 0 4h3.82zm-.82 2h-3.22a14.44 14.44 0 0 1-.95 3.51A8.03 8.03 0 0 0 16.93 14zm-8.85-2h3.84a24.61 24.61 0 0 0 0-4H8.08a24.61 24.61 0 0 0 0 4zm.25 2c.41 2.4 1.13 4 1.67 4s1.26-1.6 1.67-4H8.33zm-6.08-2h3.82a28.81 28.81 0 0 1 0-4H2.25a8.01 8.01 0 0 0 0 4zm.82 2a8.03 8.03 0 0 0 4.17 3.51c-.42-.96-.74-2.16-.95-3.51H3.07zm13.86-8a8.03 8.03 0 0 0-4.17-3.51c.42.96.74 2.16.95 3.51h3.22zm-8.6 0h3.34c-.41-2.4-1.13-4-1.67-4S8.74 3.6 8.33 6zM3.07 6h3.22c.2-1.35.53-2.55.95-3.51A8.03 8.03 0 0 0 3.07 6z"/>
+    </svg>
+  </g>
+  <!-- Icon 15: mood-sad-outline -->
+  <g transform="translate(12, 212)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M10 20a10 10 0 1 1 0-20 10 10 0 0 1 0 20zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zM6.5 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm7 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm2.16 6H4.34a6 6 0 0 1 11.32 0z"/>
+    </svg>
+  </g>
+  <!-- Icon 16: mic -->
+  <g transform="translate(72, 212)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M9 18v-1.06A8 8 0 0 1 2 9h2a6 6 0 1 0 12 0h2a8 8 0 0 1-7 7.94V18h3v2H6v-2h3zM6 4a4 4 0 1 1 8 0v5a4 4 0 1 1-8 0V4z"/>
+    </svg>
+  </g>
+  <!-- Icon 17: location-park -->
+  <g transform="translate(132, 212)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M5.33 12.77A4 4 0 1 1 3 5.13V5a4 4 0 0 1 5.71-3.62 3.5 3.5 0 0 1 6.26 1.66 2.5 2.5 0 0 1 2 2.08 4 4 0 1 1-2.7 7.49A5.02 5.02 0 0 1 12 14.58V18l2 1v1H6v-1l2-1v-3l-2.67-2.23zM5 10l3 3v-3H5z"/>
+    </svg>
+  </g>
+  <!-- Icon 18: list-bullet -->
+  <g transform="translate(192, 212)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M1 4h2v2H1V4zm4 0h14v2H5V4zM1 9h2v2H1V9zm4 0h14v2H5V9zm-4 5h2v2H1v-2zm4 0h14v2H5v-2z"/>
+    </svg>
+  </g>
+  <!-- Icon 19: information-solid -->
+  <g transform="translate(252, 212)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M2.93 17.07A10 10 0 1 1 17.07 2.93 10 10 0 0 1 2.93 17.07zM9 11v4h2V9H9v2zm0-6v2h2V5H9z"/>
+    </svg>
+  </g>
+  <!-- Icon 20: hour-glass -->
+  <g transform="translate(312, 212)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M3 18a7 7 0 0 1 4-6.33V8.33A7 7 0 0 1 3 2H1V0h18v2h-2a7 7 0 0 1-4 6.33v3.34A7 7 0 0 1 17 18h2v2H1v-2h2zM5 2a5 5 0 0 0 4 4.9V10h2V6.9A5 5 0 0 0 15 2H5z"/>
+    </svg>
+  </g>
+  <!-- Icon 21: gift -->
+  <g transform="translate(372, 212)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M14.83 4H20v6h-1v10H1V10H0V4h5.17A3 3 0 0 1 10 .76 3 3 0 0 1 14.83 4zM8 10H3v8h5v-8zm4 0v8h5v-8h-5zM8 6H2v2h6V6zm4 0v2h6V6h-6zM8 4a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm4 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+    </svg>
+  </g>
+  <!-- Icon 22: folder -->
+  <g transform="translate(12, 272)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M0 4c0-1.1.9-2 2-2h7l2 2h7a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4z"/>
+    </svg>
+  </g>
+  <!-- Icon 23: fast-forward -->
+  <g transform="translate(72, 272)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M1 5l9 5-9 5V5zm9 0l9 5-9 5V5z"/>
+    </svg>
+  </g>
+  <!-- Icon 24: edit-cut -->
+  <g transform="translate(132, 272)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M9.77 11.5l5.34 3.91c.44.33 1.24.59 1.79.59H20L6.89 6.38A3.5 3.5 0 1 0 5.5 8.37L7.73 10 5.5 11.63a3.5 3.5 0 1 0 1.38 1.99l2.9-2.12zM3.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zM15.1 4.59A3.53 3.53 0 0 1 16.9 4H20l-7.5 5.5L10.45 8l4.65-3.41z"/>
+    </svg>
+  </g>
+  <!-- Icon 25: document-add -->
+  <g transform="translate(192, 272)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M9 10V8h2v2h2v2h-2v2H9v-2H7v-2h2zm-5 8h12V6h-4V2H4v16zm-2 1V0h12l4 4v16H2v-1z"/>
+    </svg>
+  </g>
+  <!-- Icon 26: conversation -->
+  <g transform="translate(252, 272)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M17 11v3l-3-3H8a2 2 0 0 1-2-2V2c0-1.1.9-2 2-2h10a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-1zm-3 2v2a2 2 0 0 1-2 2H6l-3 3v-3H2a2 2 0 0 1-2-2V8c0-1.1.9-2 2-2h2v3a4 4 0 0 0 4 4h6z"/>
+    </svg>
+  </g>
+  <!-- Icon 27: cloud -->
+  <g transform="translate(312, 272)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M16.88 9.1A4 4 0 0 1 16 17H5a5 5 0 0 1-1-9.9V7a3 3 0 0 1 4.52-2.59A4.98 4.98 0 0 1 17 8c0 .38-.04.74-.12 1.1z"/>
+    </svg>
+  </g>
+  <!-- Icon 28: cheveron-outline-up -->
+  <g transform="translate(372, 272)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M0 10a10 10 0 1 1 20 0 10 10 0 0 1-20 0zm10 8a8 8 0 1 0 0-16 8 8 0 0 0 0 16zm.7-10.54L14.25 11l-1.41 1.41L10 9.6l-2.83 2.8L5.76 11 10 6.76l.7.7z"/>
+    </svg>
+  </g>
+  <!-- Icon 29: chat-bubble-dots -->
+  <g transform="translate(12, 332)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M10 15l-4 4v-4H2a2 2 0 0 1-2-2V3c0-1.1.9-2 2-2h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-8zM5 7v2h2V7H5zm4 0v2h2V7H9zm4 0v2h2V7h-2z"/>
+    </svg>
+  </g>
+  <!-- Icon 30: bug -->
+  <g transform="translate(72, 332)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M15.3 14.89l2.77 2.77a1 1 0 0 1 0 1.41 1 1 0 0 1-1.41 0l-2.59-2.58A5.99 5.99 0 0 1 11 18V9.04a1 1 0 0 0-2 0V18a5.98 5.98 0 0 1-3.07-1.51l-2.59 2.58a1 1 0 0 1-1.41 0 1 1 0 0 1 0-1.41l2.77-2.77A5.95 5.95 0 0 1 4.07 13H1a1 1 0 1 1 0-2h3V8.41L.93 5.34a1 1 0 0 1 0-1.41 1 1 0 0 1 1.41 0l2.1 2.1h11.12l2.1-2.1a1 1 0 0 1 1.41 0 1 1 0 0 1 0 1.41L16 8.41V11h3a1 1 0 1 1 0 2h-3.07c-.1.67-.32 1.31-.63 1.89zM15 5H5a5 5 0 1 1 10 0z"/>
+    </svg>
+  </g>
+  <!-- Icon 31: border-top -->
+  <g transform="translate(132, 332)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M1 1h18v2H1V1zm0 4h2v2H1V5zm0 4h2v2H1V9zm0 4h2v2H1v-2zm0 4h2v2H1v-2zm4-8h2v2H5V9zm0 8h2v2H5v-2zM9 5h2v2H9V5zm0 4h2v2H9V9zm0 4h2v2H9v-2zm0 4h2v2H9v-2zm4-8h2v2h-2V9zm0 8h2v2h-2v-2zm4-12h2v2h-2V5zm0 4h2v2h-2V9zm0 4h2v2h-2v-2zm0 4h2v2h-2v-2z"/>
+    </svg>
+  </g>
+  <!-- Icon 32: border-all -->
+  <g transform="translate(192, 332)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M11 11v6h6v-6h-6zm0-2h6V3h-6v6zm-2 2H3v6h6v-6zm0-2V3H3v6h6zm-8 9V1h18v18H1v-1z"/>
+    </svg>
+  </g>
+  <!-- Icon 33: bluetooth -->
+  <g transform="translate(252, 332)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M9.41 0l6 6-4 4 4 4-6 6H9v-7.59l-3.3 3.3-1.4-1.42L8.58 10l-4.3-4.3L5.7 4.3 9 7.58V0h.41zM11 4.41V7.6L12.59 6 11 4.41zM12.59 14L11 12.41v3.18L12.59 14z"/>
+    </svg>
+  </g>
+  <!-- Icon 34: backward-step -->
+  <g transform="translate(312, 332)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M4 5h3v10H4V5zm12 0v10l-9-5 9-5z"/>
+    </svg>
+  </g>
+  <!-- Icon 35: arrow-thin-left -->
+  <g transform="translate(372, 332)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 20 20">
+      <path d="M3.828 9l6.071-6.071-1.414-1.414L0 10l.707.707 7.778 7.778 1.414-1.414L3.828 11H20V9H3.828z"/>
+    </svg>
+  </g>
+  
+  <!-- Footer -->
+  <text x="400" y="580" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#6c757d">
+    Showing 35 of 297 icons
+  </text>
+  
+</svg>

@@ -3,6 +3,11 @@ name: Create Release
 on:
   push:
     branches: [ main ]
+    paths:
+      - 'zips/**'
+      - 'svg-originals/**'
+      - 'previews/**'
+      - 'README.md'
 
 jobs:
   create-release:

@@ -1,0 +1,426 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Header Background -->
+  <rect width="800" height="80" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="bold" fill="#212529">Tabler Icons - outline</text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="55" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#6c757d">5,945 icons</text>
+  
+  <!-- Icon Grid -->
+  <!-- Icon 1: zoom -->
+  <g transform="translate(12, 92)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M14 3.072a8 8 0 0 1 2.617 11.424l4.944 4.943a1.5 1.5 0 0 1 -2.008 2.225l-.114 -.103l-4.943 -4.944a8 8 0 0 1 -12.49 -6.332l-.006 -.285l.005 -.285a8 8 0 0 1 11.995 -6.643z" />
+
+    </svg>
+  </g>
+  <!-- Icon 2: square-f6 -->
+  <g transform="translate(72, 92)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M18.333 2c1.96 0 3.56 1.537 3.662 3.472l.005 .195v12.666c0 1.96 -1.537 3.56 -3.472 3.662l-.195 .005h-12.666a3.667 3.667 0 0 1 -3.662 -3.472l-.005 -.195v-12.666c0 -1.96 1.537 -3.56 3.472 -3.662l.195 -.005h12.666zm-3.083 6h-1.25l-.15 .005a2 2 0 0 0 -1.844 1.838l-.006 .157v4l.005 .15a2 2 0 0 0 1.838 1.844l.157 .006h1l.15 -.005a2 2 0 0 0 1.844 -1.838l.006 -.157v-1l-.005 -.15a2 2 0 0 0 -1.838 -1.844l-.157 -.006h-1v-1h1.032l.026 .087a1 1 0 0 0 1.942 -.337a1.75 1.75 0 0 0 -1.606 -1.744l-.144 -.006zm-5.25 0h-2l-.117 .007a1 1 0 0 0 -.876 .876l-.007 .117v6l.007 .117a1 1 0 0 0 .876 .876l.117 .007l.117 -.007a1 1 0 0 0 .876 -.876l.007 -.117v-2h1l.117 -.007a1 1 0 0 0 0 -1.986l-.117 -.007h-1v-1h1l.117 -.007a1 1 0 0 0 0 -1.986l-.117 -.007zm5 5v1h-1v-1h1z" />
+
+    </svg>
+  </g>
+  <!-- Icon 3: lemon-2 -->
+  <g transform="translate(132, 92)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M18 3a3 3 0 0 1 2.443 4.742l-.06 .076l.037 .087c1.269 3.187 .428 7.084 -2.203 9.872l-.217 .223c-2.8 2.8 -6.823 3.723 -10.095 2.42l-.087 -.036l-.133 .098a3 3 0 0 1 -2.11 .488l-.205 -.036a3 3 0 0 1 -1.852 -4.62l.098 -.134l-.036 -.085c-1.269 -3.187 -.428 -7.084 2.203 -9.872l.217 -.223c2.8 -2.8 6.823 -3.723 10.095 -2.42l.085 .037l.124 -.091a3 3 0 0 1 1.493 -.52z" />
+
+    </svg>
+  </g>
+  <!-- Icon 4: file-info -->
+  <g transform="translate(192, 92)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M12 2l.117 .007a1 1 0 0 1 .876 .876l.007 .117v4l.005 .15a2 2 0 0 0 1.838 1.844l.157 .006h4l.117 .007a1 1 0 0 1 .876 .876l.007 .117v9a3 3 0 0 1 -2.824 2.995l-.176 .005h-10a3 3 0 0 1 -2.995 -2.824l-.005 -.176v-14a3 3 0 0 1 2.824 -2.995l.176 -.005zm0 12h-1a1 1 0 0 0 0 2v3a1 1 0 0 0 1 1h1a1 1 0 0 0 1 -1l-.007 -.117a1 1 0 0 0 -.876 -.876l-.117 -.007v-3a1 1 0 0 0 -1 -1m.01 -3h-.01a1 1 0 0 0 -.117 1.993l.127 .007a1 1 0 0 0 0 -2" />
+  <path d="M19 7h-4l-.001 -4.001z" />
+
+    </svg>
+  </g>
+  <!-- Icon 5: circle-letter-q -->
+  <g transform="translate(252, 92)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10 -10 10s-10 -4.477 -10 -10s4.477 -10 10 -10m0 5a3 3 0 0 0 -3 3v4a3 3 0 0 0 4.168 2.764l.125 -.057a1 1 0 0 0 1.414 -1.414l.057 -.125a3 3 0 0 0 .236 -1.168v-4a3 3 0 0 0 -3 -3m1 7.001h-.059a.996 .996 0 0 0 -.941 1a1 1 0 0 1 -1 -1.001v-4a1 1 0 0 1 2 0z" />
+
+    </svg>
+  </g>
+  <!-- Icon 6: blob -->
+  <g transform="translate(312, 92)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M12 3c2.779 0 5.349 1.556 7.243 4.082c1.728 2.306 2.757 5.259 2.757 8.016c0 1.47 -.293 2.718 -.903 3.745c-.603 1.014 -1.479 1.758 -2.582 2.257c-1.593 .718 -3.335 .9 -6.515 .9c-3.175 0 -4.92 -.183 -6.514 -.9c-1.012 -.457 -1.833 -1.12 -2.426 -2.01l-.157 -.247c-.61 -1.028 -.903 -2.274 -.903 -3.745c0 -2.757 1.03 -5.71 2.757 -8.016c1.893 -2.526 4.463 -4.082 7.243 -4.082" />
+
+    </svg>
+  </g>
+  <!-- Icon 7: yin-yang -->
+  <g transform="translate(372, 92)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path d="M12 3a4.5 4.5 0 0 0 0 9a4.5 4.5 0 0 1 0 9" />
+  <circle cx="12" cy="7.5" r=".5" fill="none" />
+  <circle cx="12" cy="16.5" r=".5" fill="none" />
+
+    </svg>
+  </g>
+  <!-- Icon 8: user-up -->
+  <g transform="translate(12, 152)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4" />
+  <path d="M19 22v-6" />
+  <path d="M22 19l-3 -3l-3 3" />
+
+    </svg>
+  </g>
+  <!-- Icon 9: tic-tac -->
+  <g transform="translate(72, 152)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M6 6m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  <path d="M3 12h18" />
+  <path d="M12 3v18" />
+  <path d="M4 16l4 4" />
+  <path d="M4 20l4 -4" />
+  <path d="M16 4l4 4" />
+  <path d="M16 8l4 -4" />
+  <path d="M18 18m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+
+    </svg>
+  </g>
+  <!-- Icon 10: square-rounded-number-0 -->
+  <g transform="translate(132, 152)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M10 10v4a2 2 0 1 0 4 0v-4a2 2 0 1 0 -4 0z" />
+  <path d="M12 3c7.2 0 9 1.8 9 9s-1.8 9 -9 9s-9 -1.8 -9 -9s1.8 -9 9 -9z" />
+
+    </svg>
+  </g>
+  <!-- Icon 11: snowflake -->
+  <g transform="translate(192, 152)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M10 4l2 1l2 -1" />
+  <path d="M12 2v6.5l3 1.72" />
+  <path d="M17.928 6.268l.134 2.232l1.866 1.232" />
+  <path d="M20.66 7l-5.629 3.25l.01 3.458" />
+  <path d="M19.928 14.268l-1.866 1.232l-.134 2.232" />
+  <path d="M20.66 17l-5.629 -3.25l-2.99 1.738" />
+  <path d="M14 20l-2 -1l-2 1" />
+  <path d="M12 22v-6.5l-3 -1.72" />
+  <path d="M6.072 17.732l-.134 -2.232l-1.866 -1.232" />
+  <path d="M3.34 17l5.629 -3.25l-.01 -3.458" />
+  <path d="M4.072 9.732l1.866 -1.232l.134 -2.232" />
+  <path d="M3.34 7l5.629 3.25l2.99 -1.738" />
+
+    </svg>
+  </g>
+  <!-- Icon 12: script-plus -->
+  <g transform="translate(252, 152)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M17 19h4" />
+  <path d="M14 20h-8a3 3 0 0 1 0 -6h11a3 3 0 0 0 -3 3m7 -3v-8a2 2 0 0 0 -2 -2h-10a2 2 0 0 0 -2 2v8" />
+  <path d="M19 17v4" />
+
+    </svg>
+  </g>
+  <!-- Icon 13: razor -->
+  <g transform="translate(312, 152)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M7 3h10v4h-10z" />
+  <path d="M12 7v4" />
+  <path d="M12 11a2 2 0 0 1 2 2v6a2 2 0 1 1 -4 0v-6a2 2 0 0 1 2 -2z" />
+
+    </svg>
+  </g>
+  <!-- Icon 14: pig-money -->
+  <g transform="translate(372, 152)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M15 11v.01" />
+  <path d="M5.173 8.378a3 3 0 1 1 4.656 -1.377" />
+  <path d="M16 4v3.803a6.019 6.019 0 0 1 2.658 3.197h1.341a1 1 0 0 1 1 1v2a1 1 0 0 1 -1 1h-1.342c-.336 .95 -.907 1.8 -1.658 2.473v2.027a1.5 1.5 0 0 1 -3 0v-.583a6.04 6.04 0 0 1 -1 .083h-4a6.04 6.04 0 0 1 -1 -.083v.583a1.5 1.5 0 0 1 -3 0v-2l0 -.027a6 6 0 0 1 4 -10.473h2.5l4.5 -3h0z" />
+
+    </svg>
+  </g>
+  <!-- Icon 15: octagon -->
+  <g transform="translate(12, 212)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M12.802 2.165l5.575 2.389c.48 .206 .863 .589 1.07 1.07l2.388 5.574c.22 .512 .22 1.092 0 1.604l-2.389 5.575c-.206 .48 -.589 .863 -1.07 1.07l-5.574 2.388c-.512 .22 -1.092 .22 -1.604 0l-5.575 -2.389a2.036 2.036 0 0 1 -1.07 -1.07l-2.388 -5.574a2.036 2.036 0 0 1 0 -1.604l2.389 -5.575c.206 -.48 .589 -.863 1.07 -1.07l5.574 -2.388a2.036 2.036 0 0 1 1.604 0z" />
+
+    </svg>
+  </g>
+  <!-- Icon 16: navigation-code -->
+  <g transform="translate(72, 212)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M16.653 13.086l-4.653 -10.086l-7.97 17.275c-.07 .2 -.017 .424 .135 .572c.15 .148 .374 .193 .57 .116l6.246 -2.117" />
+  <path d="M20 21l2 -2l-2 -2" />
+  <path d="M17 17l-2 2l2 2" />
+
+    </svg>
+  </g>
+  <!-- Icon 17: message-circle-search -->
+  <g transform="translate(132, 212)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M11.303 19.955a9.818 9.818 0 0 1 -3.603 -.955l-4.7 1l1.3 -3.9c-2.324 -3.437 -1.426 -7.872 2.1 -10.374c3.526 -2.501 8.59 -2.296 11.845 .48c1.73 1.476 2.665 3.435 2.76 5.433" />
+  <path d="M18 18m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path d="M20.2 20.2l1.8 1.8" />
+
+    </svg>
+  </g>
+  <!-- Icon 18: mail-spark -->
+  <g transform="translate(192, 212)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M19 22.5a4.75 4.75 0 0 1 3.5 -3.5a4.75 4.75 0 0 1 -3.5 -3.5a4.75 4.75 0 0 1 -3.5 3.5a4.75 4.75 0 0 1 3.5 3.5" />
+  <path d="M11.5 19h-6.5a2 2 0 0 1 -2 -2v-10a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v5" />
+  <path d="M3 7l9 6l9 -6" />
+
+    </svg>
+  </g>
+  <!-- Icon 19: letter-i-small -->
+  <g transform="translate(252, 212)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M12 8v8" />
+
+    </svg>
+  </g>
+  <!-- Icon 20: ice-skating -->
+  <g transform="translate(312, 212)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M5.905 5h3.418a1 1 0 0 1 .928 .629l1.143 2.856a3 3 0 0 0 2.207 1.83l4.717 .926a2.084 2.084 0 0 1 1.682 2.045v.714a1 1 0 0 1 -1 1h-13.895a1 1 0 0 1 -1 -1.1l.8 -8a1 1 0 0 1 1 -.9z" />
+  <path d="M3 19h17a1 1 0 0 0 1 -1" />
+  <path d="M9 15v4" />
+  <path d="M15 15v4" />
+
+    </svg>
+  </g>
+  <!-- Icon 21: heart-code -->
+  <g transform="translate(372, 212)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M19.5 12.572l-.536 .53m-7.91 5.96l-6.554 -6.489a5 5 0 1 1 7.5 -6.567a5 5 0 1 1 7.5 6.572" />
+  <path d="M20 21l2 -2l-2 -2" />
+  <path d="M17 17l-2 2l2 2" />
+
+    </svg>
+  </g>
+  <!-- Icon 22: folder-check -->
+  <g transform="translate(12, 272)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M11 19h-6a2 2 0 0 1 -2 -2v-11a2 2 0 0 1 2 -2h4l3 3h7a2 2 0 0 1 2 2v4" />
+  <path d="M15 19l2 2l4 -4" />
+
+    </svg>
+  </g>
+  <!-- Icon 23: file-percent -->
+  <g transform="translate(72, 272)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M10 17l4 -4" />
+  <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+  <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z" />
+  <path d="M10 13h.01" />
+  <path d="M14 17h.01" />
+
+    </svg>
+  </g>
+  <!-- Icon 24: drag-drop-2 -->
+  <g transform="translate(132, 272)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M8 8m0 2a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2z" />
+  <path d="M4 4l0 .01" />
+  <path d="M8 4l0 .01" />
+  <path d="M12 4l0 .01" />
+  <path d="M16 4l0 .01" />
+  <path d="M4 8l0 .01" />
+  <path d="M4 12l0 .01" />
+  <path d="M4 16l0 .01" />
+
+    </svg>
+  </g>
+  <!-- Icon 25: device-ipad-search -->
+  <g transform="translate(192, 272)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M11.5 21h-5.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v6" />
+  <path d="M9 18h2" />
+  <path d="M18 18m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+  <path d="M20.2 20.2l1.8 1.8" />
+
+    </svg>
+  </g>
+  <!-- Icon 26: currency-krone-danish -->
+  <g transform="translate(252, 272)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M5 6v12" />
+  <path d="M5 12c3.5 0 6 -3 6 -6" />
+  <path d="M5 12c3.5 0 6 3 6 6" />
+  <path d="M15 10v8" />
+  <path d="M19 10a4 4 0 0 0 -4 4" />
+  <path d="M20 18.01v-.01" />
+
+    </svg>
+  </g>
+  <!-- Icon 27: cloud -->
+  <g transform="translate(312, 272)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M6.657 18c-2.572 0 -4.657 -2.007 -4.657 -4.483c0 -2.475 2.085 -4.482 4.657 -4.482c.393 -1.762 1.794 -3.2 3.675 -3.773c1.88 -.572 3.956 -.193 5.444 1c1.488 1.19 2.162 3.007 1.77 4.769h.99c1.913 0 3.464 1.56 3.464 3.486c0 1.927 -1.551 3.487 -3.465 3.487h-11.878" />
+
+    </svg>
+  </g>
+  <!-- Icon 28: circle-dotted-letter-y -->
+  <g transform="translate(372, 272)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M10 8l2 5l2 -5" />
+  <path d="M12 16v-3" />
+  <path d="M7.5 4.21v.01" />
+  <path d="M4.21 7.5v.01" />
+  <path d="M3 12v.01" />
+  <path d="M4.21 16.5v.01" />
+  <path d="M7.5 19.79v.01" />
+  <path d="M12 21v.01" />
+  <path d="M16.5 19.79v.01" />
+  <path d="M19.79 16.5v.01" />
+  <path d="M21 12v.01" />
+  <path d="M19.79 7.5v.01" />
+  <path d="M16.5 4.21v.01" />
+  <path d="M12 3v.01" />
+
+    </svg>
+  </g>
+  <!-- Icon 29: chalkboard -->
+  <g transform="translate(12, 332)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M8 19h-3a2 2 0 0 1 -2 -2v-10a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v11a1 1 0 0 1 -1 1" />
+  <path d="M11 16m0 1a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v1a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1z" />
+
+    </svg>
+  </g>
+  <!-- Icon 30: building-pavilion -->
+  <g transform="translate(72, 332)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M3 21h7v-3a2 2 0 0 1 4 0v3h7" />
+  <path d="M6 21l0 -9" />
+  <path d="M18 21l0 -9" />
+  <path d="M6 12h12a3 3 0 0 0 3 -3a9 8 0 0 1 -9 -6a9 8 0 0 1 -9 6a3 3 0 0 0 3 3" />
+
+    </svg>
+  </g>
+  <!-- Icon 31: brand-sentry -->
+  <g transform="translate(132, 332)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M3 18a1.93 1.93 0 0 0 .306 1.076a2 2 0 0 0 1.584 .924c.646 .033 -.537 0 .11 0h3a4.992 4.992 0 0 0 -3.66 -4.81c.558 -.973 1.24 -2.149 2.04 -3.531a9 9 0 0 1 5.62 8.341h4c.663 0 2.337 0 3 0a2 2 0 0 0 1.84 -2.75l-7.1 -12.25a2 2 0 0 0 -3.5 0l-1.84 3.176c4.482 2.05 7.6 6.571 7.6 11.824" />
+
+    </svg>
+  </g>
+  <!-- Icon 32: brand-deno -->
+  <g transform="translate(192, 332)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  <path d="M13.47 20.882l-1.47 -5.882c-2.649 -.088 -5 -1.624 -5 -3.5c0 -1.933 2.239 -3.5 5 -3.5s4 1 5 3c.024 .048 .69 2.215 2 6.5" />
+  <path d="M12 11h.01" />
+
+    </svg>
+  </g>
+  <!-- Icon 33: bookmark-plus -->
+  <g transform="translate(252, 332)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M12 17l-6 4v-14a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v5" />
+  <path d="M16 19h6" />
+  <path d="M19 16v6" />
+
+    </svg>
+  </g>
+  <!-- Icon 34: badge-ad-off -->
+  <g transform="translate(312, 332)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M9 5h10a2 2 0 0 1 2 2v10m-2 2h-14a2 2 0 0 1 -2 -2v-10a2 2 0 0 1 2 -2" />
+  <path d="M14 14v1h1m2 -2v-2a2 2 0 0 0 -2 -2h-1v1" />
+  <path d="M7 15v-4.5a1.5 1.5 0 0 1 2.077 -1.385m.788 .762c.087 .19 .135 .4 .135 .623v4.5" />
+  <path d="M7 13h3" />
+  <path d="M3 3l18 18" />
+
+    </svg>
+  </g>
+  <!-- Icon 35: arrow-down -->
+  <g transform="translate(372, 332)">
+    <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
+    <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
+      
+  <path d="M12 5l0 14" />
+  <path d="M18 13l-6 6" />
+  <path d="M6 13l6 6" />
+
+    </svg>
+  </g>
+  
+  <!-- Footer -->
+  <text x="400" y="580" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#6c757d">
+    Showing 35 of 5945 icons
+  </text>
+  
+</svg>
