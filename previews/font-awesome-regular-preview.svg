@@ -13,245 +13,245 @@
   
   <!-- Icon Grid -->
   <!-- Icon 1: xmark-circle -->
-  <g transform="translate(12, 92)">
+  <g transform="translate(196, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M256 48a208 208 0 1 1 0 416 208 208 0 1 1 0-416zm0 464a256 256 0 1 0 0-512 256 256 0 1 0 0 512zM167 167c-9.4 9.4-9.4 24.6 0 33.9l55 55-55 55c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l55-55 55 55c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-55-55 55-55c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0l-55 55-55-55c-9.4-9.4-24.6-9.4-33.9 0z"/>
     </svg>
   </g>
   <!-- Icon 2: user-large -->
-  <g transform="translate(72, 92)">
+  <g transform="translate(256, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 448 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M144 128a80 80 0 1 1 160 0 80 80 0 1 1 -160 0zm208 0a128 128 0 1 0 -256 0 128 128 0 1 0 256 0zM48 480c0-70.7 57.3-128 128-128l96 0c70.7 0 128 57.3 128 128l0 8c0 13.3 10.7 24 24 24s24-10.7 24-24l0-8c0-97.2-78.8-176-176-176l-96 0C78.8 304 0 382.8 0 480l0 8c0 13.3 10.7 24 24 24s24-10.7 24-24l0-8z"/>
     </svg>
   </g>
   <!-- Icon 3: times-rectangle -->
-  <g transform="translate(132, 92)">
+  <g transform="translate(316, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M64 112c-8.8 0-16 7.2-16 16l0 256c0 8.8 7.2 16 16 16l384 0c8.8 0 16-7.2 16-16l0-256c0-8.8-7.2-16-16-16L64 112zM0 128C0 92.7 28.7 64 64 64l384 0c35.3 0 64 28.7 64 64l0 256c0 35.3-28.7 64-64 64L64 448c-35.3 0-64-28.7-64-64L0 128zm334.1 49.9c9.4 9.4 9.4 24.6 0 33.9l-44.1 44.1 44.1 44.1c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-44.1-44.1-44.1 44.1c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l44.1-44.1-44.1-44.1c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0l44.1 44.1 44.1-44.1c9.4-9.4 24.6-9.4 33.9 0z"/>
     </svg>
   </g>
   <!-- Icon 4: sticky-note -->
-  <g transform="translate(192, 92)">
+  <g transform="translate(376, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 448 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M240 432L64 432c-8.8 0-16-7.2-16-16L48 96c0-8.8 7.2-16 16-16l320 0c8.8 0 16 7.2 16 16l0 176-88 0c-39.8 0-72 32.2-72 72l0 88zM380.1 320L288 412.1 288 344c0-13.3 10.7-24 24-24l68.1 0zM0 416c0 35.3 28.7 64 64 64l197.5 0c17 0 33.3-6.7 45.3-18.7L429.3 338.7c12-12 18.7-28.3 18.7-45.3L448 96c0-35.3-28.7-64-64-64L64 32C28.7 32 0 60.7 0 96L0 416z"/>
     </svg>
   </g>
   <!-- Icon 5: square-minus -->
-  <g transform="translate(252, 92)">
+  <g transform="translate(436, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 448 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M64 80c-8.8 0-16 7.2-16 16l0 320c0 8.8 7.2 16 16 16l320 0c8.8 0 16-7.2 16-16l0-320c0-8.8-7.2-16-16-16L64 80zM0 96C0 60.7 28.7 32 64 32l320 0c35.3 0 64 28.7 64 64l0 320c0 35.3-28.7 64-64 64L64 480c-35.3 0-64-28.7-64-64L0 96zM136 232l176 0c13.3 0 24 10.7 24 24s-10.7 24-24 24l-176 0c-13.3 0-24-10.7-24-24s10.7-24 24-24z"/>
     </svg>
   </g>
   <!-- Icon 6: soccer-ball -->
-  <g transform="translate(312, 92)">
+  <g transform="translate(496, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M387 228.3c-4.4-2.8-7.6-7-9.2-11.9s-1.4-10.2 .5-15L411.6 118c-19.9-22.4-44.6-40.5-72.4-52.7l-69.1 57.6c-4 3.3-9 5.1-14.1 5.1s-10.2-1.8-14.1-5.1L172.8 65.3c-27.8 12.2-52.5 30.3-72.4 52.7l33.4 83.4c1.9 4.8 2.1 10.1 .5 15s-4.9 9.1-9.2 11.9L49 276.2c3 30.9 12.7 59.7 27.6 85.2l89.7-6c5.2-.3 10.3 1.1 14.5 4.2s7.2 7.4 8.4 12.5l22 87.2c14.4 3.2 29.4 4.8 44.8 4.8s30.3-1.7 44.8-4.8l22-87.2c1.3-5 4.2-9.4 8.4-12.5s9.3-4.5 14.5-4.2l89.7 6c15-25.4 24.7-54.3 27.6-85.1L387 228.3zM256 0a256 256 0 1 1 0 512 256 256 0 1 1 0-512zm62 221c8.4 6.1 11.9 16.9 8.7 26.8l-18.3 56.3c-3.2 9.9-12.4 16.6-22.8 16.6l-59.2 0c-10.4 0-19.6-6.7-22.8-16.6l-18.3-56.3c-3.2-9.9 .3-20.7 8.7-26.8l47.9-34.8c8.4-6.1 19.8-6.1 28.2 0L318 221z"/>
     </svg>
   </g>
   <!-- Icon 7: save -->
-  <g transform="translate(372, 92)">
+  <g transform="translate(556, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 448 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M64 80c-8.8 0-16 7.2-16 16l0 320c0 8.8 7.2 16 16 16l320 0c8.8 0 16-7.2 16-16l0-242.7c0-4.2-1.7-8.3-4.7-11.3L320 86.6 320 176c0 17.7-14.3 32-32 32l-160 0c-17.7 0-32-14.3-32-32l0-96-32 0zm80 0l0 80 128 0 0-80-128 0zM0 96C0 60.7 28.7 32 64 32l242.7 0c17 0 33.3 6.7 45.3 18.7L429.3 128c12 12 18.7 28.3 18.7 45.3L448 416c0 35.3-28.7 64-64 64L64 480c-35.3 0-64-28.7-64-64L0 96zM160 320a64 64 0 1 1 128 0 64 64 0 1 1 -128 0z"/>
     </svg>
   </g>
   <!-- Icon 8: question-circle -->
-  <g transform="translate(12, 152)">
+  <g transform="translate(196, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M464 256a208 208 0 1 0 -416 0 208 208 0 1 0 416 0zM0 256a256 256 0 1 1 512 0 256 256 0 1 1 -512 0zm256-80c-17.7 0-32 14.3-32 32 0 13.3-10.7 24-24 24s-24-10.7-24-24c0-44.2 35.8-80 80-80s80 35.8 80 80c0 47.2-36 67.2-56 74.5l0 3.8c0 13.3-10.7 24-24 24s-24-10.7-24-24l0-8.1c0-20.5 14.8-35.2 30.1-40.2 6.4-2.1 13.2-5.5 18.2-10.3 4.3-4.2 7.7-10 7.7-19.6 0-17.7-14.3-32-32-32zM224 368a32 32 0 1 1 64 0 32 32 0 1 1 -64 0z"/>
     </svg>
   </g>
   <!-- Icon 9: object-ungroup -->
-  <g transform="translate(72, 152)">
+  <g transform="translate(256, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 640 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M48.2 66.8c-.1-.8-.2-1.7-.2-2.5l0-.2c0-8.8 7.2-16 16-16 .9 0 1.9 .1 2.8 .2 7.5 1.3 13.2 7.9 13.2 15.8 0 8.8-7.2 16-16 16-7.9 0-14.5-5.7-15.8-13.2zM0 64c0 26.9 16.5 49.9 40 59.3l0 105.3c-23.5 9.5-40 32.5-40 59.3 0 35.3 28.7 64 64 64 26.9 0 49.9-16.5 59.3-40l201.3 0c9.5 23.5 32.5 40 59.3 40 35.3 0 64-28.7 64-64 0-26.9-16.5-49.9-40-59.3l0-105.3c23.5-9.5 40-32.5 40-59.3 0-35.3-28.7-64-64-64-26.9 0-49.9 16.5-59.3 40L123.3 40C113.9 16.5 90.9 0 64 0 28.7 0 0 28.7 0 64zm368 0a16 16 0 1 1 32 0 16 16 0 1 1 -32 0zM324.7 88c6.5 16 19.3 28.9 35.3 35.3l0 105.3c-16 6.5-28.9 19.3-35.3 35.3l-201.3 0c-6.5-16-19.3-28.9-35.3-35.3l0-105.3c16-6.5 28.9-19.3 35.3-35.3l201.3 0zM384 272a16 16 0 1 1 0 32 16 16 0 1 1 0-32zM80 288c0 7.9-5.7 14.5-13.2 15.8-.8 .1-1.7 .2-2.5 .2l-.2 0c-8.8 0-16-7.2-16-16 0-.9 .1-1.9 .2-2.8 1.3-7.5 7.9-13.2 15.8-13.2 8.8 0 16 7.2 16 16zm436.7-40c6.5 16 19.3 28.9 35.3 35.3l0 105.3c-16 6.5-28.9 19.3-35.3 35.3l-201.3 0c-6.5-16-19.3-28.9-35.3-35.3l0-20.7-48 0 0 20.7c-23.5 9.5-40 32.5-40 59.3 0 35.3 28.7 64 64 64 26.9 0 49.9-16.5 59.3-40l201.3 0c9.5 23.5 32.5 40 59.3 40 35.3 0 64-28.7 64-64 0-26.9-16.5-49.9-40-59.3l0-105.3c23.5-9.5 40-32.5 40-59.3 0-35.3-28.7-64-64-64-26.9 0-49.9 16.5-59.3 40l-52.7 0 0 9.6c10.7 10.9 19.1 23.9 24.6 38.4l28 0zm59.3-8a16 16 0 1 1 0-32 16 16 0 1 1 0 32zM271.8 450.7a16 16 0 1 1 -31.5-5.5 16 16 0 1 1 31.5 5.5zm301.5 13c-7.5-1.3-13.2-7.9-13.2-15.8 0-8.8 7.2-16 16-16 7.9 0 14.5 5.7 15.8 13.2l0 .1c.1 .9 .2 1.8 .2 2.7 0 8.8-7.2 16-16 16-.9 0-1.9-.1-2.8-.2z"/>
     </svg>
   </g>
   <!-- Icon 10: minus-square -->
-  <g transform="translate(132, 152)">
+  <g transform="translate(316, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 448 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M64 80c-8.8 0-16 7.2-16 16l0 320c0 8.8 7.2 16 16 16l320 0c8.8 0 16-7.2 16-16l0-320c0-8.8-7.2-16-16-16L64 80zM0 96C0 60.7 28.7 32 64 32l320 0c35.3 0 64 28.7 64 64l0 320c0 35.3-28.7 64-64 64L64 480c-35.3 0-64-28.7-64-64L0 96zM136 232l176 0c13.3 0 24 10.7 24 24s-10.7 24-24 24l-176 0c-13.3 0-24-10.7-24-24s10.7-24 24-24z"/>
     </svg>
   </g>
   <!-- Icon 11: lightbulb -->
-  <g transform="translate(192, 152)">
+  <g transform="translate(376, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 384 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M296.5 291.1C321 265.2 336 230.4 336 192 336 112.5 271.5 48 192 48S48 112.5 48 192c0 38.4 15 73.2 39.5 99.1 21.3 22.4 44.9 54 53.3 92.9l102.4 0c8.4-39 32-70.5 53.3-92.9zm34.8 33C307.7 349 288 379.4 288 413.7l0 18.3c0 44.2-35.8 80-80 80l-32 0c-44.2 0-80-35.8-80-80l0-18.3C96 379.4 76.3 349 52.7 324.1 20 289.7 0 243.2 0 192 0 86 86 0 192 0S384 86 384 192c0 51.2-20 97.7-52.7 132.1zM144 184c0 13.3-10.7 24-24 24s-24-10.7-24-24c0-48.6 39.4-88 88-88 13.3 0 24 10.7 24 24s-10.7 24-24 24c-22.1 0-40 17.9-40 40z"/>
     </svg>
   </g>
   <!-- Icon 12: kiss -->
-  <g transform="translate(252, 152)">
+  <g transform="translate(436, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M464 256a208 208 0 1 0 -416 0 208 208 0 1 0 416 0zM0 256a256 256 0 1 1 512 0 256 256 0 1 1 -512 0zm240 0l32 0c26.5 0 48 21.5 48 48 0 12.3-4.6 23.5-12.2 32 7.6 8.5 12.2 19.7 12.2 32 0 26.5-21.5 48-48 48l-32 0c-8.8 0-16-7.2-16-16s7.2-16 16-16l16 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-16 0c-8.8 0-16-7.2-16-16s7.2-16 16-16l16 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-16 0c-8.8 0-16-7.2-16-16s7.2-16 16-16zm-96-48a32 32 0 1 1 64 0 32 32 0 1 1 -64 0zm192-32a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/>
     </svg>
   </g>
   <!-- Icon 13: id-badge -->
-  <g transform="translate(312, 152)">
+  <g transform="translate(496, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 384 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M256 48l0 16c0 17.7-14.3 32-32 32l-64 0c-17.7 0-32-14.3-32-32l0-16-64 0c-8.8 0-16 7.2-16 16l0 384c0 8.8 7.2 16 16 16l256 0c8.8 0 16-7.2 16-16l0-384c0-8.8-7.2-16-16-16l-64 0zM0 64C0 28.7 28.7 0 64 0L320 0c35.3 0 64 28.7 64 64l0 384c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64zM160 320l64 0c44.2 0 80 35.8 80 80 0 8.8-7.2 16-16 16L96 416c-8.8 0-16-7.2-16-16 0-44.2 35.8-80 80-80zm-24-96a56 56 0 1 1 112 0 56 56 0 1 1 -112 0z"/>
     </svg>
   </g>
   <!-- Icon 14: hospital-wide -->
-  <g transform="translate(372, 152)">
+  <g transform="translate(556, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 576 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M176 0c-35.3 0-64 28.7-64 64l0 48-48 0c-35.3 0-64 28.7-64 64L0 448c0 35.3 28.7 64 64 64l448 0c35.3 0 64-28.7 64-64l0-272c0-35.3-28.7-64-64-64l-48 0 0-48c0-35.3-28.7-64-64-64L176 0zM160 64c0-8.8 7.2-16 16-16l224 0c8.8 0 16 7.2 16 16l0 72c0 13.3 10.7 24 24 24l72 0c8.8 0 16 7.2 16 16l0 272c0 8.8-7.2 16-16 16l-176 0 0-80c0-17.7-14.3-32-32-32l-32 0c-17.7 0-32 14.3-32 32l0 80-176 0c-8.8 0-16-7.2-16-16l0-272c0-8.8 7.2-16 16-16l72 0c13.3 0 24-10.7 24-24l0-72zM112 224c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zM96 336l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm320 0l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm16-112c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zM264 104l0 32-32 0c-8.8 0-16 7.2-16 16l0 16c0 8.8 7.2 16 16 16l32 0 0 32c0 8.8 7.2 16 16 16l16 0c8.8 0 16-7.2 16-16l0-32 32 0c8.8 0 16-7.2 16-16l0-16c0-8.8-7.2-16-16-16l-32 0 0-32c0-8.8-7.2-16-16-16l-16 0c-8.8 0-16 7.2-16 16z"/>
     </svg>
   </g>
   <!-- Icon 15: headphones-simple -->
-  <g transform="translate(12, 212)">
+  <g transform="translate(196, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 448 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M48 224c0-97.2 78.8-176 176-176s176 78.8 176 176l0 44.8c-14.1-8.2-30.5-12.8-48-12.8l-16 0c-26.5 0-48 21.5-48 48l0 128c0 26.5 21.5 48 48 48l16 0c53 0 96-43 96-96l0-160C448 100.3 347.7 0 224 0S0 100.3 0 224L0 384c0 53 43 96 96 96l16 0c26.5 0 48-21.5 48-48l0-128c0-26.5-21.5-48-48-48l-16 0c-17.5 0-33.9 4.7-48 12.8L48 224zm0 128c0-26.5 21.5-48 48-48l16 0 0 128-16 0c-26.5 0-48-21.5-48-48l0-32zm352 0l0 32c0 26.5-21.5 48-48 48l-16 0 0-128 16 0c26.5 0 48 21.5 48 48z"/>
     </svg>
   </g>
   <!-- Icon 16: hand -->
-  <g transform="translate(72, 212)">
+  <g transform="translate(256, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M256.5 0c-25.3 0-47.2 14.7-57.6 36-7-2.6-14.5-4-22.4-4-35.3 0-64 28.7-64 64l0 165.5-2.7-2.7c-25-25-65.5-25-90.5 0s-25 65.5 0 90.5L107 437c48 48 113.1 75 181 75l16.5 0c1.5 0 3-.1 4.5-.4 91.7-6.2 165-79.4 171.1-171.1 .3-1.5 .4-3 .4-4.5l0-176c0-35.3-28.7-64-64-64-5.5 0-10.9 .7-16 2l0-2c0-35.3-28.7-64-64-64-7.9 0-15.4 1.4-22.4 4-10.4-21.3-32.3-36-57.6-36zm-16 96.1l0-.1 0-32c0-8.8 7.2-16 16-16s16 7.2 16 16l0 168c0 13.3 10.7 24 24 24s24-10.7 24-24l0-136c0-8.8 7.2-16 16-16s16 7.2 16 16l0 136c0 13.3 10.7 24 24 24s24-10.7 24-24l0-72c0-8.8 7.2-16 16-16s16 7.2 16 16l0 172.9c-.1 .6-.1 1.3-.2 1.9-3.4 69.7-59.3 125.6-129 129-.6 0-1.3 .1-1.9 .2L288 464C232.9 464 180 442.1 141 403.1L53.2 315.3c-6.2-6.2-6.2-16.4 0-22.6s16.4-6.2 22.6 0l43.7 43.7c6.9 6.9 17.2 8.9 26.2 5.2s14.8-12.5 14.8-22.2l0-223.4c0-8.8 7.2-16 16-16 8.8 0 16 7.1 16 15.9l0 136.1c0 13.3 10.7 24 24 24s24-10.7 24-24l0-135.9z"/>
     </svg>
   </g>
   <!-- Icon 17: hand-point-left -->
-  <g transform="translate(132, 212)">
+  <g transform="translate(316, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M64 128l177.6 0c-1 5.2-1.6 10.5-1.6 16l0 16-176 0c-8.8 0-16-7.2-16-16s7.2-16 16-16zm224 16c0-17.7 14.3-32 32-32l24 0c66.3 0 120 53.7 120 120l0 48c0 52.5-33.7 97.1-80.7 113.4 .5-3.1 .7-6.2 .7-9.4 0-20-9.2-37.9-23.6-49.7 4.9-9 7.6-19.4 7.6-30.3 0-15.1-5.3-29-14-40 8.8-11 14-24.9 14-40l0-40c0-13.3-10.7-24-24-24s-24 10.7-24 24l0 40c0 8.8-7.2 16-16 16s-16-7.2-16-16l0-80zm32-80l0 0c-18 0-34.6 6-48 16L64 80C28.7 80 0 108.7 0 144s28.7 64 64 64l82 0c-1.3 5.1-2 10.5-2 16 0 25.3 14.7 47.2 36 57.6-2.6 7-4 14.5-4 22.4 0 20 9.2 37.9 23.6 49.7-4.9 9-7.6 19.4-7.6 30.3 0 35.3 28.7 64 64 64l88 0c92.8 0 168-75.2 168-168l0-48c0-92.8-75.2-168-168-168l-24 0zM256 400c-8.8 0-16-7.2-16-16s7.2-16 16-16l64 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-64 0zM240 224c0 5.5 .7 10.9 2 16l-34 0c-8.8 0-16-7.2-16-16s7.2-16 16-16l32 0 0 16zm24 64l40 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-64 0c-8.8 0-16-7.2-16-16s7.2-16 16-16l24 0z"/>
     </svg>
   </g>
   <!-- Icon 18: grin-wink -->
-  <g transform="translate(192, 212)">
+  <g transform="translate(376, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M464 256a208 208 0 1 0 -416 0 208 208 0 1 0 416 0zM0 256a256 256 0 1 1 512 0 256 256 0 1 1 -512 0zm372.2 46.3c11.8-3.6 23.7 6.1 19.6 17.8-19.8 55.9-73.1 96-135.8 96-62.7 0-116-40-135.8-95.9-4.1-11.6 7.8-21.4 19.6-17.8 34.7 10.6 74.2 16.5 116.1 16.5 42 0 81.5-6 116.3-16.6zM144 208a32 32 0 1 1 64 0 32 32 0 1 1 -64 0zm164 8c0 11-9 20-20 20s-20-9-20-20c0-33.1 26.9-60 60-60l16 0c33.1 0 60 26.9 60 60 0 11-9 20-20 20s-20-9-20-20-9-20-20-20l-16 0c-11 0-20 9-20 20z"/>
     </svg>
   </g>
   <!-- Icon 19: grin-squint-tears -->
-  <g transform="translate(252, 212)">
+  <g transform="translate(436, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M403.1 403.1c67.2-67.2 78.8-168.9 34.9-248l36.7-5.2c4.5-.6 8.8-1.6 13.1-2.8 44.6 94.9 27.7 211.5-50.7 290s-195.1 95.3-290 50.7c1.2-4.2 2.1-8.6 2.8-13.1l5.2-36.7c79.1 43.9 180.8 32.3 248-34.9zM75 75c78.4-78.4 195.1-95.3 290-50.7-1.2 4.2-2.1 8.6-2.8 13.1l-5.2 36.7c-79.1-43.9-180.8-32.3-248 34.9s-78.8 168.9-34.9 248l-36.7 5.2c-4.5 .6-8.8 1.6-13.1 2.8-44.6-94.9-27.7-211.5 50.7-290zM370.9 206.5c5.8-10.9 21.1-12.4 26.4-1.3 25.6 53.5 16.2 119.6-28.2 163.9-44.3 44.3-110.3 53.7-163.8 28.2-11.1-5.3-9.6-20.6 1.3-26.4 32-17.1 64.2-40.8 93.8-70.4 29.7-29.7 53.4-61.9 70.5-94zM93.3 281.9c-1.7-8 2.9-15.9 10.6-18.4l84.6-28c5.7-1.9 12.1-.4 16.3 3.9s5.8 10.6 3.9 16.3l-28 84.6c-2.6 7.7-10.5 12.3-18.4 10.6s-13.4-9-12.7-17.1l3.9-43.1-43.1 3.9c-8.1 .7-15.5-4.7-17.1-12.7zM294.6 110.4l-3.9 43.1 43.1-3.9c8.1-.7 15.5 4.7 17.1 12.7s-2.9 15.9-10.6 18.4l-84.6 28c-5.7 1.9-12.1 .4-16.3-3.9s-5.8-10.6-3.9-16.3l28-84.6c2.6-7.7 10.5-12.3 18.4-10.6s13.4 9 12.7 17.1zM512 51.4c0 25.6-18.8 47.3-44.1 50.9L421.1 109c-10.6 1.5-19.6-7.5-18.1-18.1l6.7-46.7C413.3 18.8 435 0 460.6 0 489 0 512 23 512 51.4zM44.1 409.7L90.9 403c10.6-1.5 19.6 7.5 18.1 18.1l-6.7 46.7C98.7 493.2 77 512 51.4 512 23 512 0 489 0 460.6 0 435 18.8 413.3 44.1 409.7z"/>
     </svg>
   </g>
   <!-- Icon 20: futbol -->
-  <g transform="translate(312, 212)">
+  <g transform="translate(496, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M387 228.3c-4.4-2.8-7.6-7-9.2-11.9s-1.4-10.2 .5-15L411.6 118c-19.9-22.4-44.6-40.5-72.4-52.7l-69.1 57.6c-4 3.3-9 5.1-14.1 5.1s-10.2-1.8-14.1-5.1L172.8 65.3c-27.8 12.2-52.5 30.3-72.4 52.7l33.4 83.4c1.9 4.8 2.1 10.1 .5 15s-4.9 9.1-9.2 11.9L49 276.2c3 30.9 12.7 59.7 27.6 85.2l89.7-6c5.2-.3 10.3 1.1 14.5 4.2s7.2 7.4 8.4 12.5l22 87.2c14.4 3.2 29.4 4.8 44.8 4.8s30.3-1.7 44.8-4.8l22-87.2c1.3-5 4.2-9.4 8.4-12.5s9.3-4.5 14.5-4.2l89.7 6c15-25.4 24.7-54.3 27.6-85.1L387 228.3zM256 0a256 256 0 1 1 0 512 256 256 0 1 1 0-512zm62 221c8.4 6.1 11.9 16.9 8.7 26.8l-18.3 56.3c-3.2 9.9-12.4 16.6-22.8 16.6l-59.2 0c-10.4 0-19.6-6.7-22.8-16.6l-18.3-56.3c-3.2-9.9 .3-20.7 8.7-26.8l47.9-34.8c8.4-6.1 19.8-6.1 28.2 0L318 221z"/>
     </svg>
   </g>
   <!-- Icon 21: folder -->
-  <g transform="translate(372, 212)">
+  <g transform="translate(556, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M64 400l384 0c8.8 0 16-7.2 16-16l0-240c0-8.8-7.2-16-16-16l-149.3 0c-17.3 0-34.2-5.6-48-16L212.3 83.2c-2.8-2.1-6.1-3.2-9.6-3.2L64 80c-8.8 0-16 7.2-16 16l0 288c0 8.8 7.2 16 16 16zm384 48L64 448c-35.3 0-64-28.7-64-64L0 96C0 60.7 28.7 32 64 32l138.7 0c13.8 0 27.3 4.5 38.4 12.8l38.4 28.8c5.5 4.2 12.3 6.4 19.2 6.4L448 80c35.3 0 64 28.7 64 64l0 240c0 35.3-28.7 64-64 64z"/>
     </svg>
   </g>
   <!-- Icon 22: file -->
-  <g transform="translate(12, 272)">
+  <g transform="translate(196, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 384 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M176 48L64 48c-8.8 0-16 7.2-16 16l0 384c0 8.8 7.2 16 16 16l256 0c8.8 0 16-7.2 16-16l0-240-88 0c-39.8 0-72-32.2-72-72l0-88zM316.1 160L224 67.9 224 136c0 13.3 10.7 24 24 24l68.1 0zM0 64C0 28.7 28.7 0 64 0L197.5 0c17 0 33.3 6.7 45.3 18.7L365.3 141.3c12 12 18.7 28.3 18.7 45.3L384 448c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 64z"/>
     </svg>
   </g>
   <!-- Icon 23: file-lines -->
-  <g transform="translate(72, 272)">
+  <g transform="translate(256, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 384 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M64 48l112 0 0 88c0 39.8 32.2 72 72 72l88 0 0 240c0 8.8-7.2 16-16 16L64 464c-8.8 0-16-7.2-16-16L48 64c0-8.8 7.2-16 16-16zM224 67.9l92.1 92.1-68.1 0c-13.3 0-24-10.7-24-24l0-68.1zM64 0C28.7 0 0 28.7 0 64L0 448c0 35.3 28.7 64 64 64l256 0c35.3 0 64-28.7 64-64l0-261.5c0-17-6.7-33.3-18.7-45.3L242.7 18.7C230.7 6.7 214.5 0 197.5 0L64 0zm56 256c-13.3 0-24 10.7-24 24s10.7 24 24 24l144 0c13.3 0 24-10.7 24-24s-10.7-24-24-24l-144 0zm0 96c-13.3 0-24 10.7-24 24s10.7 24 24 24l144 0c13.3 0 24-10.7 24-24s-10.7-24-24-24l-144 0z"/>
     </svg>
   </g>
   <!-- Icon 24: file-alt -->
-  <g transform="translate(132, 272)">
+  <g transform="translate(316, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 384 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M64 48l112 0 0 88c0 39.8 32.2 72 72 72l88 0 0 240c0 8.8-7.2 16-16 16L64 464c-8.8 0-16-7.2-16-16L48 64c0-8.8 7.2-16 16-16zM224 67.9l92.1 92.1-68.1 0c-13.3 0-24-10.7-24-24l0-68.1zM64 0C28.7 0 0 28.7 0 64L0 448c0 35.3 28.7 64 64 64l256 0c35.3 0 64-28.7 64-64l0-261.5c0-17-6.7-33.3-18.7-45.3L242.7 18.7C230.7 6.7 214.5 0 197.5 0L64 0zm56 256c-13.3 0-24 10.7-24 24s10.7 24 24 24l144 0c13.3 0 24-10.7 24-24s-10.7-24-24-24l-144 0zm0 96c-13.3 0-24 10.7-24 24s10.7 24 24 24l144 0c13.3 0 24-10.7 24-24s-10.7-24-24-24l-144 0z"/>
     </svg>
   </g>
   <!-- Icon 25: face-sad-cry -->
-  <g transform="translate(192, 272)">
+  <g transform="translate(376, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M400 406.1L400 288c0-13.3-10.7-24-24-24s-24 10.7-24 24l0 152.6c-28.7 15-61.4 23.4-96 23.4s-67.3-8.5-96-23.4L160 288c0-13.3-10.7-24-24-24s-24 10.7-24 24l0 118.1C72.6 368.2 48 315 48 256 48 141.1 141.1 48 256 48s208 93.1 208 208c0 59-24.6 112.2-64 150.1zM256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zM152 196l16 0c11 0 20 9 20 20s9 20 20 20 20-9 20-20c0-33.1-26.9-60-60-60l-16 0c-33.1 0-60 26.9-60 60 0 11 9 20 20 20s20-9 20-20 9-20 20-20zm172 20c0-11 9-20 20-20l16 0c11 0 20 9 20 20s9 20 20 20 20-9 20-20c0-33.1-26.9-60-60-60l-16 0c-33.1 0-60 26.9-60 60 0 11 9 20 20 20s20-9 20-20zM208 336l0 32c0 26.5 21.5 48 48 48s48-21.5 48-48l0-32c0-26.5-21.5-48-48-48s-48 21.5-48 48z"/>
     </svg>
   </g>
   <!-- Icon 26: face-laugh-beam -->
-  <g transform="translate(252, 272)">
+  <g transform="translate(436, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M464 256a208 208 0 1 0 -416 0 208 208 0 1 0 416 0zM0 256a256 256 0 1 1 512 0 256 256 0 1 1 -512 0zm118.3 58.2c-4.2-13.7 7.1-26.2 21.4-26.2l232.6 0c14.3 0 25.6 12.5 21.4 26.2-18 58.9-72.9 101.8-137.7 101.8S136.3 373.1 118.3 314.2zM176 180c-15.5 0-28 12.5-28 28l0 8c0 11-9 20-20 20s-20-9-20-20l0-8c0-37.6 30.4-68 68-68s68 30.4 68 68l0 8c0 11-9 20-20 20s-20-9-20-20l0-8c0-15.5-12.5-28-28-28zm132 28l0 8c0 11-9 20-20 20s-20-9-20-20l0-8c0-37.6 30.4-68 68-68s68 30.4 68 68l0 8c0 11-9 20-20 20s-20-9-20-20l0-8c0-15.5-12.5-28-28-28s-28 12.5-28 28z"/>
     </svg>
   </g>
   <!-- Icon 27: face-grin-tongue -->
-  <g transform="translate(312, 272)">
+  <g transform="translate(496, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M464 256c0-114.9-93.1-208-208-208S48 141.1 48 256c0 74.1 38.8 139.2 97.1 176-.7-5.2-1.1-10.6-1.1-16l0-53.5c-10.2-12.6-18.3-26.9-23.8-42.4-4.1-11.6 7.8-21.4 19.6-17.8 34.7 10.6 74.2 16.5 116.1 16.5 42 0 81.5-6 116.3-16.6 11.8-3.6 23.7 6.1 19.6 17.8-5.5 15.6-13.6 29.9-23.8 42.5l0 53.5c0 5.4-.4 10.8-1.1 16 58.4-36.8 97.1-101.9 97.1-176zm48 0c0 116.3-77.6 214.6-183.9 245.7-19.5 16.4-44.6 26.3-72.1 26.3s-52.6-9.9-72.1-26.3C77.6 470.6 0 372.3 0 256 0 114.6 114.6 0 256 0S512 114.6 512 256zM176 176a32 32 0 1 1 0 64 32 32 0 1 1 0-64zm128 32a32 32 0 1 1 64 0 32 32 0 1 1 -64 0zm16 208l0-37.4c0-14.7-11.9-26.6-26.6-26.6l-2 0c-11.3 0-21.1 7.9-23.6 18.9-2.8 12.6-20.8 12.6-23.6 0-2.5-11.1-12.3-18.9-23.6-18.9l-2 0c-14.7 0-26.6 11.9-26.6 26.6l0 37.4c0 35.3 28.7 64 64 64s64-28.7 64-64z"/>
     </svg>
   </g>
   <!-- Icon 28: face-grin-hearts -->
-  <g transform="translate(372, 272)">
+  <g transform="translate(556, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M464 256c0 114.9-93.1 208-208 208S48 370.9 48 256c0-3.5 .1-7.1 .3-10.6-14-13.9-29.7-33.1-39.3-56.7-5.8 21.4-8.9 44-8.9 67.3 0 141.4 114.6 256 256 256S512 397.4 512 256c0-23.3-3.1-45.9-8.9-67.3-9.6 23.7-25.4 42.8-39.3 56.7 .2 3.5 .3 7 .3 10.6zM368 58.9c11.7-6 24.5-9.6 37.7-10.6-42.1-30.4-93.8-48.3-149.7-48.3S148.4 17.9 106.3 48.3c13.2 1 26 4.6 37.7 10.6 13.8-7.1 29.3-10.9 45.1-10.9l2.9 0c8.9 0 17.6 1.2 25.8 3.5 12.4-2.3 25.2-3.5 38.2-3.5s25.8 1.2 38.2 3.5c8.2-2.3 16.9-3.5 25.8-3.5l2.9 0c15.8 0 31.3 3.8 45.1 10.9zm4.2 243.4c-34.8 10.6-74.3 16.6-116.3 16.6-41.9 0-81.4-6-116.1-16.5-11.8-3.6-23.7 6.1-19.6 17.8 19.8 55.9 73.1 95.9 135.8 95.9 62.7 0 116-40.1 135.8-96 4.1-11.6-7.8-21.4-19.6-17.8zM322.9 96L320 96c-26.5 0-48 21.5-48 48 0 53.4 66.9 95.7 89 108.2 4.4 2.5 9.6 2.5 14 0 22.1-12.5 89-54.8 89-108.2 0-26.5-21.5-48-48-48l-2.9 0c-13.5 0-26.5 5.4-36 14.9l-9.1 9.1-9.1-9.1c-9.5-9.5-22.5-14.9-36-14.9zm-188 14.9c-9.5-9.5-22.5-14.9-36-14.9L96 96c-26.5 0-48 21.5-48 48 0 53.4 66.9 95.7 89 108.2 4.4 2.5 9.6 2.5 14 0 22.1-12.5 89-54.8 89-108.2 0-26.5-21.5-48-48-48l-2.9 0c-13.5 0-26.5 5.4-36 14.9l-9.1 9.1-9.1-9.1z"/>
     </svg>
   </g>
   <!-- Icon 29: face-dizzy -->
-  <g transform="translate(12, 332)">
+  <g transform="translate(196, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M464 256a208 208 0 1 0 -416 0 208 208 0 1 0 416 0zM0 256a256 256 0 1 1 512 0 256 256 0 1 1 -512 0zM134.1 153.9l25.9 25.9 25.9-25.9c7.8-7.8 20.5-7.8 28.3 0s7.8 20.5 0 28.3l-25.9 25.9 25.9 25.9c7.8 7.8 7.8 20.5 0 28.3s-20.5 7.8-28.3 0l-25.9-25.9-25.9 25.9c-7.8 7.8-20.5 7.8-28.3 0s-7.8-20.5 0-28.3l25.9-25.9-25.9-25.9c-7.8-7.8-7.8-20.5 0-28.3s20.5-7.8 28.3 0zm192 0l25.9 25.9 25.9-25.9c7.8-7.8 20.5-7.8 28.3 0s7.8 20.5 0 28.3l-25.9 25.9 25.9 25.9c7.8 7.8 7.8 20.5 0 28.3s-20.5 7.8-28.3 0l-25.9-25.9-25.9 25.9c-7.8 7.8-20.5 7.8-28.3 0s-7.8-20.5 0-28.3l25.9-25.9-25.9-25.9c-7.8-7.8-7.8-20.5 0-28.3s20.5-7.8 28.3 0zM256 288a64 64 0 1 1 0 128 64 64 0 1 1 0-128z"/>
     </svg>
   </g>
   <!-- Icon 30: drivers-license -->
-  <g transform="translate(72, 332)">
+  <g transform="translate(256, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 576 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M48 416l0-256 480 0 0 256c0 8.8-7.2 16-16 16l-192 0c0-44.2-35.8-80-80-80l-64 0c-44.2 0-80 35.8-80 80l-32 0c-8.8 0-16-7.2-16-16zM64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l448 0c35.3 0 64-28.7 64-64l0-320c0-35.3-28.7-64-64-64L64 32zM208 312a56 56 0 1 0 0-112 56 56 0 1 0 0 112zM376 208c-13.3 0-24 10.7-24 24s10.7 24 24 24l80 0c13.3 0 24-10.7 24-24s-10.7-24-24-24l-80 0zm0 96c-13.3 0-24 10.7-24 24s10.7 24 24 24l80 0c13.3 0 24-10.7 24-24s-10.7-24-24-24l-80 0z"/>
     </svg>
   </g>
   <!-- Icon 31: contact-card -->
-  <g transform="translate(132, 332)">
+  <g transform="translate(316, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 576 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M512 80c8.8 0 16 7.2 16 16l0 320c0 8.8-7.2 16-16 16L64 432c-8.8 0-16-7.2-16-16L48 96c0-8.8 7.2-16 16-16l448 0zM64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l448 0c35.3 0 64-28.7 64-64l0-320c0-35.3-28.7-64-64-64L64 32zM208 248a56 56 0 1 0 0-112 56 56 0 1 0 0 112zm-32 40c-44.2 0-80 35.8-80 80 0 8.8 7.2 16 16 16l192 0c8.8 0 16-7.2 16-16 0-44.2-35.8-80-80-80l-64 0zM376 144c-13.3 0-24 10.7-24 24s10.7 24 24 24l80 0c13.3 0 24-10.7 24-24s-10.7-24-24-24l-80 0zm0 96c-13.3 0-24 10.7-24 24s10.7 24 24 24l80 0c13.3 0 24-10.7 24-24s-10.7-24-24-24l-80 0z"/>
     </svg>
   </g>
   <!-- Icon 32: comment-alt -->
-  <g transform="translate(192, 332)">
+  <g transform="translate(376, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M203.7 512.9s0 0 0 0l-37.8 26.7c-7.3 5.2-16.9 5.8-24.9 1.7S128 529 128 520l0-72-32 0c-53 0-96-43-96-96L0 128C0 75 43 32 96 32l320 0c53 0 96 43 96 96l0 224c0 53-43 96-96 96l-120.4 0-91.9 64.9zm64.3-104.1c8.1-5.7 17.8-8.8 27.7-8.8L416 400c26.5 0 48-21.5 48-48l0-224c0-26.5-21.5-48-48-48L96 80c-26.5 0-48 21.5-48 48l0 224c0 26.5 21.5 48 48 48l56 0c10.4 0 19.3 6.6 22.6 15.9 .9 2.5 1.4 5.2 1.4 8.1l0 49.7c32.7-23.1 63.3-44.7 91.9-64.9z"/>
     </svg>
   </g>
   <!-- Icon 33: circle -->
-  <g transform="translate(252, 332)">
+  <g transform="translate(436, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M464 256a208 208 0 1 0 -416 0 208 208 0 1 0 416 0zM0 256a256 256 0 1 1 512 0 256 256 0 1 1 -512 0z"/>
     </svg>
   </g>
   <!-- Icon 34: circle-play -->
-  <g transform="translate(312, 332)">
+  <g transform="translate(496, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M256 48a208 208 0 1 1 0 416 208 208 0 1 1 0-416zm0 464a256 256 0 1 0 0-512 256 256 0 1 0 0 512zM212.5 147.5c-7.4-4.5-16.7-4.7-24.3-.5S176 159.3 176 168l0 176c0 8.7 4.7 16.7 12.3 20.9s16.8 4.1 24.3-.5l144-88c7.1-4.4 11.5-12.1 11.5-20.5s-4.4-16.1-11.5-20.5l-144-88zM298 256l-74 45.2 0-90.4 74 45.2z"/>
     </svg>
   </g>
   <!-- Icon 35: chess-queen -->
-  <g transform="translate(372, 332)">
+  <g transform="translate(556, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 512 512">
       <!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="#2563eb" d="M325.3 90.8c9.1-4.8 20.6-3.3 28.2 4.3l39.8 39.8 3.7 3.3c9.1 7.1 20.9 10 32.4 7.7l46.4-9.3 3.5-.4c8-.4 15.8 3.2 20.6 9.8 5.5 7.6 6.1 17.6 1.6 25.8l-112.6 202.6 51.5 70.9 1.8 2.7c4 6.6 6.2 14.2 6.2 22 0 23.3-18.9 42.1-42.1 42.1l-299.8 0c-21.8 0-39.8-16.6-41.9-37.8l-.2-4.3 .1-3.3c.6-7.7 3.4-15.1 7.9-21.4l51.5-70.9-112.5-202.6c-4.5-8.2-3.9-18.3 1.6-25.8s14.9-11.2 24.1-9.4l46.4 9.3c13.1 2.6 26.7-1.5 36.1-10.9L159.5 95 163 92.2c8.6-5.8 20.1-5.6 28.5 1.1l40 32 2.8 2.1c14.4 9.6 33.5 8.9 47.2-2.1l40-32 3.8-2.5zM164.7 400l-46.6 64 276.7 0-46.6-64-183.6 0zM311.5 162.8c-30.1 24.1-72.1 25.6-103.8 4.5l-6.2-4.5-23.3-18.6-24.6 24.6c-19.8 19.8-47.7 28.9-75.1 24.8l88.1 158.5 179.8 0 88-158.5c-25.7 3.8-51.7-3.9-71.1-21l-4-3.7-24.6-24.6-23.2 18.6zM256.5 72a40 40 0 1 1 0-80 40 40 0 1 1 0 80z"/>

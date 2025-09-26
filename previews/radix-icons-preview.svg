@@ -13,7 +13,7 @@
   
   <!-- Icon Grid -->
   <!-- Icon 1: zoom-out -->
-  <g transform="translate(12, 92)">
+  <g transform="translate(196, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -27,7 +27,7 @@
     </svg>
   </g>
   <!-- Icon 2: value -->
-  <g transform="translate(72, 92)">
+  <g transform="translate(256, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -41,7 +41,7 @@
     </svg>
   </g>
   <!-- Icon 3: triangle-down -->
-  <g transform="translate(132, 92)">
+  <g transform="translate(316, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -50,7 +50,7 @@
     </svg>
   </g>
   <!-- Icon 4: thick-arrow-right -->
-  <g transform="translate(192, 92)">
+  <g transform="translate(376, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -64,7 +64,7 @@
     </svg>
   </g>
   <!-- Icon 5: text-align-justify -->
-  <g transform="translate(252, 92)">
+  <g transform="translate(436, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -78,7 +78,7 @@
     </svg>
   </g>
   <!-- Icon 6: stretch-vertically -->
-  <g transform="translate(312, 92)">
+  <g transform="translate(496, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -92,7 +92,7 @@
     </svg>
   </g>
   <!-- Icon 7: speaker-quiet -->
-  <g transform="translate(372, 92)">
+  <g transform="translate(556, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -106,7 +106,7 @@
     </svg>
   </g>
   <!-- Icon 8: slash -->
-  <g transform="translate(12, 152)">
+  <g transform="translate(196, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -120,7 +120,7 @@
     </svg>
   </g>
   <!-- Icon 9: shadow-inner -->
-  <g transform="translate(72, 152)">
+  <g transform="translate(256, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -204,7 +204,7 @@
     </svg>
   </g>
   <!-- Icon 10: rotate-counter-clockwise -->
-  <g transform="translate(132, 152)">
+  <g transform="translate(316, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -218,7 +218,7 @@
     </svg>
   </g>
   <!-- Icon 11: question-mark-circled -->
-  <g transform="translate(192, 152)">
+  <g transform="translate(376, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -232,7 +232,7 @@
     </svg>
   </g>
   <!-- Icon 12: pie-chart -->
-  <g transform="translate(252, 152)">
+  <g transform="translate(436, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -246,7 +246,7 @@
     </svg>
   </g>
   <!-- Icon 13: opacity -->
-  <g transform="translate(312, 152)">
+  <g transform="translate(496, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -260,7 +260,7 @@
     </svg>
   </g>
   <!-- Icon 14: minus -->
-  <g transform="translate(372, 152)">
+  <g transform="translate(556, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -274,7 +274,7 @@
     </svg>
   </g>
   <!-- Icon 15: lock-open-1 -->
-  <g transform="translate(12, 212)">
+  <g transform="translate(196, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -288,7 +288,7 @@
     </svg>
   </g>
   <!-- Icon 16: link-1 -->
-  <g transform="translate(72, 212)">
+  <g transform="translate(256, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -302,7 +302,7 @@
     </svg>
   </g>
   <!-- Icon 17: layers -->
-  <g transform="translate(132, 212)">
+  <g transform="translate(316, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -316,7 +316,7 @@
     </svg>
   </g>
   <!-- Icon 18: iconjar-logo -->
-  <g transform="translate(192, 212)">
+  <g transform="translate(376, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -330,7 +330,7 @@
     </svg>
   </g>
   <!-- Icon 19: half-2 -->
-  <g transform="translate(252, 212)">
+  <g transform="translate(436, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -344,7 +344,7 @@
     </svg>
   </g>
   <!-- Icon 20: font-style -->
-  <g transform="translate(312, 212)">
+  <g transform="translate(496, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -358,7 +358,7 @@
     </svg>
   </g>
   <!-- Icon 21: file-minus -->
-  <g transform="translate(372, 212)">
+  <g transform="translate(556, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -372,7 +372,7 @@
     </svg>
   </g>
   <!-- Icon 22: exclamation-triangle -->
-  <g transform="translate(12, 272)">
+  <g transform="translate(196, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -386,7 +386,7 @@
     </svg>
   </g>
   <!-- Icon 23: drag-handle-vertical -->
-  <g transform="translate(72, 272)">
+  <g transform="translate(256, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -400,7 +400,7 @@
     </svg>
   </g>
   <!-- Icon 24: dots-vertical -->
-  <g transform="translate(132, 272)">
+  <g transform="translate(316, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -414,7 +414,7 @@
     </svg>
   </g>
   <!-- Icon 25: desktop -->
-  <g transform="translate(192, 272)">
+  <g transform="translate(376, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -428,7 +428,7 @@
     </svg>
   </g>
   <!-- Icon 26: cross-circled -->
-  <g transform="translate(252, 272)">
+  <g transform="translate(436, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -442,7 +442,7 @@
     </svg>
   </g>
   <!-- Icon 27: corner-bottom-right -->
-  <g transform="translate(312, 272)">
+  <g transform="translate(496, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -456,7 +456,7 @@
     </svg>
   </g>
   <!-- Icon 28: component-2 -->
-  <g transform="translate(372, 272)">
+  <g transform="translate(556, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -470,7 +470,7 @@
     </svg>
   </g>
   <!-- Icon 29: clipboard -->
-  <g transform="translate(12, 332)">
+  <g transform="translate(196, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -484,7 +484,7 @@
     </svg>
   </g>
   <!-- Icon 30: check -->
-  <g transform="translate(72, 332)">
+  <g transform="translate(256, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -498,7 +498,7 @@
     </svg>
   </g>
   <!-- Icon 31: card-stack-plus -->
-  <g transform="translate(132, 332)">
+  <g transform="translate(316, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -512,7 +512,7 @@
     </svg>
   </g>
   <!-- Icon 32: border-style -->
-  <g transform="translate(192, 332)">
+  <g transform="translate(376, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -526,7 +526,7 @@
     </svg>
   </g>
   <!-- Icon 33: border-all -->
-  <g transform="translate(252, 332)">
+  <g transform="translate(436, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -549,7 +549,7 @@
     </svg>
   </g>
   <!-- Icon 34: aspect-ratio -->
-  <g transform="translate(312, 332)">
+  <g transform="translate(496, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       
@@ -563,7 +563,7 @@
     </svg>
   </g>
   <!-- Icon 35: archive -->
-  <g transform="translate(372, 332)">
+  <g transform="translate(556, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 15 15">
       

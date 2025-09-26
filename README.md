@@ -1,336 +1,146 @@
-# SVG Icon Packs - Release Repository
-
-[![Create Release](https://github.com/[YOUR_USERNAME]/svg-packs-release/actions/workflows/release.yml/badge.svg)](https://github.com/[YOUR_USERNAME]/svg-packs-release/actions/workflows/release.yml)
-[![License: Various](https://img.shields.io/badge/License-Various-blue.svg)](https://github.com/[YOUR_USERNAME]/svg-packs-release)
-
-This repository contains curated releases of popular open-source SVG icon packs, automatically organized by variants (filled, outlined, brands, etc.).
-
-## 🚀 Quick Start
-
-### Option 1: Download from Releases
-Visit the [Releases page](https://github.com/[YOUR_USERNAME]/svg-packs-release/releases) to download individual variant zip files.
-
-### Option 2: Clone Repository
-```bash
-git clone https://github.com/[YOUR_USERNAME]/svg-packs-release.git
-```
-
-## 📦 What's Included
-
-- **20+ popular icon packs** including Bootstrap Icons, Font Awesome, Material Design Icons, etc.
-- **Organized by variants** - separate files for filled, unfilled, outlined, brands, etc.
-- **Flattened directory structure** - all icons at root level with underscores (e.g., `action_24px.svg`)
-- **Preview images** for all icon pack variants
-- **Original SVG files** with proper directory structure
-- **All licenses included** for each icon pack
-
-## 🖼️ Icon Pack Previews
-
-<details>
-<summary>📸 Click to view preview images of all icon packs</summary>
-
-
-### Material Design Icons
-
-**filled** (2,870 icons)
-
-![Material Design Icons filled Preview](previews/material-design-icons-filled-preview.svg)
-
-
-**outlined** (2,808 icons)
-
-![Material Design Icons outlined Preview](previews/material-design-icons-outlined-preview.svg)
-
-
-**rounded** (2,813 icons)
-
-![Material Design Icons rounded Preview](previews/material-design-icons-rounded-preview.svg)
-
-
-**sharp** (2,813 icons)
-
-![Material Design Icons sharp Preview](previews/material-design-icons-sharp-preview.svg)
-
-
-**twotone** (2,851 icons)
-
-![Material Design Icons twotone Preview](previews/material-design-icons-twotone-preview.svg)
-
-
-
-### Tabler Icons
-
-**outline** (5,945 icons)
-
-![Tabler Icons outline Preview](previews/tabler-icons-outline-preview.svg)
-
-
-
-### Feather Icons
-
-**all** (287 icons)
-
-![Feather Icons all Preview](previews/feather-icons-preview.svg)
-
-
-
-### Font Awesome
-
-**brands** (549 icons)
-
-![Font Awesome brands Preview](previews/font-awesome-brands-preview.svg)
-
-
-**solid** (1,984 icons)
-
-![Font Awesome solid Preview](previews/font-awesome-solid-preview.svg)
-
-
-**regular** (273 icons)
-
-![Font Awesome regular Preview](previews/font-awesome-regular-preview.svg)
-
-
-
-### Icon Brew
-
-**all** (758 icons)
-
-![Icon Brew all Preview](previews/iconbrew-preview.svg)
-
-
-
-### RPG Awesome
-
-**all** (495 icons)
-
-![RPG Awesome all Preview](previews/rpg-awesome-preview.svg)
-
-
-
-### coolicons
-
-**all** (442 icons)
-
-![coolicons all Preview](previews/coolicons-preview.svg)
-
-
-
-### Heroicons
-
-**16-solid** (632 icons)
-
-![Heroicons 16-solid Preview](previews/heroicons-16-solid-preview.svg)
-
-
-**20-solid** (648 icons)
-
-![Heroicons 20-solid Preview](previews/heroicons-20-solid-preview.svg)
-
-
-**24-solid** (648 icons)
-
-![Heroicons 24-solid Preview](previews/heroicons-24-solid-preview.svg)
-
-
-**24-outline** (648 icons)
-
-![Heroicons 24-outline Preview](previews/heroicons-24-outline-preview.svg)
-
-
-
-### Lucide Icons
-
-**all** (1,635 icons)
-
-![Lucide Icons all Preview](previews/lucide-icons-preview.svg)
-
-
-
-### Phosphor Icons
-
-**bold** (1,512 icons)
-
-![Phosphor Icons bold Preview](previews/phosphor-icons-bold-preview.svg)
-
-
-**duotone** (1,512 icons)
-
-![Phosphor Icons duotone Preview](previews/phosphor-icons-duotone-preview.svg)
-
-
-**fill** (1,512 icons)
-
-![Phosphor Icons fill Preview](previews/phosphor-icons-fill-preview.svg)
-
-
-**light** (1,512 icons)
-
-![Phosphor Icons light Preview](previews/phosphor-icons-light-preview.svg)
-
-
-**regular** (1,512 icons)
-
-![Phosphor Icons regular Preview](previews/phosphor-icons-regular-preview.svg)
-
-
-**thin** (1,512 icons)
-
-![Phosphor Icons thin Preview](previews/phosphor-icons-thin-preview.svg)
-
-
-
-### Simple Icons
-
-**all** (3,355 icons)
-
-![Simple Icons all Preview](previews/simple-icons-preview.svg)
-
-
-
-### Bootstrap Icons
-
-**filled** (670 icons)
-
-![Bootstrap Icons filled Preview](previews/bootstrap-icons-filled-preview.svg)
-
-
-**unfilled** (1,373 icons)
-
-![Bootstrap Icons unfilled Preview](previews/bootstrap-icons-unfilled-preview.svg)
-
-
-**default** (35 icons)
-
-![Bootstrap Icons default Preview](previews/bootstrap-icons-default-preview.svg)
-
-
-
-### Remix Icon
-
-**default** (3,058 icons)
-
-![Remix Icon default Preview](previews/remix-icon-default-preview.svg)
-
-
-
-### Octicons
-
-**default** (665 icons)
-
-![Octicons default Preview](previews/octicons-default-preview.svg)
-
-
-
-### Eva Icons
-
-**fill** (246 icons)
-
-![Eva Icons fill Preview](previews/eva-icons-fill-preview.svg)
-
-
-**outline** (244 icons)
-
-![Eva Icons outline Preview](previews/eva-icons-outline-preview.svg)
-
-
-
-### Boxicons
-
-**solid** (665 icons)
-
-![Boxicons solid Preview](previews/boxicons-solid-preview.svg)
-
-
-**regular** (814 icons)
-
-![Boxicons regular Preview](previews/boxicons-regular-preview.svg)
-
-
-**logos** (155 icons)
-
-![Boxicons logos Preview](previews/boxicons-logos-preview.svg)
-
-
-
-### CSS.gg
-
-**all** (704 icons)
-
-![CSS.gg all Preview](previews/css-gg-preview.svg)
-
-
-
-### Radix Icons
-
-**all** (318 icons)
-
-![Radix Icons all Preview](previews/radix-icons-preview.svg)
-
-
-
-### Zondicons
-
-**all** (297 icons)
-
-![Zondicons all Preview](previews/zondicons-preview.svg)
-
-
-
-### System UIcons
-
-**all** (430 icons)
-
-![System UIcons all Preview](previews/system-uicons-preview.svg)
-
-
-
-</details>
-
-
-## 🔄 Automated Releases
-
-This repository automatically creates a new GitHub release whenever changes are pushed to the main branch. Each release includes:
-- All variant zip files as downloadable assets
-- Automatic versioning based on date
-- Complete changelog
-
-## 📁 Repository Structure
+# SVG Icon Packs Collection
+
+This collection includes 19 popular open-source icon packs, organized by variants (filled, outlined, brands, etc.).
+
+## 📦 Icon Packs Included
+
+### Icon Packs with Variants
+
+#### Material Design Icons
+- **License**: Apache-2.0
+- **Repository**: https://github.com/google/material-design-icons
+- **Total Icons**: 14,155
+- **Variants**:
+  - `filled`: 2,870 icons → `zips/material-design-icons-filled.zip`
+  - `outlined`: 2,808 icons → `zips/material-design-icons-outlined.zip`
+  - `rounded`: 2,813 icons → `zips/material-design-icons-rounded.zip`
+  - `sharp`: 2,813 icons → `zips/material-design-icons-sharp.zip`
+  - `twotone`: 2,851 icons → `zips/material-design-icons-twotone.zip`
+
+#### Tabler Icons
+- **License**: MIT
+- **Repository**: https://github.com/tabler/tabler-icons
+- **Total Icons**: 5,945
+- **Variants**:
+  - `outline`: 5,945 icons → `zips/tabler-icons-outline.zip`
+
+#### Font Awesome
+- **License**: CC BY 4.0
+- **Repository**: https://github.com/FortAwesome/Font-Awesome
+- **Total Icons**: 2,806
+- **Variants**:
+  - `brands`: 549 icons → `zips/font-awesome-brands.zip`
+  - `solid`: 1,984 icons → `zips/font-awesome-solid.zip`
+  - `regular`: 273 icons → `zips/font-awesome-regular.zip`
+
+#### Heroicons
+- **License**: MIT
+- **Repository**: https://github.com/tailwindlabs/heroicons
+- **Total Icons**: 2,576
+- **Variants**:
+  - `24-solid`: 648 icons → `zips/heroicons-24-solid.zip`
+  - `24-outline`: 648 icons → `zips/heroicons-24-outline.zip`
+  - `default`: 1,280 icons → `zips/heroicons-default.zip`
+
+#### Phosphor Icons
+- **License**: MIT
+- **Repository**: https://github.com/phosphor-icons/core
+- **Total Icons**: 9,072
+- **Variants**:
+  - `bold`: 1,512 icons → `zips/phosphor-icons-bold.zip`
+  - `duotone`: 1,512 icons → `zips/phosphor-icons-duotone.zip`
+  - `fill`: 1,512 icons → `zips/phosphor-icons-fill.zip`
+  - `light`: 1,512 icons → `zips/phosphor-icons-light.zip`
+  - `regular`: 1,512 icons → `zips/phosphor-icons-regular.zip`
+  - `thin`: 1,512 icons → `zips/phosphor-icons-thin.zip`
+
+#### Bootstrap Icons
+- **License**: MIT
+- **Repository**: https://github.com/twbs/icons
+- **Total Icons**: 2,078
+- **Variants**:
+  - `filled`: 670 icons → `zips/bootstrap-icons-filled.zip`
+  - `unfilled`: 1,373 icons → `zips/bootstrap-icons-unfilled.zip`
+  - `default`: 35 icons → `zips/bootstrap-icons-default.zip`
+
+#### Remix Icon
+- **License**: Apache-2.0
+- **Repository**: https://github.com/Remix-Design/RemixIcon
+- **Total Icons**: 3,058
+- **Variants**:
+  - `default`: 3,058 icons → `zips/remix-icon-default.zip`
+
+#### Octicons
+- **License**: MIT
+- **Repository**: https://github.com/primer/octicons
+- **Total Icons**: 665
+- **Variants**:
+  - `default`: 665 icons → `zips/octicons-default.zip`
+
+#### Eva Icons
+- **License**: MIT
+- **Repository**: https://github.com/akveo/eva-icons
+- **Total Icons**: 490
+- **Variants**:
+  - `fill`: 246 icons → `zips/eva-icons-fill.zip`
+  - `outline`: 244 icons → `zips/eva-icons-outline.zip`
+
+#### Boxicons
+- **License**: MIT
+- **Repository**: https://github.com/atisawd/boxicons
+- **Total Icons**: 1,634
+- **Variants**:
+  - `solid`: 665 icons → `zips/boxicons-solid.zip`
+  - `regular`: 814 icons → `zips/boxicons-regular.zip`
+  - `logos`: 155 icons → `zips/boxicons-logos.zip`
+
+### Single Style Icon Packs
+
+| Pack Name | License | Icons | File |
+|-----------|---------|-------|------|
+| Feather Icons | MIT | 287 | `zips/feather-icons-all.zip` |
+| Icon Brew | MIT | 758 | `zips/iconbrew-all.zip` |
+| coolicons | CC BY 4.0 | 442 | `zips/coolicons-all.zip` |
+| Lucide Icons | ISC | 1,635 | `zips/lucide-icons-all.zip` |
+| Simple Icons | CC0-1.0 | 3,355 | `zips/simple-icons-all.zip` |
+| CSS.gg | MIT | 704 | `zips/css-gg-all.zip` |
+| Radix Icons | MIT | 318 | `zips/radix-icons-all.zip` |
+| Zondicons | MIT | 297 | `zips/zondicons-all.zip` |
+| System UIcons | Unlicense | 430 | `zips/system-uicons-all.zip` |
+
+## 📁 Directory Structure
 
 ```
+release/
 ├── README.md                 # This file
 ├── previews/                # Preview images for all icon packs
 │   ├── bootstrap-icons-filled-preview.svg
 │   ├── font-awesome-brands-preview.svg
-│   └── ... (39+ preview images)
+│   └── ... (37 preview images total)
 ├── zips/                    # All icon pack zip files
 │   ├── bootstrap-icons-filled.zip
 │   ├── bootstrap-icons-unfilled.zip
-│   └── ... (39+ variant zips)
-└── svg-originals/           # Original SVG files with licenses
+│   ├── font-awesome-brands.zip
+│   └── ... (37 zip files total)
+└── svg-originals/           # Original SVG files organized by pack
     ├── bootstrap-icons/
+    │   ├── LICENSE
+    │   └── icons/
     ├── font-awesome/
-    └── ... (20+ icon packs)
+    │   ├── LICENSE.txt
+    │   └── svgs/
+    └── ... (all 19 packs)
 ```
+
+## 🚀 Usage
+
+1. **Individual Variants**: Download specific variant zips from the `zips/` folder
+2. **Original Files**: Access the raw SVG files with licenses in `svg-originals/`
 
 ## 📄 Licenses
 
-Each icon pack retains its original license. Check the `svg-originals/[pack-name]/LICENSE` file for specific licensing terms.
+Each icon pack includes its own license file in the `svg-originals/[pack-name]/` directory. Please review the license before using the icons in your projects.
 
-## 🤝 Contributing
+## 🔄 Generated
 
-This is an automated release repository. To contribute or report issues with the icon packs, please refer to the original repositories.
-
-## ⚙️ GitHub Actions
-
-This repository uses GitHub Actions to automatically create releases. The workflow:
-1. Triggers on pushes to main branch
-2. Generates a version number based on date
-3. Creates a GitHub release
-4. Uploads all zip files as release assets
-
-To use this in your fork:
-1. Fork this repository
-2. Update the `[YOUR_USERNAME]` placeholders in README.md
-3. Enable GitHub Actions in your fork
-4. Push changes to trigger automatic releases
+Generated on: 2025-09-26T16:09:56.017Z

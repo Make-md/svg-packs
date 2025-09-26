@@ -13,7 +13,7 @@
   
   <!-- Icon Grid -->
   <!-- Icon 1: zoom -->
-  <g transform="translate(12, 92)">
+  <g transform="translate(196, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -22,7 +22,7 @@
     </svg>
   </g>
   <!-- Icon 2: square-f6 -->
-  <g transform="translate(72, 92)">
+  <g transform="translate(256, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -31,7 +31,7 @@
     </svg>
   </g>
   <!-- Icon 3: lemon-2 -->
-  <g transform="translate(132, 92)">
+  <g transform="translate(316, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -40,7 +40,7 @@
     </svg>
   </g>
   <!-- Icon 4: file-info -->
-  <g transform="translate(192, 92)">
+  <g transform="translate(376, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -50,7 +50,7 @@
     </svg>
   </g>
   <!-- Icon 5: circle-letter-q -->
-  <g transform="translate(252, 92)">
+  <g transform="translate(436, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -59,7 +59,7 @@
     </svg>
   </g>
   <!-- Icon 6: blob -->
-  <g transform="translate(312, 92)">
+  <g transform="translate(496, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -68,7 +68,7 @@
     </svg>
   </g>
   <!-- Icon 7: yin-yang -->
-  <g transform="translate(372, 92)">
+  <g transform="translate(556, 92)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -80,7 +80,7 @@
     </svg>
   </g>
   <!-- Icon 8: user-up -->
-  <g transform="translate(12, 152)">
+  <g transform="translate(196, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -92,7 +92,7 @@
     </svg>
   </g>
   <!-- Icon 9: tic-tac -->
-  <g transform="translate(72, 152)">
+  <g transform="translate(256, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -108,7 +108,7 @@
     </svg>
   </g>
   <!-- Icon 10: square-rounded-number-0 -->
-  <g transform="translate(132, 152)">
+  <g transform="translate(316, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -118,7 +118,7 @@
     </svg>
   </g>
   <!-- Icon 11: snowflake -->
-  <g transform="translate(192, 152)">
+  <g transform="translate(376, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -138,7 +138,7 @@
     </svg>
   </g>
   <!-- Icon 12: script-plus -->
-  <g transform="translate(252, 152)">
+  <g transform="translate(436, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -149,7 +149,7 @@
     </svg>
   </g>
   <!-- Icon 13: razor -->
-  <g transform="translate(312, 152)">
+  <g transform="translate(496, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -160,7 +160,7 @@
     </svg>
   </g>
   <!-- Icon 14: pig-money -->
-  <g transform="translate(372, 152)">
+  <g transform="translate(556, 152)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -171,7 +171,7 @@
     </svg>
   </g>
   <!-- Icon 15: octagon -->
-  <g transform="translate(12, 212)">
+  <g transform="translate(196, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -180,7 +180,7 @@
     </svg>
   </g>
   <!-- Icon 16: navigation-code -->
-  <g transform="translate(72, 212)">
+  <g transform="translate(256, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -191,7 +191,7 @@
     </svg>
   </g>
   <!-- Icon 17: message-circle-search -->
-  <g transform="translate(132, 212)">
+  <g transform="translate(316, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -202,7 +202,7 @@
     </svg>
   </g>
   <!-- Icon 18: mail-spark -->
-  <g transform="translate(192, 212)">
+  <g transform="translate(376, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -213,7 +213,7 @@
     </svg>
   </g>
   <!-- Icon 19: letter-i-small -->
-  <g transform="translate(252, 212)">
+  <g transform="translate(436, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -222,7 +222,7 @@
     </svg>
   </g>
   <!-- Icon 20: ice-skating -->
-  <g transform="translate(312, 212)">
+  <g transform="translate(496, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -234,7 +234,7 @@
     </svg>
   </g>
   <!-- Icon 21: heart-code -->
-  <g transform="translate(372, 212)">
+  <g transform="translate(556, 212)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -245,7 +245,7 @@
     </svg>
   </g>
   <!-- Icon 22: folder-check -->
-  <g transform="translate(12, 272)">
+  <g transform="translate(196, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -255,7 +255,7 @@
     </svg>
   </g>
   <!-- Icon 23: file-percent -->
-  <g transform="translate(72, 272)">
+  <g transform="translate(256, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -268,7 +268,7 @@
     </svg>
   </g>
   <!-- Icon 24: drag-drop-2 -->
-  <g transform="translate(132, 272)">
+  <g transform="translate(316, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -284,7 +284,7 @@
     </svg>
   </g>
   <!-- Icon 25: device-ipad-search -->
-  <g transform="translate(192, 272)">
+  <g transform="translate(376, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -296,7 +296,7 @@
     </svg>
   </g>
   <!-- Icon 26: currency-krone-danish -->
-  <g transform="translate(252, 272)">
+  <g transform="translate(436, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -310,7 +310,7 @@
     </svg>
   </g>
   <!-- Icon 27: cloud -->
-  <g transform="translate(312, 272)">
+  <g transform="translate(496, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -319,7 +319,7 @@
     </svg>
   </g>
   <!-- Icon 28: circle-dotted-letter-y -->
-  <g transform="translate(372, 272)">
+  <g transform="translate(556, 272)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -341,7 +341,7 @@
     </svg>
   </g>
   <!-- Icon 29: chalkboard -->
-  <g transform="translate(12, 332)">
+  <g transform="translate(196, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -351,7 +351,7 @@
     </svg>
   </g>
   <!-- Icon 30: building-pavilion -->
-  <g transform="translate(72, 332)">
+  <g transform="translate(256, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -363,7 +363,7 @@
     </svg>
   </g>
   <!-- Icon 31: brand-sentry -->
-  <g transform="translate(132, 332)">
+  <g transform="translate(316, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -372,7 +372,7 @@
     </svg>
   </g>
   <!-- Icon 32: brand-deno -->
-  <g transform="translate(192, 332)">
+  <g transform="translate(376, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -383,7 +383,7 @@
     </svg>
   </g>
   <!-- Icon 33: bookmark-plus -->
-  <g transform="translate(252, 332)">
+  <g transform="translate(436, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -394,7 +394,7 @@
     </svg>
   </g>
   <!-- Icon 34: badge-ad-off -->
-  <g transform="translate(312, 332)">
+  <g transform="translate(496, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
@@ -407,7 +407,7 @@
     </svg>
   </g>
   <!-- Icon 35: arrow-down -->
-  <g transform="translate(372, 332)">
+  <g transform="translate(556, 332)">
     <rect width="48" height="48" fill="#ffffff" stroke="#e9ecef" stroke-width="1" rx="4"/>
     <svg x="8" y="8" width="32" height="32" viewBox="0 0 24 24">
       
